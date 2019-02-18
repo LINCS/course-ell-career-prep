@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="188" moduleid="5286" modulename="lesson" contextid="16188">
+  <lesson id="188">
+    <course>139</course>
+    <name>Unit 3: Part 1: Six Steps to Contextualized Instruction and Teaching-Learning Framework</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1445273662</timemodified>
+    <pages>
+      <page id="1100">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1113</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445289978</timecreated>
+        <timemodified>1445295464</timemodified>
+        <title>Contextualized Curriculum: Six Steps</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/WhiteStairs.jpg" width="450" height="450" alt="stairs isolated on white background" /&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3030.mp3"&gt;ELL_Mod3_3030.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;i&gt;Contextualization&lt;/i&gt; simply means connecting work, career, and technical concepts to help students be ready for the next step in their working lives. Contextualizing your curriculum to career pathways allows you to incorporate the concepts, language, and vocabulary used in employment and training contexts into an English-language-acquisition curriculum. This segment offers you ideas and strategies for creating a set of learning experiences that prepare students for success in career and technical education, and ongoing success in the workplace. Remember that you do not need to become a technical expert to do this work, but the more you immerse yourself in the subjects your students will study, the easier it will be to generate examples and tasks that feel authentic.&lt;/p&gt;
+&lt;p&gt;This segment offers six steps that you may consider when you create your own syllabus or course outline. The segment also offers a special focus on classes that are linked to a technical course or a specific career pathways and shows you how to contextualize language and literacy by identifying the tasks and activities that students need to engage in during training or at work. You will also find ideas on infusing training-related vocabulary, concepts, and tasks into language learning. Remember that preparing students for career pathways is a localized effort that benefits from collaboration with other providers, employers, and agencies, such as workforce boards. All can offer you insights into the training opportunities that exist, so that your students are better prepared to find good jobs with good wages.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2232">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445289978</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1113">
+        <prevpageid>1100</prevpageid>
+        <nextpageid>1101</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649767</timecreated>
+        <timemodified>1449505637</timemodified>
+        <title>Step 1: Identify Potential Career Pathways</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="line-height: 1.231;"&gt;Listen to audio&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3040.mp3"&gt;ELL_Mod3_3040.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Career pathways don’t just exist in the abstract. They are part of local efforts to educate, train, and support vulnerable adults looking for work with wages that can sustain a family. To find out what pathways exist in your community for students who are not yet proficient in English may require collaboration with others, such as training providers (many of the community colleges), workforce boards, and employers. Work with others to identify employers looking for individuals with good values and a willingness to work hard, even if these adults don’t speak perfect English.&lt;/p&gt;
+&lt;p&gt;Try to meet with teachers and others from agencies that serve immigrants and refugees to find out what jobs their clients have held and what their goals and dreams are. Identify two or three job sectors that might interest current and potential students. Consider sectors where English learners tend to concentrate, such as health care, logistics and transportation, or IT. In some areas manufacturing jobs show promise. Since you cannot prepare students for all potential opportunities, engage learners themselves in exploring the fields that interest them and report back to the class.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Consider jobs in your area for which training is available. Identify employers that are part of a growth industry or meet with industry associations. Find out which companies offer good jobs that do not require full English proficiency. (The brief below offers ideas for engaging employers.) &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Meet with members of your Workforce Board to get insights into local job trends and review what colleges offer in the area of Career and Technical Education. Identify pathways that seem appropriate for English learners. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Conduct community-wide outreach and work with immigrant-serving agencies to conduct career-related interest inventories.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Engaging Employers to Support Adult Career &lt;span id="docs-internal-guid-73c67227-a90f-d603-dd3a-e91ef59bc019"&gt;Pathways Programs: &lt;a href="http://lincs.ed.gov/publications/pdf/acp/Engaging_Employers_IssueBrief.pdf" title="Engaging Employers" target="_blank"&gt;Issues Brief&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2207">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649767</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2233">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649767</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1102">
+        <prevpageid>1101</prevpageid>
+        <nextpageid>1103</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649881</timecreated>
+        <timemodified>1449614387</timemodified>
+        <title>Step 3: Meet With Technical Instructor/Observe Class</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3060.mp3" title="ELL_Mod3_3060.mp3"&gt;ELL_Mod3_3060.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The content for your course may be fairly general, focusing on one or two employment sectors, or it may be focused on a specific training course. For example, your students may be co-enrolled in a vocational–technical course and also in your ESL course, or you may be team-teaching with a technical instructor as part of an Integrated Basic Education and Skills Training (I-BEST) model.&lt;/p&gt;
+&lt;p&gt;If your ELA course is linked to a specific training course or a set of courses, you probably want to meet with a technical instructor and ask to visit a class, observe, and take notes. These notes, along with the textbooks used in the class, can guide you in the development of the contextualized ELA course you plan to develop. If you are familiar with content-based instruction, you may have heard about SIOP [sai-op], or Sheltered Instruction Observation Protocol. Although the model does not address career content, it may nevertheless help you think about the language skills students need to succeed in training. There is a link (on this page); so you can add SIOP to your list of resources.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Ask to observe a technical class and note what students need to do in the class (listen to a lecture, take notes, work in pairs, fill out forms, read long chapters).&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Use an observation tool and list content, process, and learning tasks. For each component of the class, identify the language and literacy skills needed to manage content. Take note of essential vocabulary, sentence structure, and expressions.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Identify key language functions used in the class. These might include understanding and explaining processes, asking for clarification, charting procedures, or using safety measures. List the technology students are expected to use in class and for assignments, and identify the digital literacy skills that are needed for the technology.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For more information on integration of language and literacy skills with academic content, see &lt;a href="http://www.cal.org/siop/faqs/index.html" title="Integration of Language and Literacy Skills" target="_blank"&gt;http://www.cal.org/siop/faqs/index.html&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2210">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649881</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2211">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649881</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1103">
+        <prevpageid>1102</prevpageid>
+        <nextpageid>1104</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649912</timecreated>
+        <timemodified>1445273067</timemodified>
+        <title>Step 4: Develop Scope and Sequence </title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3070.mp3"&gt;ELL_Mod3_3070.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;After you have a good sense of the language and literacy skills your students will need (including critical vocabulary), it is time to sequence skills, functions, and tasks. Don’t forget the digital literacy skills your students must acquire to succeed in a modern workplace or in postsecondary training and show whether these will be developed in class or students are expected to learn them independently—through online practice, for example.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Create an organizational structure for the topics, skills, and strategies to be taught in your course and sequence them.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Determine the number of units to be developed and tie them together in a logical flow by themes or skill areas.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Include a set of authentic materials and other resources for teachers to use. Remember to offer enough flexibility so that teachers can adapt lessons to the needs of their students, including high-skilled and low-skilled ELLs.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2212">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649912</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2213">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649912</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1104">
+        <prevpageid>1103</prevpageid>
+        <nextpageid>1105</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649972</timecreated>
+        <timemodified>1445273111</timemodified>
+        <title>Step 5: Outline Learning Opportunities</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3080.mp3"&gt;ELL_Mod3_3080.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;By now, you should have a good sense of the language and literacy skills students need in order to succeed in a training course or at work. As you review your list, be sure to include communication skills and information literacy, as well as skills related to self-management, teamwork, and the use of career-related resources. All these are part of the workforce preparation skills listed in the Workforce Innovation and Opportunity Act. Don’t forget to include skills related to learning how to learn (note taking, navigating textbooks, self-assessment, and reflection).&lt;/p&gt;
+&lt;p&gt;Now is the time to consider how you will teach these contextualization skills and what you will ask students to do so that they can internalize knowledge and skills. Create tasks and other opportunities for learning that keep students engaged; have them use critical skills across themes; and give them a chance to work with others to analyze, synthesize, and problem-solve. Remember, you want to engage students in deeper learning and strategic thinking, and you want them to apply what they are learning, not just memorize technical vocabulary or practice grammar structures.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Now consider what it takes to develop these skills and create a set of learning opportunities that you think students should have so that they can successfully develop these skills. Create a flow that allows for peer tasks at various points in a lesson to keep students engaged.  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;In the next segment, you will find a great many ideas and suggestions to help you.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2214">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2215">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1105">
+        <prevpageid>1104</prevpageid>
+        <nextpageid>1106</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441650862</timecreated>
+        <timemodified>1445273159</timemodified>
+        <title>Step 6: Select or develop materials</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3090.mp3"&gt;ELL_Mod3_3090.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;As you create teaching materials, consider starting with high-interest topics and relating them to student interests and experience. For example, a health care unit may include a project that has students identify communicable diseases and the ways they are treated; a construction unit could start with common home repair and remodeling needs; and a manufacturing theme could include a discussion of computer-mediated machines that students believe will shape our lives (e.g., robots, autonomous cars, web-based watches).&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Review curricula in the area you have selected and choose or create several contextualized units that illustrate the teaching and learning process you envision. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Be sure to include challenging activities and materials for independent learning for students whose prior education or professional experience will allow them to learn faster.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2216">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441650862</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2217">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441650862</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1106">
+        <prevpageid>1105</prevpageid>
+        <nextpageid>1107</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441651422</timecreated>
+        <timemodified>1445103500</timemodified>
+        <title>Rate Your Course Development</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Look a the chart and think about how strong your program is in each area.  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Now it’s your turn to consider how prepared you are to have a contextualized course in place. How strong are you in each of the six steps? Do you think your program is doing very well, or are there some gaps? Here is your chance to rate your efforts and outline what you might do next. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;This chart is also available as a Word document: Curriculum Development: &lt;a href="@@PLUGINFILE@@/M3U3_CurriculumDev_508.docx" title="Curriculum Development"&gt;How Are We Doing? and Next Steps&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;table border="1" cellpadding="3" cellspacing="3" align="center"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;&lt;/th&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;&lt;span style="color: #ffffff;"&gt;Domain&lt;/span&gt;&lt;/th&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;&lt;span style="color: #ffffff;"&gt;Very Well&lt;/span&gt;&lt;/th&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;&lt;span style="color: #ffffff;"&gt;Well Enough&lt;/span&gt;&lt;/th&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;&lt;span style="color: #ffffff;"&gt;Getting There&lt;/span&gt;&lt;/th&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;&lt;span style="color: #ffffff;"&gt;Not Well&lt;/span&gt;&lt;/th&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;&lt;span style="color: #ffffff;"&gt;Our Plan for Getting There&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;1&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;Identifying potential career pathways appropriate for our students.&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;2&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;Becoming familiar with one or more occupational areas.&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;3&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;Interviewing training instructors and observing technical classes.&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;4&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;Developing scope and sequence for a contextualized curriculum.&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;5&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;Creating a common lesson flow for teachers.&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;6&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;Selecting or developing materials for the contextualized courses.&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2218">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441651422</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2219">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441651422</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1107">
+        <prevpageid>1106</prevpageid>
+        <nextpageid>1108</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444959095</timecreated>
+        <timemodified>1445183187</timemodified>
+        <title>Reflection questions</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Think about your students and their experiences in a particular field, either as workers or clients/consumers.  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Then think about how you can connect what students already know to the new knowledge and skills they need to acquire in a trade or profession.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;1. What experiences have your students had in the trades that you can build on? How can you find out? &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt; 2. What expressions, language structures, and vocabulary can your lessons focus on for beginning, intermediate, or advanced students?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt; 3. What site visits or guest speakers could you arrange for students? How can you draw their attention to the vocabulary and expressions used in the occupation?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;span&gt;&lt;span style="line-height: 1.231;"&gt;NOTE: For ideas on language and vocabulary essential to jobs in the trades, choose several occupations from the ONET list at &lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;a href="http://www.onetonline.org/find/quick?s=trades" title="essential vocabulary" target="_blank"&gt;http://www.onetonline.org/find/quick?s=trades&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2220">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444959095</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2221">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444959095</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1108">
+        <prevpageid>1107</prevpageid>
+        <nextpageid>1114</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445291054</timecreated>
+        <timemodified>1445296128</timemodified>
+        <title>A Teaching-Learning Framework for Contextualization</title>
+        <contents>&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;&lt;img src="@@PLUGINFILE@@/Mod3_U3_21.jpg" width="450" height="300" alt="two students practicing CPR with dummy" style="display: block; margin-left: auto; margin-right: auto;" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;Listen to audio&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3110.mp3"&gt;ELL_Mod3_3110.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;You probably have plenty of ideas for activities that can be adapted to contextualization. But perhaps you’ve not had time to think about how they might fit together into a coherent framework for teaching and learning. This section can help you think about the bigger picture, focused not only on what to teach but on why to select certain strategies over others.&lt;/p&gt;
+&lt;p&gt;You will see a table with ideas for scaffolding instruction and a lesson flow with ideas on sequencing learning experiences for deeper learning. You’ll find “Tips for Teaching,” as well as “Bright Ideas” that present sound practices from the field. Handouts, videos, and illustrations should help bring these examples to life.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2234">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445291054</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2235">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445291054</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1114">
+        <prevpageid>1108</prevpageid>
+        <nextpageid>1109</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444959156</timecreated>
+        <timemodified>1445296034</timemodified>
+        <title>Balancing Instructional Elements</title>
+        <contents>&lt;p&gt;Listen to Audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3120.mp3"&gt;ELL_Mod3_3120.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Even advanced English learners may be challenged by the abstract concepts, sophisticated vocabulary, and complex sentence structures used in career and technical education. Students who are used to highly interactive teaching and learning may get lost when they have to listen to a lecture and may feel overwhelmed by the amount of material they are expected to read and retain. English learners at lower levels of proficiency understand and create personal stories but may have limited experience with informational texts. These students often lack the strategies needed to interpret charts and graphs or make sense of tables. Students who have learned high-frequency words may be baffled by relatively common vocabulary used in textbooks—vocabulary such as assembly, flow, overhead, or turnover. To prepare students for technical classes, you may need to use a series of scaffolding strategies that help students move from understanding and using everyday language to the academic language of work and training. This chart shows how you can balance the use of relatively low-challenge elements with teaching high-challenge learning elements. Lower skilled students, in particular, may benefit from having you offer scaffolding that helps them move from familiar topics, texts, and tasks to understanding more complex and abstract materials.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; font-family: arial, helvetica, sans-serif;"&gt;&lt;span style="line-height: 1.231;"&gt;The chart shows how to balance the use of low-challenge elements with teaching high-challenge learning elements&lt;/span&gt;&lt;span style="line-height: 1.231;"&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="10" cellspacing="10" align="center" style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th style="border-color: #000000; background-color: #19568b;" scope="colgroup"&gt;&lt;span style="font-size: small; color: #ffffff;"&gt;Factor&lt;/span&gt;&lt;/th&gt;&lt;th style="border-color: #000000; background-color: #19568b;" scope="colgroup"&gt;&lt;span style="font-size: small; color: #ffffff;"&gt;Low challenge&lt;/span&gt;&lt;/th&gt;&lt;th style="border-color: #000000; background-color: #19568b;" scope="colgroup"&gt;&lt;span style="font-size: small; color: #ffffff;"&gt;High challenge&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000; background-color: #fff2b5;" scope="row"&gt;&lt;span style="font-size: small;"&gt;Context&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: small;"&gt;Familiar&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: small;"&gt;New&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000; background-color: #fff2b5;" scope="row"&gt;&lt;span style="font-size: small;"&gt;Reading task&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: small;"&gt;Highly structured&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: small;"&gt;Minimally defined&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000; background-color: #fff2b5;" scope="row"&gt;&lt;span style="font-size: small;"&gt;Reading process&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: small;"&gt;Highly facilitated&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: small;"&gt;Independent&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000; background-color: #fff2b5;" scope="row"&gt;&lt;span style="font-size: small;"&gt;Content/concepts&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: small;"&gt;Concrete&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: small;"&gt;Abstract&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000; background-color: #fff2b5;" scope="row"&gt;&lt;span style="font-size: small;"&gt;Prompts&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: small;"&gt;Visual&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: small;"&gt;Print based&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000; background-color: #fff2b5;" scope="row"&gt;&lt;span style="font-size: small;"&gt;Teacher explanation&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: small;"&gt;Demonstration&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: small;"&gt;Theoretical &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000; background-color: #fff2b5;" scope="row"&gt;&lt;span style="font-size: small;"&gt;Vocabulary&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: small;"&gt;Common&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: small;"&gt;Sophisticated&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000; background-color: #fff2b5;" scope="row"&gt;&lt;span style="font-size: small;"&gt;Sentence structure&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: small;"&gt;Simple&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: small;"&gt;Complex&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000; background-color: #fff2b5;" scope="row"&gt;&lt;span style="font-size: small;"&gt;Text type&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: small;"&gt;Prose&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: small;"&gt;Text with charts and graphs&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Literacywork International. Copyright 2015 by Literacywork International. American Institutes for Research used with permission from Literacywork International.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2222">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444959156</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2223">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444959156</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1110">
+        <prevpageid>1109</prevpageid>
+        <nextpageid>1111</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444959292</timecreated>
+        <timemodified>1446851705</timemodified>
+        <title>Learning Needs of ELLs in Career Pathway Programs</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3130.mp3"&gt;ELL_Mod3_3130.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Learning another language is a complex task, made even more complicated when new concepts and ideas are introduced. Language learners in a contextualized class face a considerable challenge: If they are to develop the language skills needed to understand and apply career-oriented information, they must acquire sufficient English skills to understand and apply information, while at the same time increasing both their receptive and expressive vocabularies related to career concepts. You probably know that deeper learning is possible when students are cognitively engaged and work together on meaningful tasks. You might also know that English learners benefit when they have a chance to focus on form and see how English works. Finally, students need a chance to reflect on what they are learning and offer the teacher feedback on what helped them learn and what confused them. The eight elements of the lesson flow you see next capture the opportunities for learning you might want to provide to your students to help them build the knowledge and skills important in for success beyond the ELA classroom.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;To learn more fully, students need the opportunity to:&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Build on their prior knowledge and experience.&lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Practice both global listening and listening for details.&lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Assess their comprehension of material presented by an instructor or in a video.&lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Understand a task and see it demonstrated.&lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Receive guidance in how to carry out a task.&lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Practice training-related tasks with peers.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Make sense of the vocabulary and structure of English commonly used in training. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Assess their own skills in using contextualized English and provide feedback to the instructor.&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2226">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444959292</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2227">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444959292</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1111">
+        <prevpageid>1110</prevpageid>
+        <nextpageid>1112</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444959351</timecreated>
+        <timemodified>1446851689</timemodified>
+        <title>An Evidence-Based Lesson Flow for Contextualization</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3140.mp3"&gt;ELL_Mod3_3140.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Lesson plans, or lesson flows, show how teaching and learning events are sequenced as part of a unit. The sequence you see here is one of many, and you may have an order of activities that works for you. This particular lesson flow borrows principles from studies in learner engagement, embedded teaching, and situated learning, and reflects principles of task-based instruction. The strategies for modeling and guided practice are adapted from research in explicit teaching.&lt;/p&gt;
+&lt;p&gt;Of course, this is only one example of a lesson flow—but one that has been used or adapted by several programs and agencies across the United States, including the Ready To Work program in Seattle, Washington, sustained professional development for ESL in the state of Indiana, and the Literacy Coalition of Central Texas as part of their national English Forward Training.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This lesson flow, adapted for career-infused contextualized learning, is informed by research in adult language acquisition, project-based learning, literacy development, and content-based instruction.&lt;/span&gt;&lt;/p&gt;
+&lt;h3 dir="ltr" style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;Lesson Flow for Contextualized Learning&lt;/span&gt;&lt;/h3&gt;
+&lt;table border="0" cellpadding="5" cellspacing="5" align="center" style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000; text-align: center; background-color: #19568b;" scope="rowgroup"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Activating background knowledge&lt;/span&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: xx-large;"&gt;→&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000; text-align: center; background-color: #19568b;" scope="rowgroup"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Presentation (video or mini-lecture)&lt;/span&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: xx-large;"&gt;→&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000; text-align: center; background-color: #19568b;" scope="rowgroup"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Comprehension check&lt;/span&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: xx-large;"&gt;→&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000; text-align: center; background-color: #19568b;" scope="rowgroup"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Demonstration of task&lt;/span&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: xx-large;"&gt;→&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="8" style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000; text-align: center; background-color: #19568b;" scope="rowgroup"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Guided practice&lt;/span&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: xx-large;"&gt;→&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000; text-align: center; background-color: #19568b;" scope="rowgroup"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Peer-to-peer task&lt;/span&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: xx-large;"&gt;→&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000; text-align: center; background-color: #19568b;" scope="rowgroup"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;How English works&lt;/span&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: xx-large;"&gt;→&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000; text-align: center; background-color: #19568b;" scope="rowgroup"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Assessment and feedback&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span id="docs-internal-guid-a3bd83bf-76e8-23ee-5e9d-c5e47f79ff32"&gt;&lt;span&gt;Lesson Flow developed by Literacywork International; Image: Literacywork International, used with permission &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2228">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444959351</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2229">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444959351</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1112">
+        <prevpageid>1111</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444959457</timecreated>
+        <timemodified>1445273545</timemodified>
+        <title>Reflection questions</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Examine the various elements of this lesson flow critically and compare it with the current sequence of activities you are using. Consider the learning opportunities each provides.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;&lt;span style="line-height: 1.231;"&gt;1. How does this flow of learning opportunities compare with the format of your current lesson plans? What are advantages or shortcomings of each?&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;2. What learning experiences might your students be missing in your current lesson plans? What’s missing in this particular lesson flow?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;3. Where in your current lessons do you help students understand how English works? Are you satisfied with your model? What might you change?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54680"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681" style="color: #666699; font-size: medium; line-height: 1.231;"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;&lt;span style="color: #666699; font-size: medium; line-height: 1.231;"&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2230">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444959457</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2231">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444959457</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1101">
+        <prevpageid>1113</prevpageid>
+        <nextpageid>1102</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649819</timecreated>
+        <timemodified>1446851651</timemodified>
+        <title>Step 2: Familiarize Yourself With the Occupational Area</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3050.mp3"&gt;ELL_Mod3_3050.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;After you have identified possible job clusters to focus on, dig a little deeper and familiarize yourself with the concepts and language that training for a specific industry might entail. There are a vast number of resources that you can consult, including online videos, textbooks, and websites, although most of them may not be readily accessible to students new to the field. You may want to start with materials written for laypeople to build up your own background knowledge.&lt;/p&gt;
+&lt;p&gt;High school textbooks might be a good starting point if you plan to offer a bridge class to prepare students for a specific field, like healthcare or manufacturing. Check out the tasks that students in a course are expected to complete. For example, students may need to follow directions, take measurements, explain a process, interpret a chart, or label parts of a machine. Some texts also contain narratives, such as case histories or incident reports that require higher order comprehension skills like analyses or inferences.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Visit campus bookstores and browse the Internet for videos that teach related skills. Visit a teacher supply store that stocks high school texts for career and technical education. Interview technical instructors and find out what materials are challenging for ELLs.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Collect samples of authentic texts. Texts may include articles in magazines, paragraphs in textbooks, charts and tables, instructions, and illustrations that seem fairly typical and written at a level accessible to your students.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The texts you select should be in what’s called the "instructional zone", a level slightly above the current proficiency of your students but not so complex that learners are frustrated.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2208">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2209">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1109">
+        <prevpageid>1114</prevpageid>
+        <nextpageid>1110</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444959225</timecreated>
+        <timemodified>1449881700</timemodified>
+        <title>Reflection questions</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Select a technical text or find information on the Internet related to a career topic (health, construction, IT).&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;1. What language or concepts in the text might prove challenging for ELLs?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;2. What would you do to build students’ background knowledge?  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;3. What tasks or activities would you create to scaffold the more challenging parts of the information?  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium; line-height: 19.696px;"&gt;Note: The attached document (&lt;/span&gt;&lt;a href="@@PLUGINFILE@@/M3U3_S_ELA_TeachingStrategy_508.docx" title="Scaffolding and Balancing Instructional Elements" style="font-size: medium; line-height: 19.696px;"&gt;ELA Strategy: Scaffolding and Balancing Instructional Elements&lt;/a&gt;&lt;span style="font-size: medium; line-height: 19.696px;"&gt;) explains how to balance the various elements of a class. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2224">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444959225</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2225">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444959225</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

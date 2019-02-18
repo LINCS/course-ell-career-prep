@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="191" moduleid="5294" modulename="lesson" contextid="16196">
+  <lesson id="191">
+    <course>139</course>
+    <name>Unit 4: Introduction</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1441649580</timemodified>
+    <pages>
+      <page id="1151">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1157</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445292474</timecreated>
+        <timemodified>1446851875</timemodified>
+        <title>Welcome</title>
+        <contents>&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/15-3040_v02%20ELL_Module03_03512.001.02%20lvr%20FNL.jpg" width="450" height="435" alt="Graphic displays the four units and two pathways that make up Module 3, Preparing English Learners for Work and Career Pathways. All users must start by finishing Unit 1, Understanding Key Concepts. After finishing Unit 1, administrators and others take Unit 2 (Program Design: Issues and Options) and then Unit 4 (Capturing What Counts: Program Evaluation). After finishing Unit 1, teachers and others take Unit 3 (Bright Ideas for Curriculum and Instruction) and then Unit 4 (Capturing What Counts: Learner Assessment)." /&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4010.mp3"&gt;ELL_Mod3_4010.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Welcome to the unit on Evaluation and Assessment. You probably know quite a bit about this topic, but here are some ideas, tools, and strategies that you may not have used—ideas like working with your partners to carry out a community needs assessment or to conduct a focus group with potential and current learners.&lt;/p&gt;
+&lt;p&gt;The “Bright Ideas” from the field and the examples of alternative assessments can help inspire you to find new ways of knowing what students know and capturing outcomes more broadly. Perhaps this unit will help you define success in career pathway preparation from different perspectives, including the perspective of partners, teachers, and program directors—and most important, perhaps, the perspective of ELL students who bring their hopes for a good job and a promising career to your program. ELA teachers and instructors teaching career/technical training courses need professional development (PD) that helps them meet the needs of career pathway students.&lt;/p&gt;
+&lt;p&gt;The research in teaching suggests that a good teacher is often a strong factor in student achievement. But how do you know whether the PD training your teachers attend makes a difference in their knowledge and skills, leads to changes in teaching, and influences what students learn?&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2317">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445292474</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1157">
+        <prevpageid>1151</prevpageid>
+        <nextpageid>1152</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649767</timecreated>
+        <timemodified>1445292515</timemodified>
+        <title>Audience and Focus</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061550960%20-%20Silhouettes%20Group%20of%20People%20in%20a%20Row%20Vector.jpg" width="300" height="305" alt="" style="float: right; margin: 5px;" /&gt;Unit 4 is designed for two audiences:&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Users interested in issues of continuous improvement and community needs assessment focused on English language learners (ELLs) in the workforce&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Users looking for ideas and examples of alternative learner assessment applied to instruction that is contextualized for work and careers&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Administrators can benefit from reviewing the continuous improvement model and involving teachers in the program evaluation process.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Teachers can gain a greater understanding of the evaluation process and find new tools and bright ideas for alternative learner assessment.  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Content in this unit complements the content in Units 1, 2 and 3 in this module. It also complements Modules 1 and 2 in this series. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Module 1: Meeting the Language Needs of Today’s Adult English Language Learner&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Module 2: Integrating Digital Literacy Into Adult English Language Instruction  &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2306">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649767</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2318">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649767</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1153">
+        <prevpageid>1152</prevpageid>
+        <nextpageid>1154</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649881</timecreated>
+        <timemodified>1445107792</timemodified>
+        <title>Objectives</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549724%20-%20Objectives%20List.jpg" width="300" height="200" alt="" style="float: right; margin: 5px;" /&gt;After completing the entire unit, you should be able to do the following: &lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Generate a set of questions to ask as part of your program evaluation.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;List the phases of a continuous improvement process.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Identify partners in conducting a community needs assessment.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Name the five stages in evaluating the effects of professional development.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Describe the benefits of alternative assessments.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Adopt at least two ideas for assessing your students.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2309">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649881</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2310">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649881</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1154">
+        <prevpageid>1153</prevpageid>
+        <nextpageid>1155</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649912</timecreated>
+        <timemodified>1471554205</timemodified>
+        <title>Interactivity</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4030.mp3"&gt;ELL_Mod3_4030.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;This unit is designed to increase your background knowledge and offer you ideas and tools you can use. Preassessments of this sort are examples of affirmative testing, finding out what students know before you start a unit in order to help students focus and help yourself differentiate your instruction on the basis of what students are telling you.&lt;/p&gt;
+&lt;p&gt;Reflection notes should help you think more deeply about what you are learning and make the connection to your own class. In that sense, the students become another form of self-assessment, telling you whether the ideas you have encountered make sense for your students and your program.&lt;/p&gt;
+&lt;p&gt;You are invited to download a number of tools.&lt;/p&gt;
+&lt;p&gt;You’ll see a summary chart to capture students’ experiences and skills and a matrix to help you identify potential barriers to students’ participation . Both tools illustrate how other programs in the field are documenting needs.&lt;/p&gt;
+&lt;p&gt;You are also invited to download two sets of can-do lists: One list outlines digital literacy skills that students may nor may not have, and the second looks at Ready To Work skills. You can download these assessments and make them your own. These lists can be used by students, as well as by observers. Results, especially if used by several classes over a span of time, can become an important part of a program evaluation. students’ participation? Or teachers’ own participation (“your own”)?&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549730%20-%20Conceptual%20image%20of%20businessteam%20working%20cohesively.%20Interaction%20and%20unity.jpg" width="393" height="275" alt="xxxxxx" style="float: right; margin: 5px;" /&gt;This unit offers several opportunities to interact with the material. It will give you a chance to &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Identify what you can do with confidence as part of a pre- and post-assessment &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Reflections: Consider questions related to evaluation and assessment and capture your ideas&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Download and view assessment documents developed by programs in the field&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;&lt;span style="font-size: medium;"&gt;Download an example of two Can-do competency lists that you can adapt.&lt;/span&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2311">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649912</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2312">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649912</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1155">
+        <prevpageid>1154</prevpageid>
+        <nextpageid>1156</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649972</timecreated>
+        <timemodified>1445292766</timemodified>
+        <title>Guiding Questions</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;br /&gt;&lt;img src="@@PLUGINFILE@@/Certificate.jpg" width="250" height="193" alt="&amp;quot;&amp;quot;" style="float: right; margin: 5px;" /&gt;&lt;span style="font-size: medium;"&gt;&lt;span&gt;To earn a certificate of completion for this unit, you will need to work your way through the sections in this unit.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2313">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2314">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1156">
+        <prevpageid>1155</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445108064</timecreated>
+        <timemodified>1445292813</timemodified>
+        <title>Can-Do Pre-Assessment</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;To help you focus on areas that are new to you, take this quick self-assessment. You will have a chance to take this assessment again as a post-test at the end of the unit.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Consider if the following statements are No Problem, Sort of a Problem or Not at all a Problem for you:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span id="docs-internal-guid-f19d1080-7726-38a7-1824-220d44363acf"&gt;&lt;strong&gt;Statement 1&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; I can list key considerations for conducting needs assessments and focus groups with ELLs.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span id="docs-internal-guid-f19d1080-7726-5b23-324a-e6b7a13a77ea"&gt;&lt;strong&gt;Statement 2&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; I can identify the qualitative and quantitative data to examine as part of a program review.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="margin-left: 30px;"&gt;&lt;span id="docs-internal-guid-f19d1080-7726-7853-e89b-64af0b5d3054" style="font-size: medium;"&gt;&lt;strong&gt;Statement 3&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; I can outline key areas to address as part of a pre-program holistic learner assessment.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="margin-left: 30px;"&gt;&lt;span&gt;&lt;span id="docs-internal-guid-f19d1080-7726-94f7-4654-034d618c6fea"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Statement 4&lt;/strong&gt;&lt;/span&gt;&lt;span&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;:&lt;/strong&gt; I can describe at least three strategies to assess students interested in career pathways.&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54680"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54682"&gt;&lt;span style="color: #666699;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2315">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445108064</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2316">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445108064</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1152">
+        <prevpageid>1157</prevpageid>
+        <nextpageid>1153</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649819</timecreated>
+        <timemodified>1445296729</timemodified>
+        <title>Overview</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/360%20Degrees.jpg" width="250" height="196" alt="360 Degrees" style="display: block; margin-left: auto; margin-right: auto;" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Here you will find a discussion of continuous improvement, a process that should involve administrators, teachers, and partners who provide data and information gathered from different perspectives. You may know this process as a 360 evaluation.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;In many areas, much of the discussion on continuous improvement is focused on conducting periodic needs assessments in the community, as well as focus groups with learners. Both needs assessments and focus groups ensure that your program responds to up-to-date information and that program components take into account the reality of learners’ lives.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2307">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2308">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

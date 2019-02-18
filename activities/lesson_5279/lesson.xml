@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="186" moduleid="5279" modulename="lesson" contextid="16181">
+  <lesson id="186">
+    <course>139</course>
+    <name>Unit 2: Part 4: Creating a Vision for Your Program</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1441649580</timemodified>
+    <pages>
+      <page id="1090">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1091</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649767</timecreated>
+        <timemodified>1447095445</timemodified>
+        <title>A Vision for Your Program</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2210.mp3"&gt;ELL_Mod3_2210.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The Deeper Learning Model is receiving a lot of attention in K-12 education but its approach has merit for Adult Education as well. The graphic represents its Theory of Action and highlights (1) the need for a strong school culture and (2) a professional learning community that includes teachers. It also emphasizes the importance of creating meaningful learning experiences (3) and of focusing on outcomes that capture meaningful learning that goes beyond knowing facts and using lower level cognitive skills.&lt;/p&gt;
+&lt;p&gt;Now think about your own situation and create a sketch of your vision for a high quality program for English learners preparing for work and transition to career pathways. What components do you need to consider that affect the success of such a program? What role might your partners play? How do you see support services and advising fit into the picture?&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Deeper%20Learning.png" width="501" height="760" alt="Deeper Learning Graphic showing four components of the Theory of Action" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;As illustrated in the infographic, the four components of deeper learning are:&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Create a strong &lt;span style="text-decoration: underline;"&gt;school culture&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Teachers function as professionals in a &lt;span style="text-decoration: underline;"&gt;collaborative community&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Teachers design &lt;span style="text-decoration: underline;"&gt;meaningful learning experiences&lt;/span&gt; for students:&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Students demonstrate the mastery of knowledge and skills&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Learning is related to real life.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Learning is aligned to standards and deeper learning outcomes.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Learning has coherence and meaning.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Deliberate practice of &lt;span style="text-decoration: underline;"&gt;deeper learning outcomes&lt;/span&gt; for students:&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Work collaboratively&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Academic mindset&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Learning to learn&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Master core knowledge&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Communicate effectively&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Think critically and solve complex problems&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;The result of deeper learning is students leave school with how, when, and why to apply skills and knowledge to face challenges of college, career, and life.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;The new direction toward a greater emphasis on skills related to work and careers also offers opportunities to reconceptualize ELA services.  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Think about the changes you envision making that will transform your program, engage teachers and staff, and broaden the employment prospects for students. How can you create a culture of learning for your entire program and how can you involve other partners to make your program a success?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2189">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649767</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1091">
+        <prevpageid>1090</prevpageid>
+        <nextpageid>1092</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649819</timecreated>
+        <timemodified>1445287138</timemodified>
+        <title>Sketch a Vision for Your Program</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2220.mp3"&gt;ELL_Mod3_2220.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;As you sketch your vision, consider how your career focused services might fit into an overall ELA program that also includes a focus on civics and/or family literacy. The article “From Surviving to Thriving” can offer some ideas to get you thinking.&lt;/p&gt;
+&lt;p&gt;If you like to consider the big picture, consider watching Effective Collaboration in Multi-disciplinary teams. It explains how divergent thinking can result in better ideas and describes the power of collective impact. The video is a bit long but you might find it worthwhile. Feel free to just dip into it and watch as much as is useful to you.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;Download &lt;/span&gt;&lt;em style="line-height: 1.231;"&gt;&lt;a href="@@PLUGINFILE@@/M3U2_S_Survival_Thriving_508.pdf" title="Handout"&gt;From Surviving to Thriving&lt;/a&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;em style="line-height: 1.231;"&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;object width="75%" height="315"&gt;&lt;br /&gt;&lt;embed align="right" width="75%" height="315" src="https://www.youtube.com/v/NsndhCQ5hRY?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: small;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: small;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: small;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: small;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: small;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: small;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;If you like to consider the big picture, consider watching the video &lt;/span&gt;&lt;em style="font-size: small; line-height: 1.231;"&gt;Effective Collaboration in Multi-disciplinary Teams &lt;/em&gt;&lt;span style="line-height: 1.231;"&gt;at https://www.youtube.com/watch?v=NsndhCQ5hRY.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2190">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2191">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1092">
+        <prevpageid>1091</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445101389</timecreated>
+        <timemodified>1445285193</timemodified>
+        <title>Post Self-Assessment</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2230.mp3"&gt;ELL_Mod3_2230.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt; You most likely have gained a great deal of information by completing this unit, not all of which you may be able to remember. Here is your chance to see where you feel confident in your ability to explain and describe key elements of career focused contextualization. If you feel weak in a particular area, feel free to reread particular sections and please share your new knowledge and insights with your colleagues and partners&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Now that you might know a bit more, here is your chance to self-assess what you can do with that knowledge.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="margin-left: 30px;"&gt;&lt;b style="font-size: medium; line-height: 1.231;"&gt;&lt;span id="docs-internal-guid-0f054c75-7665-902b-ef92-e97d40c39e6c"&gt;Statement 1: &lt;/span&gt;&lt;/b&gt;&lt;span id="docs-internal-guid-0f054c75-7665-902b-ef92-e97d40c39e6c" style="font-size: medium; line-height: 1.231;"&gt;I can discuss how the new directions in Adult Education will shape our program services for ELLs&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;b&gt;&lt;span id="docs-internal-guid-0f054c75-7665-b45c-8221-df91f6da1af4"&gt;Statement 2: &lt;/span&gt;&lt;/b&gt;&lt;span id="docs-internal-guid-0f054c75-7665-b45c-8221-df91f6da1af4"&gt;I can list the workforce preparation activities that WIOA highlights&lt;/span&gt;&lt;span id="docs-internal-guid-0f054c75-7665-b45c-8221-df91f6da1af4"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;b&gt;&lt;span id="docs-internal-guid-0f054c75-7665-d42b-10ad-b4574f4bf854"&gt;Statement 3: &lt;/span&gt;&lt;/b&gt;&lt;span id="docs-internal-guid-0f054c75-7665-d42b-10ad-b4574f4bf854"&gt;I can explain the key elements of a comprehensive ELA contextualization program&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;b&gt;&lt;span id="docs-internal-guid-0f054c75-7666-0731-a62e-ca3cf67b7f11"&gt;Statement 4: &lt;/span&gt;&lt;/b&gt;&lt;span id="docs-internal-guid-0f054c75-7666-0731-a62e-ca3cf67b7f11"&gt;I can describe the different models used to prepare ELLs and others for career pathways&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54680"&gt;&lt;span style="color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681" style="font-size: medium; line-height: 1.231;"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2192">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445101389</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2193">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445101389</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

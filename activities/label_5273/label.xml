@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1174" moduleid="5273" modulename="label" contextid="16175">
+  <label id="1174">
+    <name>Please complete the end of unit survey.</name>
+    <intro>&lt;p&gt;Please complete the end of unit survey.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1447864325</timemodified>
+  </label>
+</activity>

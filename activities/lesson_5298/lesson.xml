@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="195" moduleid="5298" modulename="lesson" contextid="16200">
+  <lesson id="195">
+    <course>139</course>
+    <name>Unit 4: Part 4: Can-Do Lists and Project-Based Learning</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1441649580</timemodified>
+    <pages>
+      <page id="1178">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1179</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649767</timecreated>
+        <timemodified>1446852122</timemodified>
+        <title>Assess Knowledge of (Sub)technical Vocabulary</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4200.mp3"&gt;ELL_Mod3_4200.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Students’ ability to understand technical texts depends on many factors, including background knowledge and general English proficiency. But knowing the words that represent key concepts in the field also plays a critical role in comprehension. English learners, in particular, may not only have difficulties with the words specific to a career sector but be new to the words that many English-speaking laypeople know. These may include nouns like precaution or procedure or verbs like rip, tear, evaporate, or condense.&lt;/p&gt;
+&lt;p&gt;Here is an idea: Look through a textbook or a magazine in a field your students want to explore. Identify some of the words that English speakers new to the field would probably understand but your students might not. Invite your students to work in pairs or small groups and explain unfamiliar words to one another.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="5" cellspacing="5" style="width: 320px; height: 482px;" align="right"&gt;&lt;caption&gt;&lt;strong&gt;Nursing Words&lt;/strong&gt;&lt;/caption&gt;&lt;colgroup&gt;&lt;col width="114" /&gt; &lt;col width="48" span="2" /&gt; &lt;col width="48" /&gt; &lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr height="11"&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt; WORD&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt; KNOW&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;
+&lt;p&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;SORT OF KNOW&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;
+&lt;p&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;DON’T KNOW&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr height="30"&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Circulation&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;x&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="11"&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Prevention&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;x&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="11"&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Pathogen&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;x&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="11"&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Blood-borne disease&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;x&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="11"&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Dressing&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;x&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="11"&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Standard precautions&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;x&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="11"&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Monitor&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;x&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="11"&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Diabetes&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;x&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="11"&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;CPR&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;x&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Asking students to self-assess the words they encounter in a lecture or a technical text helps them focus their learning.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Bright Idea:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Select one or more occupational areas and create stacks of vocabulary cards for students.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Have students separate cards with words that they know (i.e., can explain), words that they sort of know (i.e., have seen before), and words that are new to them.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Review each student’s stacks of words and take notes on each student that indicate areas of strong or weak vocabulary. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Invite students to work with one or more partners and have them explain vocabulary to one another.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;To learn more please click on the link for &lt;a href="http://ccsenet.org/journal/index.php/ass/article/view/773" title="Roles of Depth and Breadth" target="_blank"&gt;&lt;em&gt;The Roles of Depth and Breadth of Vocabulary Knowledge in EFL (English as a Foreign Language)&lt;/em&gt;&lt;/a&gt; reading performance.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2356">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649767</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1179">
+        <prevpageid>1178</prevpageid>
+        <nextpageid>1180</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649819</timecreated>
+        <timemodified>1446852137</timemodified>
+        <title>Case in Point: Can-Do Lists</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4210.mp3"&gt;ELL_Mod3_4210.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Competency lists have been around for a long time. You can use them yourself to check off the skills that students have acquired, or you can ask students to self-assess. Since learning is developmental, attaching a rubric to a list helps students (and you!) to identify relative areas of strength and pinpoint learning needs.&lt;/p&gt;
+&lt;p&gt;The list you see here is adapted from a can-do assessment used in the English Innovations program, a model that blends the acquisition of digital tools with game-based English as a second language and group-centered discussions of community issues and events. You can download the list and adapt it to your class. Attached is also a can-do list that outlines Ready To Work skills. This assessment is used in the Ready To Work program in the City of Seattle.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="1" cellpadding="5" cellspacing="5" style="width: 45%; border: 1px solid #000000;" align="right"&gt;&lt;caption&gt;&lt;strong&gt;Technology Can-Do List&lt;/strong&gt;&lt;/caption&gt;&lt;colgroup&gt;&lt;col width="107" /&gt; &lt;col width="38" span="4" /&gt; &lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr height="32"&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="color: #ffffff;"&gt; I CAN . . .&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;
+&lt;p&gt;&lt;br /&gt; &lt;br /&gt;&lt;span style="color: #ffffff;"&gt; YES&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;WITH A LITTLE HELP&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;WITH A LOT OF HELP&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;
+&lt;p&gt;&lt;br /&gt; &lt;span style="color: #ffffff;"&gt;NO WAY&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr height="27"&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Start, restart, or shut down a computer properly&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;x&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="36"&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Use a computer mouse to right and left click and move objects on screen&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;x&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="26"&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Type efficiently on a keyboard using all fingers&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;x&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="36"&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Clean a computer keyboard and screen without damaging the computer&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;x&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="36"&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Plug in an external microphone and headphones&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;x&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="26"&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Adjust the volume of the computer’s speakers&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;x&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="26"&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Insert, play, and eject a CD or DVD&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;x&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="36"&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Plug in and safely eject a USB device, such as a thumb drive or printer&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;x&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="36"&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Connect a computer to a cable that connects to the Internet&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;x&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="36"&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Connect a computer to a wireless Internet connection&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;x&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Can-do lists allow students to self-assess their competencies in the skills of the course. These lists can be used as both pre- and postassessments. They can be designed collaboratively by teachers and students.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Bright Idea&lt;/strong&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;div&gt;&lt;span style="font-size: medium;"&gt;1. Discuss with students what knowledge, skills, and strategies you hope they will take away from the course.&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: medium;"&gt;2. Invite students to tell you what they can do independently or with some or a lot of help.&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: medium;"&gt;3. Work with students to develop a list of can-do statements and a rubric (see attached example).&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: medium;"&gt;4. Ask students to check competencies. Repeat at the end of the course to document progress.&lt;/span&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Examples of can-do lists for &lt;em&gt;&lt;a href="@@PLUGINFILE@@/M3U4_TechCanDo_508.pdf" title="Technology Can-Do"&gt;Technology&lt;/a&gt; and &lt;a href="@@PLUGINFILE@@/M3U4_S39_Work_CanDoList_508.pdf" title="Work Can-Do"&gt;Ready To Work Skills&lt;/a&gt;&lt;/em&gt; that you can adapt.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2357">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2358">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1180">
+        <prevpageid>1179</prevpageid>
+        <nextpageid>1181</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1443282945</timecreated>
+        <timemodified>1446852150</timemodified>
+        <title>Assess Career-Readiness Skills Through Project-Based Learning</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4220.mp3"&gt;ELL_Mod3_4220.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Project-Based Learning (PBL) is one best ways to engage students in developing the 21st-century skills associated with the College and Career Readiness standards. In creating projects, students use multiple skills as they plan, execute, and present their work. You can assess student work through both formative and summative assessments using standards and rubrics. You might design a rubric that captures how well the team works together and share it with the class to get their input both during the process and after the project is completed. You can also work with the class to develop standards outlining the elements of a successful project – elements like key information, clean lay out, compelling graphics, and clear presentations by team members. These standards can be used to both guide production of a project and serve as a final evaluation of the work each team produces.&lt;/p&gt;
+&lt;p&gt;Check out the 10 Tips for Assessing PBL, published by Edutopia—the site funded by the George Lucas Foundation. Although developed for K–12 teaching and learning, many of the ideas can be adapted to adult education.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;If ELLs are to be prepared for the new economy, they will need to demonstrate that they can do the work that professionals do: They must be able to plan, research, present, and implement an idea—and do so both as individuals and as a members of a team. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Bright Idea: &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Engage the class in a career-related project appropriate for the class (e.g., the three best midskill jobs for students like us).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Document each student’s contribution to a particular PBL phase, using a rubric (e.g., strong/weak/did not participate). Use the rubric for all phases of the project: &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Brainstorming ideas&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Planning &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Creating and editing various drafts&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Presenting (in class and to an outside audience)&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Review contributions with individual students. Ask each student to self-assess the knowledge, skills, and strategies acquired by participating in the project.  &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Connect the skills students used in the project to the College and Career Readiness Standards and check off the skills that students are using as part of their project work. &lt;a href="http://lincs.ed.gov/publications/pdf/CCRStandardsAdultEd.pdf" title="CCR Standards" target="_blank"&gt;The College and Career Readiness Standards are available&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For &lt;a href="http://www.edutopia.org/10-tips-assessment-project-based-learning-resource-guide" title="PBL Tips" target="_blank"&gt;10 Tips on Assessing Project Based Learning&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2359">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1443282945</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2360">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1443282945</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1181">
+        <prevpageid>1180</prevpageid>
+        <nextpageid>1182</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1443357235</timecreated>
+        <timemodified>1471907794</timemodified>
+        <title>Exit Cards to Capture Student Responses</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4230_Slide41.mp3"&gt;ELL_Mod3_4230_Slide41.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;You can use exit cards, also known as tickets out the door, in any class and at any level. They are written responses to what happened in class on any given day. In an English Language Acquisition class that prepares students for career pathways, you could focus on the background knowledge that students are acquiring, the language they are learning, or the process they are using to complete a task. For example, you could ask them to explain three key concepts from the lesson or list the strategy that helps them to remember new information, or you could ask if pair work helped or hindered their learning that day. It’s always fun to ask students when they got to an “aha” moment in their learning.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549697%20-%20Stained%20And%20Damaged%20Admission%20Tickets.jpg" width="300" height="199" alt="" style="margin: 5px; float: right;" /&gt;Using exit cards for feedback after a lesson offers teachers and students a chance to “take the temperature of the room,” capture how students feel and identify what they have learned. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Bright Idea&lt;/strong&gt;:  &lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Write a question on the board and ask students to respond on a large card or a piece of paper.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Vary your questions and prompts to include a focus on content (e.g., What is the right ratio of sand to cement in mixing concrete? Please explain more about . . .), as well as on dispositions (I felt stupid today when . . . ; I felt ______ during class today).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For more complex questions or prompts (e.g., Summarize the steps in administering CPR; explain how you can use what you learned in a job or career). Ask students to work in pairs or small groups. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For &lt;a href="http://www.adlit.org/pdfs/strategy-library/exitslips.pdf" title="Exit Card Ideas" target="_blank"&gt;ideas on creating different kinds of exit cards&lt;/a&gt;.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Have you used exit cards with your learners? Share your experience and tips with your Community of Practice, or with your colleagues on the&lt;a href="https://community.lincs.ed.gov/comment/16583#comment-16583" title="ESL Pro Module 4 Unit 4 Discussion Forum, Exit Cards"&gt; LINCS discussion forum&lt;/a&gt;. &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2361">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1443357235</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2362">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1443357235</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1182">
+        <prevpageid>1181</prevpageid>
+        <nextpageid>1183</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1443357324</timecreated>
+        <timemodified>1446852176</timemodified>
+        <title>Reflection Questions</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4230_Slide42.mp3"&gt;ELL_Mod3_4230_Slide42.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Think about the career-focused class you now teach. How might these tickets out the door help you see what students are learning and what they are thinking. Keep in mind that students learn differently, and different tasks and learning processes appeal to different types of learners. How would you use the information from the cards in responding to students? How will it inform your teaching?&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;1. Does the idea of using exit cards appeal to you? What do you see as their benefits? What might be your hesitation in using them? &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;2. If you could sit down with every student after every class, what questions would you ask? &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;3. List at least two prompts or questions you might use as part of the exit card strategy (applied to a career focused class you might teach.)&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2363">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1443357324</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2364">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1443357324</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1183">
+        <prevpageid>1182</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445111483</timecreated>
+        <timemodified>1445293903</timemodified>
+        <title>Can-Do Post-Assessment</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="line-height: 19.696px;"&gt;Here is your chance to think about what you can do now and could not do before engaging the ideas in this unit. Think about where your competence and your level of confidence has increased.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Consider if the following statements are No Problem, Sort of a Problem or Not at all a Problem for you:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span id="docs-internal-guid-f19d1080-7726-38a7-1824-220d44363acf"&gt;&lt;strong&gt;Statement 1&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; I can list key considerations for conducting needs assessments and focus groups with ELLs.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span id="docs-internal-guid-f19d1080-7726-5b23-324a-e6b7a13a77ea"&gt;&lt;strong&gt;Statement 2&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; I can identify the qualitative and quantitative data to examine as part of a program review.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="margin-left: 30px;"&gt;&lt;span id="docs-internal-guid-f19d1080-7726-7853-e89b-64af0b5d3054" style="font-size: medium;"&gt;&lt;strong&gt;Statement 3&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; I can outline key areas to address as part of a pre-program holistic learner assessment.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="margin-left: 30px;"&gt;&lt;span&gt;&lt;span id="docs-internal-guid-f19d1080-7726-94f7-4654-034d618c6fea"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Statement 4&lt;/strong&gt;&lt;/span&gt;&lt;span&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;:&lt;/strong&gt; I can describe at least three strategies to assess students interested in career pathways.&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;span style="line-height: 1.231;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #666699;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;span style="line-height: 1.231;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2365">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445111483</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2366">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445111483</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

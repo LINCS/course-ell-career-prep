@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="185" moduleid="5278" modulename="lesson" contextid="16180">
+  <lesson id="185">
+    <course>139</course>
+    <name>Unit 2: Part 3: Models</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1449779036</timemodified>
+    <pages>
+      <page id="1075">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1076</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444953275</timecreated>
+        <timemodified>0</timemodified>
+        <title>Key Contextualization Models to Consider</title>
+        <contents>&lt;table border="0" align="center" style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p dir="ltr" style="font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 16.0029983520508px;"&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;Approaches to workforce preparation and to contextualizing ELA can be clustered into five main  models.  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 16.0029983520508px;"&gt;&lt;span style="font-size: medium;"&gt;Which approach is selected depends on:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 16.0029983520508px;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Whether student employment goals are focused or still fairly broad (workforce preparation or Bridge program)&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul style="font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 16.0029983520508px;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Employer interest in supporting a program on-site (work based instruction)&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul style="font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 16.0029983520508px;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Level of collaboration with technical faculty ready to engage in joint program planning and team teaching  (concurrent or integrated instruction)&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td style="background-color: #fff2b5;"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;PROGRAM MODELS FOR CONTEXTUALIZATION&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;General Program Development Model&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;1. ELA for Workforce Preparation&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;2. Work Based Instruction&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;3. Concurrent ELA and Job Skills Instruction&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;4. Bridge Program&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;5. Integrated Instruction&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2160">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444953275</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1076">
+        <prevpageid>1075</prevpageid>
+        <nextpageid>1077</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444953460</timecreated>
+        <timemodified>1449881527</timemodified>
+        <title>Model 1: ELA for Workforce Preparation</title>
+        <contents>&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Screen%20Shot%202015-09-13%20at%2010.16.57%20AM.png" width="500" height="393" style="float: right; margin: 5px;" alt="Graphic of a flowchart. The stages from top to bottom are: “Outreach, Assessment, Orientation,” to “ELA and Workforce Readiness Skills,” which is marked as the core activity. Then, there are three options: “Work,” “Bridge Class,” and “Integrated Instruction.” The “Bridge Class” option leads to “Occupational Skills and Training.”" /&gt;If your students are working and want a better job or are interested in work but don’t yet have clear career goals, a general workforce preparation model might make sense for you.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Generally, this model combines the teaching of employment focused language and literacy skills with soft skills.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Instruction focuses on the demands of work and training, including an emphasis on document literacy, integration of digital skills and use of tasks that build cross-cultural competence.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For an example of combining work-related communication skills with critical thinking and cultural awareness, see the &lt;a href="@@PLUGINFILE@@/M3U2_S36_Scenario_Demands_508.docx" title="Demands Handout"&gt;&lt;em&gt;Too Many Demands&lt;/em&gt;&lt;/a&gt; scenario.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p&gt;copyright Heide Spruck Wrigley, Literacywork International. &lt;i&gt;Too Many Demands: Workplace Scenarios, Communication Skills and Problem Solving.&lt;/i&gt; (used with permission)&lt;b&gt;&lt;span style="text-decoration: underline;"&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2161">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444953460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2162">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444953460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1077">
+        <prevpageid>1076</prevpageid>
+        <nextpageid>1078</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444953685</timecreated>
+        <timemodified>1445099806</timemodified>
+        <title>Model 2: Work-Based Instruction</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Screen%20Shot%202015-09-13%20at%2010.18.30%20AM.png" width="550" height="334" style="float: right; margin: 5px;" alt="Graphic of a flowchart. The stages from top to bottom are: “Recruitment, Assessment, and Orientation,” to “Work-Based ELA Contextualized to Current and Future Work,” which is marked as the core activity. Then, there are three options: “Greater Opportunities for Work,” “Additional Work-Based Classes,” and “Transition to Next Step in Pathway.”" /&gt;Work-based ELA models are designed for incumbent workers who need to upgrade their skills in order to expand their employment opportunities. Increasingly, they include components that highlight career pathways and help workers access classes that build their occupational skills along with their literacy skills.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Most quality work-based ELA needs assessments identify work related communication skills (who needs to talk with whom about what?). The assessments address both language learning goals of the workers and the goals of the company for better communication and increased interaction between native speakers of English and ELLs.   &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For an example of a collaboration between an employer and adult ELA providers, see &lt;a href="@@PLUGINFILE@@/M3U2_S37_McDonalds_508.pdf" title="Handout"&gt;&lt;em&gt;McDonald’s English Under the Arches&lt;/em&gt;&lt;/a&gt; report.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Skills for America’s Future. (no date). &lt;i&gt;Case Study: McDonald’s English Under the Arches&lt;/i&gt;. Washington, DC: Aspen Institute. (used with permission)&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2163">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444953685</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2164">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444953685</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1078">
+        <prevpageid>1077</prevpageid>
+        <nextpageid>1079</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444954065</timecreated>
+        <timemodified>1445099738</timemodified>
+        <title>Model 3: Concurrent ELA &amp; Job Skills Instruction</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Screen%20Shot%202015-09-13%20at%2010.23.15%20AM.png" width="550" height="499" alt="Graphic of a flowchart. The stages from top to bottom are: “Recruitment, Assessment, and Orientation,” to two options: “ELA Contextualized to Training” and “Occupational Skills Training,” both are marked as core activities. Both options lead to “Industry Recognized Certificate,” and then to “Job Placement.”" style="margin: 5px; float: right;" /&gt;Formerly known in the ELA field as “adjunct models,” concurrent instruction offers ELA support for ELLs attending an occupations skills course. The ELA course meets separately from the technical course but the curriculum is either jointly developed or informed by the textbooks or syllabi used in the field.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Concurrent enrollment courses are closely linked with the training course. Generally the ELA teacher works closely with the technical instructor to identify the underlying language, vocabulary and cross-cultural skills students need to succeed in the training course.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The concurrent enrollment model draws on research and examples from content-based and sheltered instruction, including the &lt;a href="http://www.cal.org/siop/research/index.html" title="SIOP research" target="_blank"&gt;SIOP model&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2165">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954065</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2166">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954065</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1079">
+        <prevpageid>1078</prevpageid>
+        <nextpageid>1080</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444954192</timecreated>
+        <timemodified>1445279966</timemodified>
+        <title>Model 4: Bridge Program</title>
+        <contents>&lt;p&gt;&lt;span size="3" style="font-size: medium;"&gt;&lt;span style="line-height: normal;"&gt;Listen to audio:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2150.mp3"&gt;ELL_Mod3_2150.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Like concurrent enrollment courses, Bridge programs often include supportive services, strategies for college success and navigation, and employer involvement. They require the ELA instructor to have a deep understanding of the knowledge and skills expected in an occupational area so that language instruction can be properly contextualized.&lt;/p&gt;
+&lt;p&gt;For an extensive discussion on Bridge Programs (though little emphasis on ELLs) see Funding Career Pathways and Career Pathway Bridges.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Screen%20Shot%202015-09-13%20at%2010.25.57%20AM.png" width="550" height="436" alt="Graphic of a flowchart. The stages from top to bottom are: “ELA Contextualized to Workforce Preparation,” to “Bridge Class Contextualized to Training,” which is marked as the core activity. Then, there are three options: “Work,” “High School Equivalency,” and “Occupational Skills Training and Certificate,” the latter of which leads to “Work.”" style="float: right; margin: 5px;" /&gt;Bridge programs may be the most popular model for ELLs who still need intensive language and literacy development before entering a training program that is part of a career pathway. They may prepare students for a specific set of training courses or focus on an industry sector (e.g., health care, construction, transportation).&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;To learn more about this model, please use the resource below from the Center for Postsecondary and Economic Success. (2015). &lt;i&gt;Funding Career Pathways: A Federal Funding Toolkit for State and Local/Regional Career Pathway Partnerships&lt;/i&gt;. Washington, DC: Center for Law and Social Policy.  &lt;a href="http://www.clasp.org/resources-and-publications/publication-1/Career-Pathways-Funding-Toolkit-2015-8.pdf" title="Bridge Programs" target="_blank"&gt;http://www.clasp.org/resources-and-publications/publication-1/Career-Pathways-Funding-Toolkit-2015-8.pdf&lt;/a&gt; (used with permission)&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2167">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954192</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2168">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954192</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1080">
+        <prevpageid>1079</prevpageid>
+        <nextpageid>1081</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444954325</timecreated>
+        <timemodified>1471552769</timemodified>
+        <title>Model 5: Integrated Instruction</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2160.mp3"&gt;ELL_Mod3_2160.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Students in team taught classes benefit from two different instructors working together, each bringing a different skill set to the teaching-learning process. The skills instructor brings subject matter knowledge and teaches technical content while the ELA teacher responsible for teaching the associated language and literacy tasks. Typically the two instructors overlap in the classroom at least 50 % of the time. Quite often the ELA teachers meets with students ahead of time to make connections between what students know and the new materials and builds background knowledge and core vocabulary. Quite often, the ESL instructor works of an outline of the day’s class and previews the lesson flow so students’ minds are better prepared to take in the information&lt;/p&gt;
+&lt;p&gt;In the classroom itself, the ESL teacher may try to paraphrase expressions and language structures, draw diagrams or flow charts to illustrate processes and facilitate peer to peer interactions, assisting pairs and small groups who might need additional support. In some cases, technical instructors prepare pod casts with key information that students can review or record lists of vocabulary that English learners find difficult to pronounce and remember.&lt;/p&gt;
+&lt;p&gt;Technical instructors often report that their teaching skills are improving as they the ESL teacher organize the information to be learned, demonstrate concepts, invite students to work in teams and allow time for questions and discussions.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Screen%20Shot%202015-09-13%20at%2010.27.51%20AM.png" width="350" height="481" alt="Graphic of a flowchart. The stages from top to bottom are: “Contextualized ELA and/or High School Equivalency,” “Team Taught ELA and Job Skills,” which is marked as the core activity, “Industry Recognized Certificate,” and “Work.”" style="float: right; margin: 5px;" /&gt;WIOA defines Integrated Instruction  as the combination of basic skills development and occupational skills instruction in the same class.  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;In programs designed for English learners, the ELA instructor and the technical instructor team teach.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The best known model of integrated instruction is the I-BEST model developed in Washington State, a model with a high success rate. For details see &lt;a href="http://www.sbctc.edu/colleges-staff/programs-services/i-best/" title="I-BEST" target="_blank"&gt;&lt;em&gt;Integrated Basic Education and Skills Training&lt;/em&gt;&lt;/a&gt; (I-BEST).&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2169">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954325</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2170">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954325</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1081">
+        <prevpageid>1080</prevpageid>
+        <nextpageid>1082</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444954425</timecreated>
+        <timemodified>1445100458</timemodified>
+        <title>Worksite ELA: Student Voice</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2170.mp3"&gt;ELL_Mod3_2170.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;You may have heard employers and others say that digital literacy is the new basic skill. Many work-based classes now include access to technology and integrate the use of digital tools into worksite English acquisition courses. Tools and skills may offer experience in using email and Skype and navigating the company’s websites to find information, report data or make vacation requests.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;object align="right" width="75%" height="315"&gt;&lt;param name="movie" value="//www.youtube.com/embed/zT0BCaeYySw?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="75%" height="315" align="right" src="https://www.youtube.com/v/zT0BCaeYySw?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;A student in a work-based English Innovations  class  at a pizza restaurant discusses his experience in an ELA course that combined in class teaching with structured self-paced independent learning.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: right;"&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;em&gt;&lt;span style="font-size: medium;"&gt;English Innovation (EI) Student in Seattle discusses his experience in a blended learning course called English Innovations.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;OneAmerica. (November 16, 2011). &lt;i&gt;English Innovations™ Student from Tutta Bella &lt;/i&gt;[YouTube video]. Seattle, WA: Author. https://youtu.be/q9kdxMwNaAo?list=PL1F60133CC036CFAA. Used with permission from OneAmerica. &lt;a href="http://www.weareoneamerica.org" title="We are One America" target="_blank"&gt;www.weareoneamerica.org&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: right;"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2171">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954425</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2172">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954425</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1082">
+        <prevpageid>1081</prevpageid>
+        <nextpageid>1083</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444954495</timecreated>
+        <timemodified>1471553084</timemodified>
+        <title>Adapting Program Components for ELLs: Conduct Program</title>
+        <contents>&lt;p&gt;&lt;object align="right" width="75%" height="315"&gt;&lt;param name="movie" value="//www.youtube.com/embed/p84hd7SS6-g?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="75%" height="315" align="right" src="https://www.youtube.com/v/p84hd7SS6-g?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" title="Adobe Flash Player" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;I-BEST videos and other resources are available on the web site for the Washington State Board for Community and Technical Colleges.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;Go to:&lt;a href="http://www.sbctc.edu/colleges-staff/programs-services/i-best/" title="I-BEST" target="_blank"&gt;&lt;em&gt; I-BEST: Integrated Basic Education and Skills Training&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: x-small;"&gt;Source: &lt;/span&gt;&lt;span style="font-size: x-small;"&gt;From &lt;i&gt;Traditional and Collaborative Team Teaching Models: Green River Community College, Kent, WA&lt;/i&gt; [Videofile] by Washington State Board for Community and Technical Colleges (WSBCTC). Copyright 2014 by WSBCTC. Retrieved from Washington's Integrated Basic Education and Skills Training (I-Best) Program Site on YouTube at https://www.youtube.com/watch?v=p84hd7SS6-g&amp;amp;feature=youtu.b. American Institutes for Research used with permission from the author.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2173">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954495</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2174">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954495</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1083">
+        <prevpageid>1082</prevpageid>
+        <nextpageid>1084</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444954545</timecreated>
+        <timemodified>1471553186</timemodified>
+        <title>Selecting a Model for Your Program</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;As you decide on the right model for your program, consider the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Which model you choose will depend on your context: Employment opportunities, community needs, current and potential partnerships and collaborations with training providers.&lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;To what extent are members of the refugee and immigrant community interested in workforce readiness and in programs combining ELA and training?&lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Do you have local employers who might be interested in setting up a site based ELA program? What case can you make for extending ELA to a career pathway?&lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;How strong is your partnership with a training provider? Given the strong interest of your students in training, which model makes sense for you?&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2175">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954545</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2176">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954545</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1084">
+        <prevpageid>1083</prevpageid>
+        <nextpageid>1085</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444954671</timecreated>
+        <timemodified>1449881572</timemodified>
+        <title>Scenario 1: A Comprehensive Model</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2180.mp3"&gt;ELL_Mod3_2180.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;More and more programs are starting to build comprehensive programs that link Adult English Acquisition to further education in an occupational skills program. In some cases, the same institution offers both, an adult education program and career and technical education although offered by different departments. In other cases, relationships between the adult education program and a training institution must first be developed before a seamless pathway can be established.&lt;/p&gt;
+&lt;p&gt;We know that most English learners don’t have time and resources to move from in a linear fashion from beginning level language courses to a certificate course. They will need multiple entry points and support along the way as they shift from learning how to communicate in everyday situations to acquiring the skills needed for college success.&lt;/p&gt;
+&lt;p&gt;The diagram you see offers an idealized version of a pathway that starts with native language literacy taught by community volunteers then moves on to contextualized ESL to a set of Bridge Classes customized toward a particular occupational area or academic studies. Students in the Bridge Course are co-enrolled in a pre-GED class that is contextualized to the occupation the students have chosen. Notice that there are two official entry points where students are recruited: At the beginning of the ELA path and at the start of the Bridge programming. The program also includes advising and support, including ongoing advising and career navigation and short term student success courses that prepare learners for the rigor of college work.&lt;/p&gt;
+&lt;p&gt;Take a bit of time, to explore this pathway (working with colleagues if possible),&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Your program has several ELA classes for beginners. Your curriculum is focused on life skills and every day conversation. You would like to integrate a career pathway program into your services that starts at beginning levels and moves students to postsecondary training. You are considering a comprehensive model similar to the one in &lt;a href="@@PLUGINFILE@@/M3U2_S45_HO_CompModel.pdf"&gt;this handout&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;QUESTIONS TO CONSIDER: &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What research do you need to conduct to gain insights into the strengths and challenges  of immigrants in your area? &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What  work will  you need to do to develop a comprehensive program that spans levels? &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What post secondary institution could you partner with? &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2177">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954671</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2178">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954671</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1085">
+        <prevpageid>1084</prevpageid>
+        <nextpageid>1086</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444954832</timecreated>
+        <timemodified>1445181834</timemodified>
+        <title>A Comprehensive Model: Issues to Consider and Questions to Ask</title>
+        <contents>&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Which components of a comprehensive model do you now have in place? Which do you need to develop?&lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How can you provide sufficient support and navigation services for your ELL population? How can  you develop a success course to help students persist?&lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Which postsecondary institution(s) can you partner with to build out a career pathway for our ELLs?  &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2179">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954832</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2180">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954832</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1086">
+        <prevpageid>1085</prevpageid>
+        <nextpageid>1087</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444954878</timecreated>
+        <timemodified>1445100806</timemodified>
+        <title>Scenario 2: An Employer Wants Classes</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2190.mp3"&gt;ELL_Mod3_2190.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;As you probably know, you can use your adult education funds to offer contextualized classes at a work site. Some programs are able to negotiate agreements with employers that includes release time for workers (often a fifty/fifty split with students coming to class for one hour without release pay and another hour on paid time). In other cases, an employer may make only space and access to technology available. It’s up to you to accept or reject such an agreement.&lt;/p&gt;
+&lt;p&gt;Marketing a new program to employees may take several steps even if the company fully supports it. You can highlight how learning more English can help participants be more confident speaking English both at work and in their daily lives and stress the benefit of using English on a computer.&lt;/p&gt;
+&lt;p&gt;Capturing how well workers can negotiate the communication demands of the workplace may require some creativity. You can request meetings with supervisors to find out when and where workers need English and where challenges lie and supplement your English assessment with this information. In some cases, a company will let you do a walk around to help you identify materials, products and forms written in English workers are expected to use. Using a technology Can-Do list that lets students indicate their level of comfort and competence in using email or online forms or finding information they need on a website can be helpful.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;A local school district wants you to set up a 40 hour contextualized ELA course for their custodial workers.  They want the classes to be offered onsite and on a Saturday. Workers will not receive release time.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; The districts wants students to communicate more in English and use the company’s email and management system.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;You don’t know the level of English proficiency and digital literacy of potential students and how to market a Saturday class to them. You are also not clear on the outcomes the ELA program should achieve.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;You want to build a collaboration with employers but need to think about and discuss some of the details first.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2181">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954878</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2182">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954878</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1087">
+        <prevpageid>1086</prevpageid>
+        <nextpageid>1088</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444954924</timecreated>
+        <timemodified>1445181875</timemodified>
+        <title>Scenario 2 Questions to Consider</title>
+        <contents>&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How do you market this course to employees who will have to attend on the weekend at their own time? &lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How do you measure job related English proficiency and digital competence?&lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What do you need to do to meet the requirements for work site ELA established by your funding source?  &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2183">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954924</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2184">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954924</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1088">
+        <prevpageid>1087</prevpageid>
+        <nextpageid>1089</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444954970</timecreated>
+        <timemodified>1445100896</timemodified>
+        <title>Scenario 3: Team Teaching</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2200.mp3"&gt;ELL_Mod3_2200.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;You may have heard of the I-BEST model developed in Washington state that has made integrated instruction using co-teaching famous. To introduce teachers to the model, you might consider watching the I-BEST videos with your staff and discussing the complementary roles of the two instructors. The technical instructor is responsible for occupational knowledge and skills, while the ELA teacher highlights the vocabulary, expressions and language structures that students encounter in a class, in a textbook or in a lab.&lt;/p&gt;
+&lt;p&gt;Let your teachers know that they may only share the teaching about half the time (the minimum) and the rest of their work might include preparing students for a class or a test and debriefing afterward to check comprehension and suggest strategies to help them understand more deeply and remember more.&lt;/p&gt;
+&lt;p&gt;You may also be selective in choosing the right partner for the technical instructor since the stakes tend to be higher for a new program. Many programs have found that assigning a teacher who is not excited about the prospect of team teaching a technical course is not the best idea. Better to find a teacher who is enthusiastic about broadening his or her experience and has an interest in the technical field, although experience is not necessary. Choosing a teacher who is flexible and works well with others is important since the job requires ongoing collaboration.&lt;/p&gt;
+&lt;p&gt;Keep in mind that this instructor may need additional prep time to plan and prepare lessons and meet with the technical instructor.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Your local training provider, a community college, offers a career pathway program that matches your students’ occupational goals. The college is interested in setting up a course that has one of your ELA teachers co-teach with a technical instructor.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;You want the class to be successful but aren’t quite sure how to select a good teacher and how to support him or her.  Some of your teachers worry that they will need to have technical expertise to be effective in a co-teaching context.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2185">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954970</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2186">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444954970</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1089">
+        <prevpageid>1088</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444955058</timecreated>
+        <timemodified>1445285251</timemodified>
+        <title>Scenario 3 Questions to Consider</title>
+        <contents>&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What qualifications do you consider important for an ELA teacher who will team teach a technical course?&lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What would you do to reassure a good teacher who is interested but not sure he or she is up to the job?&lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What support can you offer a teacher who may have to spend significant time developing materials and preparing to teach an integrated course?&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54682"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2187">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444955058</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2188">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444955058</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

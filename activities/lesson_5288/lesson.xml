@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="190" moduleid="5288" modulename="lesson" contextid="16190">
+  <lesson id="190">
+    <course>139</course>
+    <name>Unit 3: Part 3: Real-Life Scenarios and Bright Ideas for Teaching</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1441649580</timemodified>
+    <pages>
+      <page id="1134">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1144</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445040059</timecreated>
+        <timemodified>1449780488</timemodified>
+        <title>Real-Life Scenarios</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3230.mp3"&gt;ELL_Mod3_3230.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Many students still learning English have solid work experience and considerable background knowledge related to jobs and careers that interest them. But they may lack the English skills to understand explanations and contribute ideas. Illustrations and sketches can help you get your point across, and the same process can help your students communicate ideas. The video will show you how this is done. Mike, teaching a group of displaced workers, illustrates a construction problem (“My patio needs work”), using a technique called Chalk Talk. He then invites students to draw ideas for the project they will undertake in a couple of weeks—fixing up and renovating a broken-down school on the Mexican side of the southern U.S. border. Notice that the students have picture dictionaries that they can consult as they sketch out the “before” picture (namely, the renovation problems they may encounter) and then illustrate the “after” picture (what the school might look like after the workers completed the work). This has always been one of my favorite projects.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p style="text-align: center;"&gt;&lt;object width="75%" height="315"&gt;&lt;param name="movie" value="//www.youtube.com/embed/1xV5OLdnVGM?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="75%" height="315" src="https://www.youtube.com/v/1xV5OLdnVGM?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" title="Adobe Flash Player" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;From &lt;i&gt;Mike’s Class Does Chalk Talk &lt;/i&gt;[Videofile]&lt;i&gt; &lt;/i&gt;by James Powrie, 2006, Las Cruces, NM: Literacywork International.&lt;/p&gt;
+&lt;p&gt;Copyright 2006 by Literacywork International. Retrieved from https://www.youtube.com/watch?v=KB7KhIp0OjY.&lt;/p&gt;
+&lt;p&gt;American Institutes for Research used with permission from Literacywork International.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;You are teaching in a bridge program for a career cluster related to construction. Your students have not worked in the trades, but most have done jobs around the house. You want to start where students’ interests lie and build on what they know.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Bright Idea: Illustrate the Process&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Select an everyday problem related to work around the house or in the community. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Sketch the problem on the board. Involve students as you draw and talk. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Present students with a related problem and ask them to work in teams to sketch a problem and solution. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Invite students to explain their sketches and share them with the group.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2290">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445040059</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1144">
+        <prevpageid>1134</prevpageid>
+        <nextpageid>1145</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445040546</timecreated>
+        <timemodified>1449881843</timemodified>
+        <title>From Personal Experience to Job Tasks</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3230.mp3"&gt;ELL_Mod3_3230.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;In the video, you saw Mike use a problem with his patio as a jumping-off point for dividing a construction problem into a problem and a solution. You can use a similar approach with other work-related problems. To start, you might select an occupation or a profession that relates to students’ everyday interactions and experiences. Consider professions such as heating, vacuum, and air conditioning professional; computer support; medical office specialist; or child care provider. Consider also the trades (e.g., maintenance, computer repair, plumbing, groundskeeping). Then create a table that invites students to identify a problem, determine what needs to be done, and list the materials and tools needed to do the job.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Think of an occupation-related situation and brainstorm ideas for handling it (e.g., a patient cannot find her insurance card; water is flooding an apartment; the air conditioner is broken; a child in daycare seems to have a fever).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="2"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/M3U3_S_ProbActionTools_508.docx" title="Problem/Action Tools"&gt;Download the Word document&lt;/a&gt; and fill it in with ideas (either by yourself or with your students).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="3"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/M3U3_S_Sample%20Lesson_ACRepair_508.pdf" title="Sample Lesson"&gt;Look at the attached sample lesson&lt;/a&gt; on changing an air conditioning filter as inspiration for a contextualized lesson.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2292">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445040546</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2293">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445040546</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1136">
+        <prevpageid>1135</prevpageid>
+        <nextpageid>1137</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441765225</timecreated>
+        <timemodified>1445274934</timemodified>
+        <title>Bright Idea: Put Students to Work</title>
+        <contents>&lt;table border="0" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/Untitled.png" width="350" height="502" alt="&amp;quot;&amp;quot;" style="margin: 5px; float: right;" /&gt;&lt;br /&gt;&lt;span style="font-size: xx-small;"&gt;Image: Permission granted by Juan Carlos Aguirre,&lt;br /&gt;Director of Continuing Education, South Texas College. &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ol&gt;
+&lt;li class="O0"&gt;&lt;span style="font-size: medium;"&gt;Provide students with a list of key terms in English and in Spanish (students can work as a group to translate).&lt;/span&gt;&lt;/li&gt;
+&lt;li class="O0"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Use an online tool, such as QUIA, to create flash cards related to medical terminology you use in your course. Ask students to work in pairs to practice saying the words and discussing their meaning.&lt;/span&gt;&lt;/li&gt;
+&lt;li class="O0"&gt;&lt;span style="font-size: medium;"&gt;Invite students to create materials for the class (e.g., a team of students researches one body system and explains it to the class).&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Resources:&lt;/strong&gt; If you are new to project-based learning (PBL), consider exploring the attached guide for ideas.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://kupuhouacademy.weebly.com/uploads/2/0/3/0/20309617/pbl_guide_w_6as.pdf" title="Project Based Learning Guide" target="_blank"&gt;Project-Based Learning: A Resource for Instructors and Program Coordinators&lt;/a&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2276">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441765225</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2277">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441765225</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1137">
+        <prevpageid>1136</prevpageid>
+        <nextpageid>1138</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1442103792</timecreated>
+        <timemodified>1445274979</timemodified>
+        <title>Scenario: Entrepreneurship Skills</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;You have a mixed class of students at the high beginning to low intermediate level. All the students want job-related English, but their career goals are not quite clear yet. A number of the students are interested in what they should know about being entrepreneurs.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Questions:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="O0"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;What experience do my students and their families have selling products or services?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;What events have they organized that required entrepreneurial thinking?&lt;/span&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;What tasks or projects could I create to have students envision a small business and market it to the community?&lt;/span&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;What resources on entrepreneurship are available to me and my students (textbooks, online videos, Small Business Bureau materials)? &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2288">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442103792</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2289">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442103792</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1138">
+        <prevpageid>1137</prevpageid>
+        <nextpageid>1143</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1442073553</timecreated>
+        <timemodified>1445106275</timemodified>
+        <title>Bright Idea: Showing Entrepreneurs in Action</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;!--StartFragment--&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!--StartFragment--&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;The website We Are  New York includes an episode, called &lt;a href="http://www.nyc.gov/html/weareny/html/episodes/the_wedding.shtml" title="The Wedding video" target="_blank"&gt;&lt;em&gt;The Wedding&lt;/em&gt;&lt;/a&gt; that shows different groups of immigrant entrepreneurs. These immigrants spring into action when other vendors for a wedding have cancelled.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;The video highlights the importance of being prepared at a moment’s notice, keeping up on your skills, double-checking information, and working as a team.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Feel free to simply dip into the video and preview the content to decide if it might fit into your class. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;!--EndFragment--&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2278">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442073553</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2279">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442073553</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1143">
+        <prevpageid>1138</prevpageid>
+        <nextpageid>1139</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1442073843</timecreated>
+        <timemodified>1445275186</timemodified>
+        <title>Scenario: Students are Interested in Creating Digital Materials</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;You are teaching a course with a digital literacy component. You students are interested in using digital photographs and videos for presentations. The class wants to produce a series of how-to videos that illustrate what they know and what they can do.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Bright Idea:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="O0"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Discuss the use of digital work with your students. and engage students in planning and executing a project&lt;/span&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Take advantage of your students’ talents and experience and invite them to share skills.&lt;/span&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Consider inviting a technical person to conduct a workshop to guide your students on the use of digital tools&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2280">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442073843</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2281">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442073843</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1140">
+        <prevpageid>1139</prevpageid>
+        <nextpageid>1141</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1442089811</timecreated>
+        <timemodified>1445275095</timemodified>
+        <title>Scenario: Too Much Information</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3250.mp3"&gt;ELL_Mod3_3250.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;To help your students manage textbook reading, you may first need to familiarize yourself with the way the information in modern training textbooks is organized and laid out. You may want to borrow a few books for a field your students are interested in and explore the books’ structure. You can then start to think about what tasks you can create to familiarize students with the structure of the book. You may consider variations of a treasure hunt that leads students to different portions of the book and its chapters, such as table of contents, glossary, or major and minor headings. You may also notice that textbooks often contain charts and graphs, and may think of activities that teach strategies useful for analyzing and interpreting this kind of presentation. For example, you may draw students’ attention to the title of a graph and its source, invite them to discuss the information, and then tell the story represented in a graph in text form. To build background knowledge in understanding statistical data, try introducing your students to appropriate infographics.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Mod3_U3_S57.png" width="300" height="400" alt="" style="float: right; margin: 5px;" /&gt;Your students seem overwhelmed by the amount of information contained in books and other materials used in the technical classes. They have trouble with complex handouts and cannot make sense of the layout of some of the textbook pages. They are often unsure where they should start reading and give up.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2284">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442089811</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2285">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442089811</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1141">
+        <prevpageid>1140</prevpageid>
+        <nextpageid>1142</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1442090434</timecreated>
+        <timemodified>1445106790</timemodified>
+        <title>Bright Idea: Deconstructing Texts Using Infographics</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Learning how to take apart and analyze one or more infographics gives students a way to approach the complex visual texts increasingly used in training.&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Select an infographic that is related to a theme or an occupational area. You can also choose a more general graphic (e.g., cold and flu).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="2"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Provide a context for the graphic.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="3"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Ask questions to activate background knowledge.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="4"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Present information contained in the graphic in linear form and ask students to take notes; use common language to start.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="5"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span size="3" style="font-size: medium;"&gt;Display graphic and ask &lt;span style="line-height: 19.6959991455078px;"&gt;comprehension&lt;/span&gt; questions; ask for evidence.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span size="3" style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Ask students to work in pairs or small groups, taking turns being the teacher, who asks questions and requests evidence.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2286">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442090434</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2287">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442090434</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1142">
+        <prevpageid>1141</prevpageid>
+        <nextpageid>1146</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445040771</timecreated>
+        <timemodified>1446851841</timemodified>
+        <title>Presenting Information (Video or Mini-Lecture)</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3260.mp3"&gt;ELL_Mod3_3260.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Students preparing for work and careers need more than just skills to be successful. That is true of both low-educated and more highly educated learners. All students need information about possible careers and the opportunity to discuss their goals and dreams in relation to career and training opportunities. You will see a couple of Department of Labor sites that offer comprehensive information. O*Net, the Occupational Information Network, is a free online database with hundreds of occupational definitions for teachers and materials developers.&lt;/p&gt;
+&lt;p&gt;Videos can help bring this information to life for students.&lt;/p&gt;
+&lt;p&gt;To persist to transition, English learners may also need proactive advising and assistance in navigating the work and training system. Students who lead turbulent lives may need access to support services. Those looking for work need access to a job developer who takes an active interest in them and advocates on their behalf with employers.&lt;/p&gt;
+&lt;p&gt;Most important, perhaps, students need support in seeing themselves as smart, capable adults who can reach both short- and long-term goals. Structuring classes so that students experience success every day and feel part of a community of learners who lend support and offer encouragement can go a long way in helping students develop self-efficacy and self-management skills associated with student success. The TED Talk offers some ideas for moving students from a mindset that says “I’m too old and I cannot learn” or “I’m not smart enough for a career” to “With every step and every class, I can get better.”&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: center;"&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Untitled%20%285%29.png" width="436" height="257" alt="Picture of Prince Charles visiting with Culinary Arts Students at Carlos Rosario" style="margin: 5px;" /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: center;"&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;&lt;!--StartFragment--&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: xx-small;"&gt;From &lt;i&gt;Prince Charles Visiting With Culinary Arts Students at Carlos Rosario International Public Charter School &lt;/i&gt;[Photograph] by Carlos Rosario International Public Charter School, [n.d.], Washington, DC: Carlos Rosario International Public School. Copyright [n.d.] by Carlos Rosario International Public Charter School. American Institutes for Research used with permission from the photographer.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: center;"&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;&lt;!--EndFragment--&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2294">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445040771</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2295">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445040771</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1146">
+        <prevpageid>1142</prevpageid>
+        <nextpageid>1147</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445040865</timecreated>
+        <timemodified>1445106947</timemodified>
+        <title>Career Exploration Resources</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;The Internet presents a treasure trove of materials you can review to build your curriculum. Here are a few examples:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;1. Exploring Occupations and Careers &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Integrating Career Awareness&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://lincs.ed.gov/professional-development/resource-collections/profile-246" title="Integrating Career Awareness" target="_blank"&gt;http://lincs.ed.gov/professional-development/resource-collections/profile-246&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://lincs.ed.gov/publications/pdf/CCRStandardsAdultEd.pdf" title="CCR Standards" target="_blank"&gt;College and Career Readiness Standards &lt;/a&gt;&lt;a href="http://lincs.ed.gov/publications/pdf/CCRStandardsAdultEd.pdf" title="Career and College Readiness Standards" target="_blank"&gt;&lt;br /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;2. Career related videos: &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="http://www.careeronestop.org/Videos/CareerandClusterVideos/career-and-cluster-videos.aspx" title="Closed Captioned Videos" target="_blank"&gt;&lt;span style="font-size: medium;"&gt;For close captioned videos on career clusters&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;3. To help students explore career possibilities related to their interests, try My Next Move. This is a DOL profiler that matches interests with careers; see &lt;a href="http://www.mynextmove.org/" title="Match Interests with Careers" target="_blank"&gt;www.mynextmove.org&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;4. You may want to increase your own background knowledge when it comes to the skill demands of particular jobs. One of the best resources for information on the skills, abilities and education required for particular jobs in a cluster is O*NET. You can then select a small number of jobs from a large data set to explore with your students. O*NET allows you to search by occupation or career cluster and lists typical job tasks and more; see &lt;a href="http://www.onetonline.org/" title="O*NET" target="_blank"&gt;www.onetonline.org&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2296">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445040865</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2297">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445040865</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1139">
+        <prevpageid>1143</prevpageid>
+        <nextpageid>1140</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1442089618</timecreated>
+        <timemodified>1445106443</timemodified>
+        <title>Students in Action: How to Make a Spaghetti Dinner</title>
+        <contents>&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p style="text-align: center;"&gt;&lt;object width="75%" height="315"&gt;&lt;param name="movie" value="//www.youtube.com/embed/QrAdQBaCsKU?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="75%" height="315" src="https://www.youtube.com/v/QrAdQBaCsKU?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;From &lt;i&gt;How to Make a Spaghetti Dinner &lt;/i&gt;[Videofile]&lt;i&gt; &lt;/i&gt;by James Powrie, [n.d.],&lt;br /&gt;Las Cruces, NM: Literacywork International. &lt;br /&gt;Copyright [n.d.] by Literacywork International. Retrieved from https://www.youtube.com/watch?v=QrAdQBaCsKU. &lt;br /&gt;American Institutes for Research used with permission from Literacywork International.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Inviting students to create projects using technology builds language and digital skills simultaneously. This video was produced as  part of a how-to series by students in Socorro, Texas.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;You can just watch part of the video to get a good sense of the project. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: xx-small;"&gt;To find out more about these students and their projects, see the attached document: &lt;/span&gt;&lt;br /&gt; &lt;span style="font-size: xx-small;"&gt;Wrigley, H. S. (2004). Research in action: Teachers, projects, and technology. Literacy Links, 8(3). &lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: xx-small;"&gt;Retrieved from &lt;a href="http://www-tcall.tamu.edu/newsletr/jun04/june04a.htm" title="Research in Action" target="_blank"&gt;http://www-tcall.tamu.edu/newsletr/jun04/june04a.htm&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2282">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442089618</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2283">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442089618</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1145">
+        <prevpageid>1144</prevpageid>
+        <nextpageid>1135</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649767</timecreated>
+        <timemodified>1449881885</timemodified>
+        <title>Scenario: Dealing with a Bad Day at Work</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3240.mp3"&gt;ELL_Mod3_3240.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Stories told through graphics similar to those used in graphic novels are a great way to make language come alive and highlight cultural issues related to work and training., As a teacher of beginning-level learners, you can tell the stories orally while your students follow along on a screen or with handouts that only show the pictures. This approach gives you the opportunity to adapt the pace with which you tell the story and use paraphrasing to make unfamiliar phrases and new words comprehensible. Students can then be invited to retell the story in their own words (beginners can put the pictures in sequence) and either follow the original sequence to demonstrate understanding or create a story of their own.&lt;/p&gt;
+&lt;p&gt;Scenarios like “The Long Lunch” draw students’ attention to the message that tone conveys in English. English learners are often much more used to detecting grammar mistakes than they are to detecting differences in tone. Since sarcasm (“Nice job, dude”) and rhetorical questions (“What is wrong with you?”) are part of every communication in the United States, you do want to prepare your students for subtle messages in workplace communication that are conveyed through tone (e.g., if you are late to work, your supervisor’s asking, “Do you have any idea what time it is?” is not an information question).&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;&lt;img src="@@PLUGINFILE@@/Mod3_U3_S50.png" width="494" height="406" alt="Graphic of a comic strip of “Alex Has a Bad Day at Work,” showing Alex being late to work because he had a good time at a wedding the night before." style="float: right; margin: 5px;" /&gt;You are integrating employability skills into a number of your courses and want to emphasize key cultural components such as calling in when you are late, being friendly, apologizing, and making amends when you make a mistake.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Bright Idea and Sample Lesson:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Use strip stories for problems at work or create a sequence on the board by using stick figures. Include cultural expectations in your story (e.g., “No, you cannot send your sister to work when you are sick.” “You cannot miss 5 days in a row because your car is broken.” “You must learn how to use the company’s online system to request vacation days.”).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Ask Yourself&lt;/strong&gt;: What do I need to learn in order to create my own strip stories? What resources are available to me?  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Handouts:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/M3U3_S_Alex_BadDay_508.pdf" title="Handout 1"&gt;Alex Has a Bad Day at Work&lt;/a&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/M3U3_Sl_ALongLunch_508.docx" title="Handout 2"&gt;A Long Lunch&lt;/a&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Alex has a bad day at work&lt;/i&gt; (strip story) by H. Wrigley, 2015, Las Cruces, NM: Literacywork International. Copyright 2015 by Literacywork International. American Institutes for Research used with permission from Literacywork International.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2273">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649767</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2291">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649767</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1135">
+        <prevpageid>1145</prevpageid>
+        <nextpageid>1136</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649819</timecreated>
+        <timemodified>1445106018</timemodified>
+        <title>Scenario: Students are Overwhelmed</title>
+        <contents>&lt;table border="0" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/Untitled.png" width="197" height="283" alt="" style="margin: 5px auto; display: block;" /&gt;&lt;br /&gt;&lt;span style="font-size: xx-small;"&gt;From [Videofile] by Juan Carlos Aguirre, [n.d.], McAllen, TX: &lt;br /&gt;South Texas College. Copyright [n.d.] by Literacywork International. &lt;br /&gt;American Institutes for Research used with permission from Literacywork International.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;You are a technical instructor in a CNA program. Your students are first-semester college students and they have difficulties understanding and remembering all the information that needs to be retained. Learning concepts and the technical language associated with systems and diseases seems especially challenging. All your students speak Spanish.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2274">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2275">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1147">
+        <prevpageid>1146</prevpageid>
+        <nextpageid>1148</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445041024</timecreated>
+        <timemodified>1445184174</timemodified>
+        <title>Resources for Linking Career Exploration and Language Development</title>
+        <contents>&lt;table border="0" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="http://wpc.2a70.edgecastcdn.net/002A70/CareerVideos/00-0000.16.mp4" title="video"&gt;VIDEO LINK&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;This is a typical video in the career exploration series. It is short but provides important information. Closed captioning helps students connect what they hear to the print they see on screen, building comprehension skills.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;QUESTION: What opportunities do you see for creating additional learning opportunities using videos in this series?  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For other videos in the series, see &lt;a href="http://www.careeronestop.org/Videos/CareerandClusterVideos/career-and-cluster-videos.aspx" title="Career Clusters" target="_blank"&gt;http://www.careeronestop.org/Videos/CareerandClusterVideos/career-and-cluster-videos.aspx&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: xx-small;"&gt;From &lt;i&gt;[Transportation, Distribution, and Logistics] &lt;/i&gt;[Videofile] by CareerOneStop, [n.d.], St. Paul, MN: CareerOneStop. Copyright [n.d.] by CareerOneStop, State of Minnesota. Retrieved from http://wpc.2a70.edgecastcdn.net/002A70/CareerVideos/00-0000.16.mp4. American Institutes for Research used in compliance with the CareerOneStop usage policy that allows anyone to use videos available from &lt;a href="http://www.CareerOneStop.org" title="Career One Stop" target="_blank"&gt;http://www.CareerOneStop.org&lt;/a&gt; free of charge. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2298">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445041024</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2299">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445041024</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1148">
+        <prevpageid>1147</prevpageid>
+        <nextpageid>1149</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445041268</timecreated>
+        <timemodified>1445107412</timemodified>
+        <title>Resources for Motivation and Persistence</title>
+        <contents>&lt;table border="0" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/Untitled%20%286%29.png" width="350" height="352" alt="Rosie the Riveter" style="margin: 5px auto; display: block;" /&gt;&lt;br /&gt;&lt;span style="font-size: xx-small;"&gt;We can do it! [Poster/Graphic] by J. Howard Miller,&lt;br /&gt;1942, at National Museum of American History, Smithsonian Institution. &lt;br /&gt;Retrieved from https://commons.wikimedia.org/wiki/File:We_Can_Do_It!.jpg. &lt;br /&gt;Reprinted by American Institutes for Research in compliance with public domain status of photograph in the U. S.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Motivation and Mindshift: &lt;a href="http://ww2.kqed.org/mindshift/2014/03/13/what-keeps-students-them-motivated-to-learn" title="Motivating Students" target="_blank"&gt;&lt;em&gt;What Keeps Students Motivated to Learn?&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://ww2.kqed.org/mindshift/2014/03/13/what-keeps-students-them-motivated-to-learn/" title="What keeps students motivated to learn?" target="_blank"&gt;&lt;/a&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Persistence: &lt;/span&gt;&lt;span style="font-size: medium;"&gt;Worth the Stay: &lt;a href="http://www.nelrc.org/persist/report09.pdf" title="Report" target="_blank"&gt;&lt;em&gt;Findings From the New England Adult Learner Persistence Project&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2300">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445041268</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2301">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445041268</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1149">
+        <prevpageid>1148</prevpageid>
+        <nextpageid>1150</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445107396</timecreated>
+        <timemodified>0</timemodified>
+        <title>Can-Do Post-Assessment</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Now, reflect on your answers from the Pre-Assessment and consider the following statements again. Determine if they are No Problem, Sort of a Problem or Not at all a Problem.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span id="docs-internal-guid-a3bd8363-76db-017c-c1e9-ea731a64c2e6" style="font-size: medium;"&gt;&lt;strong&gt;Statement 1&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; I can create a plan for developing a curriculum that is contextualized to an occupational area.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span id="docs-internal-guid-a3bd8363-76db-22b8-97dc-8440c17d476d"&gt;&lt;strong&gt;Statement 2&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; I can develop several activities meant to activate students’ background knowledge.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span id="docs-internal-guid-a3bd8363-76db-4655-62e4-f86f8a34e63a" style="font-size: medium;"&gt;&lt;strong&gt;Statement 3&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; I can devise activities that connect learner experiences to the skills needed in a particular pathway.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span id="docs-internal-guid-a3bd8363-76db-6a3c-e32e-f9e324b00941"&gt;&lt;strong&gt;Statement 4&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; I can describe at least five peer-to-peer tasks that build the skills needed for work and training.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2302">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445107396</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2303">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445107396</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1150">
+        <prevpageid>1149</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445107504</timecreated>
+        <timemodified>1472514082</timemodified>
+        <title>Final Reflection Questions</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;We know that good teachers are reflective teachers. Take a moment to think about what insights you have gained from this unit and how you might use the ideas.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;1. What insights have you gained from this unit? What are your most important takeaways? &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;2. What steps, strategies, tips, or bright ideas do you think your program should implement? &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;3. What do you see as the next steps in developing your own contextualized course and infusing career content into instruction?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;You can discuss question 2 with your Community of Practice, or with your colleagues on the &lt;a href="https://community.lincs.ed.gov/comment/16626#comment-16626" title="ESL Pro Module 3 Unit 3 Discussion Forum teaching strategies"&gt;LINCS discussion forum&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54680"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54682"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2304">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445107504</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2305">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445107504</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="180" moduleid="5268" modulename="lesson" contextid="16170">
+  <lesson id="180">
+    <course>139</course>
+    <name>Unit 1: Part 2: Contextualization for English Language Learners</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1449778679</timemodified>
+    <pages>
+      <page id="1026">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1027</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444948401</timecreated>
+        <timemodified>1449878874</timemodified>
+        <title>Adapting Ideas: Contextualization for Adult English Language Learners</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_1180_v2.mp3"&gt;ELL_Mod2_1180.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Think about the English learners you have served in your program. How are they different from basic skills students who grew up speaking English? How are the different groups of English learners different from one another? And what do these differences mean for the way you design a contextualization program and prepare students for work, training, and careers? In this next section, we highlight some of the key characteristics of adult ELLs. As you consider both the strengths these students bring to the learning process and the challenges each group faces, think about the program services that might best meet the needs of each group. &lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549757%20-%20Adult%20Ed%20-%20Hands%20Raised.jpg" width="250" height="152" alt="" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549760%20-%20Operator%20Welding%20Steel%20Construction.jpg" width="250" height="167" alt="" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong style="line-height: 1.231;"&gt;&lt;span style="font-size: medium;"&gt;Key Considerations&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ol style="text-align: left;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;ELLs are a highly diverse group in terms of both language proficiency and educational backgrounds.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;ELLs often lead challenging lives and may need access to supportive services. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Some ELLs are born in the United States but still need academic language skills. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;ELLs need to greatly expand their vocabulary knowledge. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;A high percentage of ELLs are currently working or looking for work.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;ELLs often are overwhelmed by the pace of instruction and the amount of information presented in occupational classes.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;In the following pages, we invite you to think about the ELL students in your community.  Record your reflections and answers to these questions in your notes.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2066">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444948401</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1027">
+        <prevpageid>1026</prevpageid>
+        <nextpageid>1028</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444948723</timecreated>
+        <timemodified>1445283724</timemodified>
+        <title>Wide Range of Proficiencies and Backgrounds</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;ELLs are far from a homogeneous group. They vary widely in their English proficiency and their educational backgrounds. Thousands of ELLs have only a few years of formal schooling, while some may have professional degrees. As you design your program and develop your lessons, keep in mind that those with higher educational levels are likely to progress faster. They can benefit from an accelerated program that includes well-structured opportunities for independent learning. Students who have not had the chance to attend school beyond primary school, on the other hand, may need additional support.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Question:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How can you accelerate learning for ELLs with higher levels of education? What specific supports might be necessary for ELLs who did not complete secondary school? &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2067">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444948723</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2068">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444948723</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1028">
+        <prevpageid>1027</prevpageid>
+        <nextpageid>1029</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444948807</timecreated>
+        <timemodified>1445283747</timemodified>
+        <title>Support Needed to Persist and Succeed</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Adult ELLs often lead challenging lives that make sustained participation in a training program difficult. They often face multiple demands (e.g., work, family, managing finances) that limit attendance and discourage persistence, particularly in intensive courses. Many immigrants and refugees are not familiar with programs in their area and need help navigating the education and training system. They may also need access to support services that can help them weather a crisis.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Question:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Who on your staff could offer information on further education and training for your students? Who might act as a “navigation coach” to help students decide on the next step and guide them? What support services are available in your program or in the community that offer linguistically and cross-culturally relevant assistance?&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2069">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444948807</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2070">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444948807</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1029">
+        <prevpageid>1028</prevpageid>
+        <nextpageid>1030</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444948934</timecreated>
+        <timemodified>1445283767</timemodified>
+        <title>Academic Skills for Generation 1.5</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Not all ELLs are foreign-born. Increasingly, programs are serving students who were born in the United States but are not fully proficient in English. These students tend to have difficulty using academic language or understanding technical information and may find writing even short answers on a test difficult. Known as &lt;/span&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Generation 1.5&lt;/span&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;, U.S.-born ELLs tend to have strong conversational fluency but may still need practice using academic or professional language in discussions and in essays.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Question:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How do you find out if you have students who were born in the United States but are not yet fully proficient in English? What classes would you recommend for them?&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2071">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444948934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2072">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444948934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1030">
+        <prevpageid>1029</prevpageid>
+        <nextpageid>1031</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444949042</timecreated>
+        <timemodified>1445283789</timemodified>
+        <title>Vocabulary Expansion</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Compared with native speakers, most ELLs have a relatively limited vocabulary in English&lt;/span&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;—&lt;/span&gt;&lt;span size="3" style="font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;a skills gap that limits their understanding of lectures and textbooks. It also makes it difficult for them to show what they know in discussions and on tests. They may not know the technical jargon used in a career sector and may be unfamiliar with sub-technical &lt;/span&gt;&lt;span style="line-height: 19.6959991455078px;"&gt;vocabulary&lt;/span&gt;&lt;span style="line-height: 1.231;"&gt;, that is, words that most educated native English speakers know (e.g., &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;cardiac arrest, valve, chisel&lt;/span&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;). What’s more, idiomatic expressions (e.g., &lt;/span&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;making widgets, the whole nine yards, I need it yesterday&lt;/span&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;) may flummox even those with work experience.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Question:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What print and visual materials would you use to teach ELLs sub-technical vocabulary used in a particular field? (Think along the lines of tool catalogues, home maintenance guides, textbooks, and online videos).&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2073">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444949042</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2074">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444949042</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1031">
+        <prevpageid>1030</prevpageid>
+        <nextpageid>1032</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444949421</timecreated>
+        <timemodified>1445283852</timemodified>
+        <title>Occupational Classes are Often Overwhelming</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;ELLs are often taken aback by the pace and sheer amount of language that comes their way in training classes and academic classes designed for native speakers of English. ELLs need multiple opportunities to listen to lectures, watch do-it-yourself videos, take notes, and process the kind of information contained in a typical textbook chapter.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Question:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What are the key differences between a typical ELA class and an occupational skills class? How can you find out more about the language demands of particular training courses?&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2075">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444949421</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2076">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444949421</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1032">
+        <prevpageid>1031</prevpageid>
+        <nextpageid>1033</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444949505</timecreated>
+        <timemodified>1445283871</timemodified>
+        <title>Building on Work Experience</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;A high percentage of immigrants and refugees are in the workforce. Highly skilled foreign-born adults are often underemployed, and thousands of low-skilled adults are among the working poor. All have knowledge, work experience, and job skills that you can build on in your teaching.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Question:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How can you find out about the different jobs your students have had? How do you invite them to talk about their hopes and dreams? How do you make students aware of the educational opportunities and training courses that might attract their interest?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_1190.mp3"&gt;ELL_Mod2_1190.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Remember that offering these students opportunities to demonstrate what they know through visual means builds tremendous confidence and creates a foundation for developing language and literacy skills. If you have not already done so, watch the video in the Introduction, which shows students talking about their first job.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2077">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444949505</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2078">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444949505</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1033">
+        <prevpageid>1032</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444949588</timecreated>
+        <timemodified>1450290421</timemodified>
+        <title>Teacher in Action: Contextualized ELA</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_1200.mp3"&gt;ELL_Mod2_1200.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;If you are asked to describe what contextualized ELA looks like in the classroom, you could offer a long explanation or simply show a video of a class in action. In this clip, you see is a contextualized adult ELA class for high beginners who are preparing to enter a CNA course. The class is team-taught by an ELA instructor and a nurse. The instructor, Donna Price, helps students understand some of the key concepts they must master to pass the CNA course and get certified.&lt;/p&gt;
+&lt;p&gt;Please note that Donna does not teach nursing. She simply has students practice the vocabulary and language associated with the CNA course. She has the students practice reading by using a textbook developed by healthcare professionals. The ESL for CNA curriculum was developed jointly by Donna and a certified nursing instructor. The class is team-taught, although you might not see the nurse in the background, testing individual students. This kind of coteaching is part of an approach known as Integrated Basic Education and Skills Training (I-BEST). You will hear much more about it in Units 2 and 3. If you are intrigued and would like to learn more about the model, read “How I-BEST Works: Findings From a Field Study of Washington State’s Integrated Basic Education and Skills Training Program,” by John Wachen and others. You will see the citation in the “Reference” section. You will see more of Donna and her students in Unit 3, when we discuss additional teaching strategies.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="5" cellspacing="5" align="center"&gt;&lt;colgroup&gt;&lt;col width="50%" /&gt;&lt;col width="50%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Donna Price, a teacher in the San Diego Community College Continuing Education Adult ELA Program, is one of two teachers in a team-taught contextualized adult ELA class for intermediate/advanced students who are preparing to get jobs as personal care assistants/caregivers or enter a CNA course.  Please view the clip to learn how she engages students in reading a textbook page with her, and asks students to respond to situations that may occur in the field, while the Registered Nurse team teacher offers hands-on practice to students.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Question: &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What are three instructional strategies that Donna uses to help students deal with the challenges of an occupational skills class?&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style="text-align: center;"&gt;&lt;object width="100%" height="315"&gt;&lt;param name="movie" value="//www.youtube.com/embed/djyA591E50U?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="100%" height="315" src="https://www.youtube.com/v/djyA591E50U?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: center;"&gt;&lt;span style="font-size: xx-small;"&gt;Students in Vocational English as a Second Language class preparing to become Personal Care Assistants and/or as certified nursing assistants.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: center;"&gt;&lt;span style="font-size: xx-small;"&gt; url: https://www.youtube.com/watch?v=djyA591E50U&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: center;"&gt;&lt;span style="font-size: xx-small;"&gt;&lt;span&gt;&lt;span&gt;Source:  &lt;/span&gt;&lt;/span&gt;&lt;span&gt;From &lt;/span&gt;&lt;i&gt;&lt;span&gt;Students&lt;/span&gt; in a VESL [Vocational English as a Second Language] Personal Care Assistants and/or Certified Nursing Assistants &lt;/i&gt;&lt;span&gt;[Videofile] by San Diego Community College Continuing Education Program. Copyright 2015 by San Diego Community College Continuing Education Program. Retrieved from Integrated Basic Education and Skills Training (I-Best) VESL, San Diego Community College Continuing Education Program Site on YouTube at https://www.youtube.com/watch?v=djyA591E50U. American Institutes for Research used with permission from the author.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p class="yiv6737391600MsoNormal"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54680"&gt;&lt;span style="color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681" style="font-size: medium; line-height: 1.231;"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2079">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444949588</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2080">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444949588</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

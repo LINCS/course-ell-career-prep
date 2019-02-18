@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="192" moduleid="5295" modulename="lesson" contextid="16197">
+  <lesson id="192">
+    <course>139</course>
+    <name>Unit 4: Part 1: Program Evaluation and Continuous Improvement Framework</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1449779133</timemodified>
+    <pages>
+      <page id="1158">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1159</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445041799</timecreated>
+        <timemodified>1449506238</timemodified>
+        <title>Quotable Quote</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4040.mp3"&gt;ELL_Mod3_4040.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;You probably agree that quality programs represent more than the sum of their parts. In the same way, a full picture of the richness and depth of student learning comprise more than test scores and attendance data. Data regarding persistence and transition are an important measure of success, but helping students find work that is meaningful to them or set out on a career pathway that excites them can be measures of success, as well. In the end, both the data captured by numbers, percentages, and scores and the information gathered through systematic observations, qualitative assessments, and focused discussions are necessary to determine success. A good starting point may be asking what constitutes program success in the eyes of all those involved (including students) and generating ideas for capturing the ways in which the program is doing well and the areas where improvement may be needed.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/einstein.png" width="250" height="350" alt="Albert Einstein" style="float: right; margin: 5px;" /&gt;“Not everything that counts can be measured and not everything that’s measured counts.” &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;span class="Apple-tab-span"&gt; &lt;/span&gt;Attributed to Albert Einstein&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p&gt;From: Albert Einstein [Photograph] by F. Schmutzer, 1921, Vienna, Austria. Copyright &lt;b&gt;©&lt;/b&gt;1921 by Austrian National Library.&lt;br /&gt;Retrieved from https://commons.wikimedia.org/wiki/File:Albert_Einstein_1921_by_F_Schmutzer.jpg&lt;br /&gt;and http://www.bildarchivaustria.at/Pages/ImageDetail.aspx?p_iBildID=5103991&lt;br /&gt;Reprinted by American Institutes for Research in compliance with public domain status of photograph in the U. S. and Austria.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2319">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445041799</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1159">
+        <prevpageid>1158</prevpageid>
+        <nextpageid>1160</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445041868</timecreated>
+        <timemodified>1445270486</timemodified>
+        <title>Evaluation Defined</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4050.mp3"&gt;ELL_Mod3_4050.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;You will notice that this definition applies to any program or project. The key word is systematically. Think about your role in this process: As an administrator, how can you make your partners part of this process? As a teacher, what contribution can you make that takes advantage of the information you are gathering in your classes? How might students be involved? Could they give their opinions as participants in of focus groups? Could there be a student leadership team that advises you?&lt;/p&gt;
+&lt;p&gt;And one more question: How would you give a voice to students who are not yet comfortable with English?&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549721%20-%20Word%20Cloud%20Evaluation.jpg" width="300" height="387" alt="" style="float: right; margin: 5px;" /&gt;Evaluation can be defined as “a systematic process used to determine whether a program has been successful.”&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Evaluation generally involves the collection of qualitative, as well as quantitative, data; evaluation also includes a compilation of insights and ideas regarding what is working and what may need to improve.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2320">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445041868</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2321">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445041868</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1160">
+        <prevpageid>1159</prevpageid>
+        <nextpageid>1161</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445041922</timecreated>
+        <timemodified>1446851954</timemodified>
+        <title>Meeting Needs and Identifying Barriers</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4060.mp3"&gt;ELL_Mod3_4060.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;You know that many students from immigrant and refugee backgrounds may lead difficult lives. They may face turbulence factors that make participation in a career pathway program challenging. These programs often run for 12 to 20 hours a week and require resilience, knowledge, and skills to access family services and culturally competent advising to help students solve problems and navigate systems. Teachers and counselors often know most about the life circumstances that make it difficult for students to persist, and only sometimes is this information collected program wide.&lt;/p&gt;
+&lt;p&gt;The “Personal and Family Development Matrix,” attached here , is a tool that supports the collection of data that documents whether students and their families are thriving or stable or if their circumstances make them vulnerable to dropping out. Take a look at the attached matrix and think about where on a continuum from thriving to in-crisis your students may fall. Use the information in your evaluation and discuss the implications for the kinds of supports and referrals that may be necessary to help students persist.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549775%20-%203D%20Question%20Mark.jpg" width="250" height="167" alt="" style="margin: 5px; float: right;" /&gt;An evaluation of a program that is contextualized for work and career pathways can help answer the following questions:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How well are we meeting the career needs of ELLs in our community? &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Are we reducing barriers to participation and persistence in career-focused classes for ELLs who lead challenging lives? &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What work- and training-focused programs, courses, and services are now in place that did not exist before? &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;In what areas of contextualization have we achieved success, and where have we fallen short? &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Where do we need to refocus our attention and rethink our plans if we want to help ELLs transition into work or training?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;To document some of the challenges in your students’ lives, consider using a &lt;a href="@@PLUGINFILE@@/Personal_Family_Matrix_508.pdf" title="Matrix"&gt;Personal and Family Development &lt;/a&gt;matrix. You will find many variations of this tool on the Internet.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2322">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445041922</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2323">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445041922</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1161">
+        <prevpageid>1160</prevpageid>
+        <nextpageid>1162</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445042010</timecreated>
+        <timemodified>1449506483</timemodified>
+        <title>Continuous Improvement</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4070.mp3"&gt;ELL_Mod3_4070.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Continuous improvement is the preferred model for evaluating programs that are not yet mature. In this model, evaluation activities don’t just happen before or after monitoring visits; they are an integral part of the program.&lt;/p&gt;
+&lt;p&gt;As the graphic shows, in this model, evaluation is part of the life cycle of a program. Evaluation happens each time you implement a program. And as you review the documentation that you have collected, you look at what seems to be working. You then identify the components that need improvement and discuss changes that should be made with your partners and others in your program. As changes are put into place, questions about what is working well and what is not continue, and there is another round of data collection.&lt;/p&gt;
+&lt;p&gt;However, if you are just starting a program or adapting an existing program to the needs of English learners, you may want to start with a broad needs assessment. You will find some ideas next.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" align="right" style="width: 75%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td colspan="2" style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/continuous%20improvement.png" width="271" height="350" style="margin: 5px; float: right;" /&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Basic Model for Continuous Improvement&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div&gt;&lt;span style="font-size: medium;"&gt;•Planning&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: medium;"&gt;•Implementation&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: medium;"&gt;•Evaluation&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: medium;"&gt;•Review&lt;/span&gt;&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;One of the best ways to ensure a high-quality contextualization program is to adopt a continuous improvement approach that moves from planning to implementation to evaluation and review, and back to further planning.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;In programs focused on preparing ELLs for work and careers, planning for continuous improvement should be a collaborative effort— best carried out in partnership with members of workforce boards, technical faculty at colleges and elsewhere, immigrant-serving agencies, and social service providers.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2324">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445042010</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2325">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445042010</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1162">
+        <prevpageid>1161</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445042061</timecreated>
+        <timemodified>1446854366</timemodified>
+        <title>Program Review</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4080.mp3"&gt;ELL_Mod3_4080.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Here are some of the questions you might ask as you review the services you provide for your English learners who seek good jobs at good wages and hope to enter an occupational skills training program that will get them there.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549718%20-%20Questions.jpg" width="300" height="436" alt="" style="float: right; margin: 5px;" /&gt;A thorough program review looks at insightful information, as well as hard data, allowing you to use both qualitative and quantitative, data and discuss the results with your staff and your partners. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;These discussions also allow you to capture perceptions of those outside the program. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Staff, as well as partners, can be invited to analyze and interpret results, answering questions such as the following: &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What proportion of our students is now in (or is likely to transition to) a bridge program, a concurrent enrollment course, or an integrated team-taught course? &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What supports helped them succeed? What were barriers to success, and what did we do to reduce these? &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Are we serving low-skilled and high-skilled students equally well? &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What is the profile of students who drop out? What can we do to serve this group better?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54680"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;span style="line-height: 1.231;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2326">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445042061</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2327">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445042061</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="193" moduleid="5296" modulename="lesson" contextid="16198">
+  <lesson id="193">
+    <course>139</course>
+    <name>Unit 4: Part 2: Community Needs Assessment and Evaluating PD</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1450905074</timemodified>
+    <pages>
+      <page id="1163">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1164</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445042475</timecreated>
+        <timemodified>1446852023</timemodified>
+        <title>Critical Questions for Community Needs Assessment</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4090.mp3"&gt;ELL_Mod3_4090.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Preparing English learners for work and careers requires a good sense of the demographics of a community and an interest in such a project by potential learners. This preparation also requires up-to-date data on the local economy, including the employment picture. You also may want to find out more about career and technical opportunities that exist in your area and how well they meet the needs of students not yet proficient in English.&lt;/p&gt;
+&lt;p&gt;These questions will give you some ideas of where to start.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549775%20-%203D%20Question%20Mark.jpg" width="300" height="200" alt="" style="float: right; margin: 5px;" /&gt;Who are the immigrants and refugees in our community who could benefit from a contextualized English language acquisition (ELA) program? &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;To what extent are ELLs high skilled and to what extent low skilled?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What job training, ELA, and support services are currently available for different groups, including learners at high beginning/low intermediate levels of proficiency? &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What jobs do ELLs tend to hold? What employers offer jobs that support ongoing education and training?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2328">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445042475</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1164">
+        <prevpageid>1163</prevpageid>
+        <nextpageid>1165</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445042544</timecreated>
+        <timemodified>1445271724</timemodified>
+        <title>Community Needs Assessment</title>
+        <contents>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;About Community Needs Assessments&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="font-size: medium; color: #333399;"&gt;Community needs assessments take many forms: sometimes as “environmental scans” to determine which providers are “touching” immigrants through various services. The needs assessments often include demographic information and data on demands of jobs in the local area, as well as information on the technical classes that are available to for students who may have training and experience in a particular field but whose English is still not perfect. Your city or your Workforce Board may have conducted such a scan, but the results may not speak directly to the career opportunities available (or not available) to English learners.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; color: #333399;"&gt;It may be up to you to gather a group interested in focusing on the availability of services for immigrants and refugees in the workforce who are still learning English but are ready to move up a career ladder. Your partners may be able to share resources and expertise to help create an assessment that can guide both current and future efforts.&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Here are some sources of information that will give you a detailed picture of  needs and opportunities in your community: &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Review of census data (American Community Survey) for information on different groups&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Interviews with immigrant-serving agencies  &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Focus groups with different groups of immigrants and refugees to gauge interest&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;A scan of social service agencies providing support services, such as child care and transportation vouchers&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Discussions with members of workforce boards and employers to identify job opportunities &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Talks with training providers, including community colleges, that offer career pathway programs appropriate for ELLs&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2329">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445042544</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2330">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445042544</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1165">
+        <prevpageid>1164</prevpageid>
+        <nextpageid>1166</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445042749</timecreated>
+        <timemodified>1471984990</timemodified>
+        <title>Bright Idea: A Steering Commitee</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4100.mp3"&gt;ELL_Mod3_4100.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;If you are a new program embarking on a broad effort to link English learners with jobs and with occupational skills training or if you are new to serving immigrants and refugees not yet fluent in English, you might set up a steering committee. Such a committee can tell you about community needs and resources, and make you aware of family support services that your students can access.&lt;/p&gt;
+&lt;p&gt;The city of Seattle has been convening such a committee as part of its Ready To Work program for beginning and intermediate level English learners. Look at the agencies that are part of this committee. Are there any agencies that you think are important but that are not represented? If you were to set up such a committee for your local area, whom would you ask to participate? Who might convene such a committee?&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549715%20-%20Chalk%20hand-drawn%20idea%20light%20bulb%20icon%20on%20gradient%20background..jpg" width="300" height="300" alt="" style="float: right; margin: 5px;" /&gt;The Office of Immigrant and Refugee Affairs (OIRA) in Seattle has set up a steering committee for its Ready to Work bridge program. The committee helps define community needs from multiple perspectives.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Member agencies include the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Community colleges offering courses for ELLs, as well as career/technical training courses&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Local service providers from community-based organizations serving immigrants and refugees  &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Refugee resettlement agencies helping individuals get a foothold in the economy&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The county’s Workforce Development Council&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Seattle Housing Authority offering subsidized housing to low-income residents&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;A steering committee can help define the philosophy and direction of a program and offer insights into and data regarding needs. Such a committee can also help conduct focus groups with potential students.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Does your program have a steering committee for your bridge program or career pathway? If so, what organizations are represented? Do you have lessons learned or tips for others? If not, what organizations would you like to have represented and why? Discuss these questions with your Community of Practice, or with colleagues on the &lt;a href="https://community.lincs.ed.gov/comment/16581#comment-16581" title="ESL Pro Module 3 Unit 4 Discussion Forum, Steering Committees"&gt;LINCS discussion forum&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2331">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445042749</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2332">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445042749</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1166">
+        <prevpageid>1165</prevpageid>
+        <nextpageid>1167</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445042821</timecreated>
+        <timemodified>1445271873</timemodified>
+        <title>Focus Groups with Immigrants and Refugees</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4110.mp3"&gt;ELL_Mod3_4110.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Even after you have started your program, a needs assessment can help you see if you are on the right track or if you might be missing a component. Students should certainly participate in these discussions, and an area-wide focus group (or even one just for your program) can provide you with valuable information about the needs, backgrounds, and circumstances of potential and actual English learners.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549712%20-%20Target%20Audience%20words%20on%20signs%20with%20customers%20gathered%20around%20in%20demographic%20groups%20of%20consumers%2C%20bu.jpg" width="376" height="337" alt="" style="float: right; margin: 5px;" /&gt;Five actions to consider when setting up focus groups with immigrants and refugees: &lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Ask agencies with direct links to the community to do outreach.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Make sure interpreters are available so that members can speak in a language they are comfortable with.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Promise confidentiality and get releases from participants.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Offer refreshments and gifts for participating, if your budget allows.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Ask creative questions (e.g., “If you wake up tomorrow morning and you speak perfect English, what will you do?”). &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p dir="ltr"&gt;&lt;a href="http://www.cacollegepathways.org/sites/default/files/tips_tools_for_ccp_campus_focus_groups-final.pdf" title="Tools for Focus Groups" target="_blank"&gt;&lt;span style="font-size: medium;"&gt;Guide to focus groups with ELLs&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2333">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445042821</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2334">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445042821</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1167">
+        <prevpageid>1166</prevpageid>
+        <nextpageid>1168</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445043005</timecreated>
+        <timemodified>1445271370</timemodified>
+        <title>What a Focus Group Can Tell You</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4120.mp3"&gt;ELL_Mod3_4120.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;In Seattle, students from different areas in the city participated in bilingual focus groups lead by an experienced facilitator. You can see the results here. Do any of the results surprise you? Why? If you look at the students whom you serve, would the findings be essentially similar or would they be quite different? What could you do to get a sound picture of the backgrounds, circumstances, and needs of potential students?&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Screen%20Shot%202015-09-26%20at%2010.37.24%20AM.png" width="320" height="448" style="float: right; margin: 5px;" /&gt;To help shape its Ready To Work program, the Office of Immigrant and Refugee Affairs in Seattle conducted focus groups in four different locations with 83 immigrants and refugees. Here are some of their key findings, based on answers from members of the focus groups:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;A total of 55% had not worked in the United States.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;A total of 61% had not worked in their home country. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;A total of 70% of individuals who wanted to get a job or be promoted in a job were not sure what they wanted to do or what steps to take.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;&lt;span style="font-size: medium;"&gt;A total of 80% were not proficient computer users.&lt;/span&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2335">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043005</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2336">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043005</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1168">
+        <prevpageid>1167</prevpageid>
+        <nextpageid>1169</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445043062</timecreated>
+        <timemodified>1445271448</timemodified>
+        <title>Program Review</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4130.mp3"&gt;ELL_Mod3_4130.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;A broad needs assessment and a thorough program review will offer you information, insights, and judgements as well as solid numbers based on measurements. This then allows you to analyze both quantitative data as well as qualitative data. Taking together these findings help you to document the strengths of your program and point you toward future directions. But an analysis and interpretation of results also help you to pinpoint weaknesses and gaps in your services and show you where you might not be quite as successful as you had hoped. Perhaps you are not retaining students with lower education levels long enough so they are ready to transition. Perhaps your expectations for more educated students are not high enough to allow them to transition faster?&lt;/p&gt;
+&lt;p&gt;It’s important to look at your findings from all angles. As part of this process you might consider not only including inside partners, most importantly your eachers, but also outside partners involved in education, workforce development, training, and immigrant integration.&lt;/p&gt;
+&lt;p&gt;If you want to learn more about the different program models you might consider, check out Unit 2 on Program Design: Issues and Options. And Unit 3 Bright Ideas for Curriculum and Instruction offers strategies for preparing students for more the more rigorous work required in transition classes.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549718%20-%20Questions.jpg" width="300" height="436" alt="" style="float: right; margin: 5px;" /&gt;The findings from your needs assessment and your program review should yield answers to the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;What are the most likely training courses that English learners  might transition to?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;What is the most appropriate model for preparing our students for skills training? (bridge classes, concurrent enrollment, team taught integrated courses?)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;What proportion of our students are ready to transition and  what proportion are students with limited schooling?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;How many of our students have transitioned to occupational skills classes?  How many have completed?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;What supports helped our students advance ? What were barriers to success, and what did we do to reduce these?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;What is the profile of students who drop out of our program? What can we do to serve this group better in the future?&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2337">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043062</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2338">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043062</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1169">
+        <prevpageid>1168</prevpageid>
+        <nextpageid>1170</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445043123</timecreated>
+        <timemodified>1445271490</timemodified>
+        <title>Evaluating Professional Development</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4140.mp3"&gt;ELL_Mod3_4140.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The Workforce Investment and Opportunity Act of 2014 calls for high-quality PD in adult education and training.&lt;/p&gt;
+&lt;p&gt;The RAND Corporation study suggests that teachers matter more to student achievement than does any other aspect of schooling. Although non-school factors do influence achievement, schools have little control over these factors—but they can offer PD that focuses on improving student outcomes.&lt;/p&gt;
+&lt;p&gt;English Language Acquisition teachers and instructors teaching career/technical training courses need PD that helps them meet the needs of career pathway students.&lt;/p&gt;
+&lt;p&gt;The research in teaching suggests that a good teacher is often a strong factor in student achievement. But how do you know whether the PD training your teachers attend makes a difference in their knowledge and skills, leads to changes in teaching, and influences what students learn?&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549709%20-%20Professional%20Development%20Word%20Circle%20Concept.jpg" width="300" height="300" alt="" style="float: right; margin: 5px;" /&gt;Thomas Guskey has developed a model that describes five levels of evaluating PD. This model is a useful measure for determining whether PD is making a difference.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;To learn more about a framework for quality PD for programs serving ELLs, see  the Center for Adult English Language Acquisition (CAELA) brief, &lt;a href="http://www.cal.org/caelanetwork/profdev/framework/FrameworkNew.pdf" title="Framework for Quality PD" target="_blank"&gt;&lt;em&gt;Framework for Quality Professional Development for Practitioners Working With Adult English Language Learners&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2339">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2340">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043123</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1170">
+        <prevpageid>1169</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445043171</timecreated>
+        <timemodified>1471555616</timemodified>
+        <title>Five Levels of Evaluating PD</title>
+        <contents>&lt;p&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;What are your thoughts as you look at Thomas Guskey’s model for evaluating PD? Do you agree with these categories? If not, why not? As an administrator, could you use this model? As a teacher, do you think it captures what you have taken away from PD and the changes you have made in your teaching?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Guskey’s scheme for capturing the effectiveness of professional development has five levels of measurement and assessment, including the impact of PD on an organization.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Critical Levels of PD Evaluation include:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div&gt;&lt;span style="font-size: medium;"&gt;1.A teacher’s initial reaction to the experience&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: medium;"&gt;2.A teacher’s acquisition of new knowledge and skills&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: medium;"&gt;3.Changes in an organization’s advocacy, support, accommodations, facilitation, and recognition&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: medium;"&gt;4.A teacher’s degree of implementing and applying the new skills&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: medium;"&gt;5.Student learning outcomes, including outcomes related to achievement and to student attitudes and dispositions&lt;/span&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Now try it yourself:  Download the  &lt;a href="https://courses.lincs.ed.gov/1/pluginfile.php/16203/mod_folder/content/0/Assess_Prof_Dev_508.docx?forcedownload=1"&gt;attached Word document&lt;/a&gt; and think about questions you will ask to evaluate PD related to Preparing English Learners for Work and Career Pathways&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;To learn more please click on the link for &lt;a href="http://www.ascd.org/publications/educational-leadership/mar02/vol59/num06/Does-It-Make-a-Difference%C2%A2-Evaluating-Professional-Development.aspx" title="Evaluating Professional Development" target="_blank"&gt;&lt;em&gt;Does It Make a Difference? Evaluating Professional Development&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Guskey, T. R. (2002). Does it make a difference? Evaluating professional development. Educational Leadership, 59(6), 45-51.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54680"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54682"&gt;&lt;span style="color: #666699;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2341">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043171</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2342">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043171</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

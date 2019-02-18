@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="187" moduleid="5285" modulename="lesson" contextid="16187">
+  <lesson id="187">
+    <course>139</course>
+    <name>Unit 3: Introduction</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1441649580</timemodified>
+    <pages>
+      <page id="1093">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1099</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445289080</timecreated>
+        <timemodified>0</timemodified>
+        <title>Welcome</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/15-3040_v02%20ELL_Module03_03512.001.02%20lvr%20FNL.jpg" width="450" height="435" alt="Graphic displays the four units and two pathways that make up Module 3, Preparing English Learners for Work and Career Pathways. All users must start by finishing Unit 1, Understanding Key Concepts. After finishing Unit 1, administrators and others take Unit 2 (Program Design: Issues and Options) and then Unit 4 (Capturing What Counts: Program Evaluation). After finishing Unit 1, teachers and others take Unit 3 (Bright Ideas for Curriculum and Instruction) and then Unit 4 (Capturing What Counts: Learner Assessment)." style="display: block; margin-left: auto; margin-right: auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3010.mp3"&gt;ELL_Mod3_3010.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Hello, and welcome to Unit 3, on curriculum and instruction. This unit is designed for teachers and others involved in teaching and course development. It offers ideas and practical tips for contextualizing English language learning to help students meet the demands of work or career and technical training.&lt;/p&gt;
+&lt;p&gt;The unit starts with six steps for creating courses that infuse career content into English language teaching. It then presents suggestions for scaffolding content that is more complex and abstract than what English learners may be used to. The steps for curriculum development are meant to guide you as you develop your own courses and create language learning materials that help prepare students for occupational skills training and other academic work.&lt;/p&gt;
+&lt;p&gt;The second portion of the unit is dedicated to practical ideas for engaging students in deeper learning. You may already be using activities that can be adapted to contextualization; the ideas here can add to your existing repertoire. But you will also see how a set of powerful teaching strategies can be sequenced and combined as part of teaching–learning framework to achieve deeper learning.&lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;As you move through the unit, you’ll find scenarios that illustrate some of the challenges that English language arts (ELA) teachers in career pathway programs have encountered, along with “Bright Ideas” for dealing with these challenges. Both scenarios and responses come directly from the field. Finally, you will find resources for career exploration, as well as a TED Talk and a guide to help you understand issues in motivation and persistence.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;Throughout this unit, you will see videos that show teachers and students in action. We invite you to watch the videos but don’t expect you to stay with each video to the end, just to stay long enough to get a good sense of both content and strategy. Also included are some sample lessons for you to try with your students if you wish.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;Of course none of the ESL Pro LINCS modules endorse a particular curriculum, lesson, or strategy. Rather, the materials are presented to inspire you. Whether you use them or how you use them is up to you.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;At the end of the unit, we will ask you to self-assess your own knowledge and list some ideas you have taken away from this unit; so you may want to take your own notes as you move through the materials.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;We hope you enjoy the experience. &lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2205">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445289080</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1099">
+        <prevpageid>1093</prevpageid>
+        <nextpageid>1094</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649767</timecreated>
+        <timemodified>1445289110</timemodified>
+        <title>Audience and Focus</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061550960%20-%20Silhouettes%20Group%20of%20People%20in%20a%20Row%20Vector.jpg" width="300" height="305" alt="" style="float: right; margin: 5px;" /&gt;Unit 3 is designed for all users interested in curriculum and instruction with a special emphasis on ideas for developing contextualized lessons for ELLs. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;It offers ideas for developing a contextualized curriculum and highlights strategies and bright ideas from the field.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Content in this unit complements the content in Units 1, 2, and 4 in the module.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Module 3 also complements the other modules in this series. &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Module 1: Meeting the Language Needs of Today’s Adult English Language Learners&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Module 2: Integrating Digital Literacy Into English Language Instruction &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2194">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649767</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2206">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649767</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1095">
+        <prevpageid>1094</prevpageid>
+        <nextpageid>1096</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649881</timecreated>
+        <timemodified>1445102873</timemodified>
+        <title>Objectives</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549781%20-%20Confused%20Businessman.jpg" width="300" height="300" alt="" style="float: right; margin: 5px;" /&gt;After completing this unit, you should be able to  do the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Create your own contextualized  curriculum that meets the needs of the students in your class or program.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="2"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Describe the learning opportunities your students will need to prepare them for occupational skills training.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="3"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Consider at least three new teaching strategies to integrate into your teaching.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="4"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Discuss teaching scenarios with others and brainstorm solutions.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="5"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Identify resources for career exploration and persistence. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2197">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649881</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2198">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649881</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1096">
+        <prevpageid>1095</prevpageid>
+        <nextpageid>1097</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649912</timecreated>
+        <timemodified>1445102930</timemodified>
+        <title>Interactivity</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549742%20-%20Gear%20Head%20Concept.jpg" width="300" height="300" alt="xxxx" style="float: right; margin: 5px;" /&gt;This unit offers several opportunities to interact with the material. This unit will give you a chance to do the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Assess your own ability to use the information and strategies in this unit.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Download a planning sheet that lets you capture strengths and weaknesses of your own curriculum-planning process.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Capture your answers to questions and prompts in the notes pages.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Download a sample contextualized scenario lesson and try it out with your class.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span id="docs-internal-guid-73c6721f-a907-460c-1001-288e28456b82"&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2199">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649912</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2200">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649912</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1097">
+        <prevpageid>1096</prevpageid>
+        <nextpageid>1098</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649972</timecreated>
+        <timemodified>1445103167</timemodified>
+        <title>Guiding Questions</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549733%20-%20Pretty%20young%20woman%20making%20a%20decision%20with%20arrows%20and%20question%20mark%20above%20her%20head.jpg" width="300" height="194" alt="xxxxxx" style="float: right; margin: 5px;" /&gt;Thinking about these guiding questions will help you get your mind ready for the ideas to come. &lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How do I find out what is required of my students in technical training?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="2"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How can I scaffold instruction to prepare students for more complex texts and tasks?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="3"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How do I keep students engaged in meaningful tasks that promote deeper learning?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="4"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What are the challenges I may encounter as I create lessons that prepare students for occupational skills classes? How can I meet these challenges?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2201">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2202">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1098">
+        <prevpageid>1097</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445103141</timecreated>
+        <timemodified>1445272709</timemodified>
+        <title>Can-Do Pre-Assessment</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3020.mp3"&gt;ELL_Mod3_3020.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;You may be experienced in curriculum and instruction but may be new to preparing students for employment with family-sustaining wages or for training that leads to a career. But there should be some ideas that you may be able to adapt, whether you develop your own curriculum or create a class syllabus or just try to breathe new life into your teaching. To help you focus on areas that are new to you, take this quick self-assessment.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Consider the following statements and determine if they are No Problem, Sort of a Problem or Not at all a Problem.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span id="docs-internal-guid-a3bd8363-76db-017c-c1e9-ea731a64c2e6" style="font-size: medium;"&gt;&lt;strong&gt;Statement 1&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; I can create a plan for developing a curriculum that is contextualized to an occupational area.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span id="docs-internal-guid-a3bd8363-76db-22b8-97dc-8440c17d476d"&gt;&lt;strong&gt;Statement 2&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; I can develop several activities meant to activate students’ background knowledge.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span id="docs-internal-guid-a3bd8363-76db-4655-62e4-f86f8a34e63a" style="font-size: medium;"&gt;&lt;strong&gt;Statement 3&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; I can devise activities that connect learner experiences to the skills needed in a particular pathway.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span id="docs-internal-guid-a3bd8363-76db-6a3c-e32e-f9e324b00941"&gt;&lt;strong&gt;Statement 4&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; I can describe at least five peer-to-peer tasks that build the skills needed for work and training.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54680"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54682"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;. &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2203">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445103141</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2204">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445103141</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1094">
+        <prevpageid>1099</prevpageid>
+        <nextpageid>1095</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649819</timecreated>
+        <timemodified>1445102819</timemodified>
+        <title>Road Map</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549727%20-%20Nameless%20City%20Map.jpg" width="379" height="298" alt="" style="float: right; margin: 5px;" /&gt;Unit 3 contains the following main sections:&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Contextualized Curriculum: Six Steps&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="2"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;A Teaching–Learning Framework for Contextualization&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="3"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Instructional Strategies for Infusing Career Content Into English Language Acquisition (ELA)&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="4"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Real-Life Scenarios and Bright Ideas for Teaching&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="5"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Beyond Language and Literacy&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2195">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2196">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="184" moduleid="5277" modulename="lesson" contextid="16179">
+  <lesson id="184">
+    <course>139</course>
+    <name>Unit 2: Part 2: Career Clusters and Pathways</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1449778964</timemodified>
+    <pages>
+      <page id="1060">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1061</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444951594</timecreated>
+        <timemodified>1445096866</timemodified>
+        <title>Career Clusters and Pathways for Adult English Learners</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2060.mp3"&gt;ELL_Mod3_2060.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;You may be generally familiar with the concepts or language of career pathways and need only to think about implications for English learners, or you may be puzzled by all the talk about career pathways, career clusters and pathways. Your state may already have a career cluster model in place or may be planning to build one. Graphics depicting career clusters may look confusing at first, but once students have articulated their goals and experience, they can become a visual entry point for discussions of career possibilities and the skills needed to succeed.&lt;/p&gt;
+&lt;p&gt;In this section, you will see a graphic that illustrates what career clusters look like in Minnesota (many states have similar models), read a definition of career pathway, and see a career pathway that shows a wage progression so that students can clearly see the financial benefits of moving up a career ladder in a particular field. Also included is a timeline that shows how long it takes students in South Texas college to move from a contextualized ESL program to completion of a training course.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2131">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444951594</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1061">
+        <prevpageid>1060</prevpageid>
+        <nextpageid>1062</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444951643</timecreated>
+        <timemodified>1445284816</timemodified>
+        <title>Career Clusters &amp; Pathways</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The chart below illustrates career clusters and pathways available for students in Minnesota. This model is based on the national Career Clusters model developed by the US Department of Education.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;In its central circle, the graphic indicates Foundation Skills required for all careers. The next ring out divides into six broad Career Fields. Beyond the rings are a listing of sixteen Career Clusters and related course pathways available in the State of Minnesota.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;img src="@@PLUGINFILE@@/Minnesota%20Graphic.png" width="726" height="529" alt="Minnesota Career Clusters and Pathways chart" /&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: x-small;"&gt;Source: &lt;i&gt;Minnesota Career Fields, Clusters &amp;amp; Pathways &lt;/i&gt;[Graphic] by Minnesota State Colleges and Universities, 2010, St. Paul, MN: Author. Copyright 2010 by Minnesota State Colleges and Universities. &lt;a href="https://www.iseek.org/iseek/static/pathways.pdf"&gt;https://www.iseek.org/iseek/static/pathways.pdf&lt;/a&gt;  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2132">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444951643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2133">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444951643</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1062">
+        <prevpageid>1061</prevpageid>
+        <nextpageid>1063</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444951713</timecreated>
+        <timemodified>1445097540</timemodified>
+        <title>Definition of a Career Pathway</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549736%20-%20Strategic%20Journey.jpg" width="400" height="380" alt="" style="float: right; margin: 5px;" /&gt;“A series of connected education and training strategies and support services that enables individuals to secure industry-relevant certification, obtain employment in an occupational area, and advance to higher levels of future education and employment in that area.”&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;em&gt;&lt;span style="font-size: medium;"&gt;April 4, 2012 Joint Letter USDOE, USDOL, USHHS&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2134">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444951713</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2135">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444951713</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1063">
+        <prevpageid>1062</prevpageid>
+        <nextpageid>1064</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444951825</timecreated>
+        <timemodified>1445285826</timemodified>
+        <title>ELL Pathway with Wage Progression</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;To show learners the opportunities presented by a pathway, South Texas College has created a chart that illustrates the different attainment levels and the wages associated with each level of a career pathway.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;In this chart, the entry-level position of Pharmacy Technician (paying $7.50 to $8.00 per hour) is listed at the bottom. Succeeding steps up the career ladder indicate a clear pathway of “stackable” certificates leading to a job in Medical and Health Service Management paying $18 to $20 per hour in the local job market. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;A key concept of the South Texas College model is that each stage of the pathway prepares students for employment and also functions as meeting the requirements for courses on the next step on the career ladder.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;img src="@@PLUGINFILE@@/South%20Texas%20Wage%20Attainment.JPG" width="758" height="567" alt="South Texas College Wage Attainment chart" /&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: x-small;"&gt;Source: &lt;i&gt;South Texas College Career Pathway: Pharmacy Technology &lt;/i&gt;[graphic] by South Texas College, 2012, McAllen, TX. Copyright 2012 by South Texas College. American Institutes for Research used with permission from South Texas College.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2136">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444951825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2137">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444951825</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1064">
+        <prevpageid>1063</prevpageid>
+        <nextpageid>1065</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444951935</timecreated>
+        <timemodified>1449612027</timemodified>
+        <title>Pharmacy Technology Pathway Timeline</title>
+        <contents>&lt;table align="right"&gt;
+&lt;p&gt;&lt;span style="font-size: 13px; line-height: 16.0029983520508px; text-align: start;"&gt;South Texas College Pharmacy Technology Pathway Timeline (Months 1 - 24)&lt;/span&gt;&lt;/p&gt;
+&lt;colgroup&gt;&lt;col width="25px" /&gt;&lt;col width="25px" /&gt;&lt;col width="25px" /&gt;&lt;col width="25px" /&gt;&lt;col width="25px" /&gt;&lt;col width="25px" /&gt;&lt;col width="25px" /&gt;&lt;col width="25px" /&gt;&lt;col width="25px" /&gt;&lt;col width="25px" /&gt;&lt;col width="25px" /&gt;&lt;col width="25px" /&gt;&lt;col width="25px" /&gt;&lt;col width="25px" /&gt;&lt;col width="25px" /&gt;&lt;col width="25px" /&gt;&lt;col width="25px" /&gt;&lt;col width="25px" /&gt;&lt;col width="12px" /&gt;&lt;col width="24px" /&gt;&lt;col width="27px" /&gt;&lt;col width="25px" /&gt;&lt;col width="25px" /&gt;&lt;col width="25px" /&gt;&lt;col width="25px" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;2&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;3&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;4&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;5&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;6&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;7&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;8&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;9&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;10&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;11&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;12&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;13&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;14&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;15&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;16&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;17&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;18&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th colspan="2" style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;19&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;20&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;21&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;22&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;23&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border: 1px solid #000000; background-color: #19568b;" scope="colgroup"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;24&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="10" style="border: 1px solid #000000; background-color: #fff2b5;"&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;Contextualized ESL and PreGED in Pharmacy Technician (200 hrs)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td colspan="2" style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td colspan="2" style="border: 1px solid #000000; background-color: #fff2b5;"&gt; Bilingual Occupational Terminology (10 hrs)&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td colspan="2" style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td colspan="7" style="border: 1px solid #000000; background-color: #fff2b5;"&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;Contextualized GED (140 hrs)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td colspan="2" style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td colspan="2" style="border: 1px solid #000000; background-color: #fff2b5;"&gt; Academic Success Skills Terminology (10 hrs)&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td colspan="2" style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td colspan="3" style="border: 1px solid #000000; background-color: #fff2b5;"&gt; Cont. GED: Science &amp;amp; Social Science (20 hrs)&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td colspan="8" style="border: 1px solid #000000; background-color: #fff2b5;"&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;Pharmacy Tech. Trainee (112 hrs)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td colspan="2" style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt; &lt;/td&gt;
+&lt;td style="border: 1px solid #000000; background-color: #fff2b5;"&gt; Employability Skills (10 hrs)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;It is important for English learners to see how long it might take to get academic credentials in a career pathway. But it is equally important for learners to see that there are exit points along the way and realize that each point offers new opportunities. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Please note that the timeline for ESL/ELA is relatively short and students enter the ELA Bridge class at a level NRS levels 4-5.  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;Source: &lt;i&gt;South Texas College: Pharmacy Technology Pathway Time Line &lt;/i&gt;[graphic] by South Texas College, McAllen, TX. Copyright by South Texas College. American Institutes for Research used with permission from South Texas College.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2138">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444951935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2139">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444951935</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1065">
+        <prevpageid>1064</prevpageid>
+        <nextpageid>1066</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444952009</timecreated>
+        <timemodified>1445098314</timemodified>
+        <title>Contextualization Models and ELA Adaptations</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2070.mp3"&gt;ELL_Mod3_2070.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The fields of career, technical and adult education offer a variety of resources focused on the development of career pathways. Yet, there are few ideas and little information available that guide programs in establishing services that prepare low-skilled or high-skilled English learners to participate, persist, and succeed in skills training. This unit and the accompanying RESOURCE GUIDE are meant to fill that gap. In this section, you will hear a college administrator describe his rationale for creating pathways for a community where the vast majority of adults are low income and speak a language other than English at home. You will see how you can adapt the different elements of a comprehensive program to meet the needs of ELLs in your community. You will also read about five models of contextualization which include general workforce preparation, work-based programs, bridge programs, concurrent enrollment, and integrated instruction using team teaching.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;See also: &lt;a href="http://lincs.ed.gov/programs/acp" title="Adult Career Pathways" target="_blank"&gt;http://lincs.ed.gov/programs/acp&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2140">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444952009</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2141">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444952009</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1066">
+        <prevpageid>1065</prevpageid>
+        <nextpageid>1067</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444952106</timecreated>
+        <timemodified>1445098688</timemodified>
+        <title>Rationale for Serving Lower Skilled English Learners in a Pathway Program</title>
+        <contents>&lt;p&gt;&lt;object align="right" width="75%" height="315"&gt;&lt;param name="movie" value="//www.youtube.com/embed/sqlqwx_0AvA?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="75%" height="315" src="https://www.youtube.com/v/sqlqwx_0AvA?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Juan Carlos Aguirre, Director of Continuing Education at South Texas College, explains the rationale for implementing  career pathway instruction for low-skilled learners in a community with a high percentage of English language learners.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p&gt;From video interview &lt;i&gt;South Texas College: Everyone is College Material, Building Effective Solutions for Low-Level Students&lt;/i&gt; conducted by Heide Wrigley, Literacywork International. Retrieved from YouTube at https://www.youtube.com/watch?v=sqlqwx_0AvA. American Institutes for Research used video with permission from Juan Carlos Aguirre and Heide Wrigley.&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2142">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444952106</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2143">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444952106</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1067">
+        <prevpageid>1066</prevpageid>
+        <nextpageid>1068</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444952174</timecreated>
+        <timemodified>1445098810</timemodified>
+        <title>Definition of a Career Pathway</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;There are many types of contextualized ELA models, but the process for developing and implementing any model is roughly the same. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2080.mp3"&gt;ELL_Mod3_2080.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Planning a contextualized ELA program takes significant effort and collaboration. Administrators need to work with community partners to build a contextualized program for ELLs looking for good jobs. Partners may include members of Workforce Boards, training providers, social service agencies, and employers.&lt;/p&gt;
+&lt;p&gt;Teachers and others who are developing curriculum will want to be involved in deciding what knowledge, skills and strategies ELL students will need to be ready for work and training. They also need to determine how workforce preparation skills can be integrated with language and literacy acquisition.&lt;/p&gt;
+&lt;p&gt;Program managers will need to make hiring decisions, selecting teachers who can work in teams with technical instructors, advisors, case managers. and others to offer professional development that focuses on creating learning experiences for ELLS that reflect the demands of work and training.&lt;/p&gt;
+&lt;p&gt;In preparing facilities, managers, staff and teachers have to keep in mind technology concerns and decide whether students will have access to a computer lab, or whether laptops and tablets will be part of everyday teaching. They will need to consider the conditions that make it possible for teachers to use multimedia to make lessons come alive.&lt;/p&gt;
+&lt;p&gt;Student recruitment should include partnerships with community service providers, immigrant serving organizations, and places of worship who will conduct community outreach.&lt;/p&gt;
+&lt;p&gt;Initial assessment and ongoing assessment might be conducted by both teachers and staff. This team will provide information on initial proficiency levels as well as learning gains.&lt;/p&gt;
+&lt;p&gt;Conducting a program requires a strong site-based team; managers must lead and oversee implementation while instructors must teach students the language and literacy skills as well as the cultural competencies they need for success at work and training.&lt;/p&gt;
+&lt;p&gt;Successfully transitioning English learners requires collaboration with workforce boards, training providers and employers who are willing to give students who are not fluent in English a chance. For students transitioning to work, a good job developer can “market” ELLs as workers whose competence and willingness to learn and work hard should more than make up for their limited English.&lt;/p&gt;
+&lt;p&gt;Finally, both administrators and teachers will play an important role in documenting program success, capturing progress and outcomes and engaging in a process of continuous improvement.&lt;/p&gt;
+&lt;p&gt;Outside partners can play an important role in supporting ongoing efforts to keep the program relevant to the needs of ELLs and area employers.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="5" cellspacing="5" align="center" style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td rowspan="2" style="text-align: center; background-color: #19568b;" valign="middle" scope="row"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Plan Program&lt;/span&gt;&lt;/td&gt;
+&lt;td rowspan="2" valign="middle"&gt;&lt;span style="font-size: medium; color: #000000;"&gt;&lt;span style="font-size: x-large;"&gt;→&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td rowspan="2" style="text-align: center; background-color: #19568b;" valign="middle" scope="row"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Develop Curriculum&lt;/span&gt;&lt;/td&gt;
+&lt;td style="text-align: center; background-color: #ffffff;" valign="middle" scope="row"&gt;&lt;span style="font-size: medium; color: #000000;"&gt;&lt;span style="font-size: x-large;"&gt;→&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style="text-align: center; background-color: #19568b;" valign="middle" scope="row"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Hire &amp;amp; Train Teachers&lt;/span&gt;&lt;/td&gt;
+&lt;td rowspan="2" style="text-align: center; background-color: #ffffff;" valign="middle" scope="row"&gt;&lt;span style="font-size: medium; color: #000000;"&gt;&lt;span style="font-size: x-large;"&gt;→&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td rowspan="2" style="text-align: center; background-color: #19568b;" valign="middle" scope="row"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Recruit &amp;amp; Assess Students&lt;/span&gt;&lt;/td&gt;
+&lt;td rowspan="2" style="text-align: center; background-color: #ffffff;" valign="middle" scope="row"&gt;&lt;span style="font-size: medium; color: #000000;"&gt;&lt;span style="font-size: x-large;"&gt;→&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td rowspan="2" style="text-align: center; background-color: #19568b;" valign="middle" scope="row"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Conduct Program&lt;/span&gt;&lt;/td&gt;
+&lt;td rowspan="2" style="text-align: center; background-color: #ffffff;" valign="middle" scope="row"&gt;&lt;span style="font-size: medium; color: #000000;"&gt;&lt;span style="font-size: x-large;"&gt;→&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td rowspan="2" style="text-align: center; background-color: #19568b;" valign="middle" scope="row"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Transition Students&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #ffffff;" valign="middle" scope="row"&gt;&lt;span style="font-size: medium; color: #000000;"&gt;&lt;span style="font-size: x-large;"&gt;→&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style="text-align: center; background-color: #19568b;" valign="middle" scope="row"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Prepare Facilities&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="11" style="text-align: center; background-color: #19568b;" valign="middle" scope="row"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Continuous Improvement Assessment &amp;amp; Revision&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2144">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444952174</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2145">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444952174</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1068">
+        <prevpageid>1067</prevpageid>
+        <nextpageid>1069</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444952240</timecreated>
+        <timemodified>1445098985</timemodified>
+        <title>Adapting Program Components for ELLs: Plan Program</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2100.mp3"&gt;ELL_Mod3_2100.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;As you plan your program and reach out to the community, keep in mind the diversity of learners who need services. Check census data and other demographics to find out more about the levels of education of immigrants and refugees in your community. To what extent will you need to serve English learners who have less than a high school education? How about foreign-born professionals with limited English? How can you best take advantage of the education and experience they have and accelerate the time it takes to transition to work and training? Perhaps a blended learning model that includes self-study of professional/technical vocabulary in their field along with readings from magazines or popular journals? Lower skilled adults, including those with interrupted schooling, can benefit from a program that combines face-to-face instruction with independent self-paced learning as well. They often appreciate the opportunity to review and repeat computer-based lessons so they can fill in some gaps in knowledge they might have.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Include immigrant-serving institutions as partners &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Secure access to translators and interpreters &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Identify agencies and persons whom the community trusts &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Consider involving ethnic media to get the word out &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Don’t simply rely on translated flyers  &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Identify local job opportunities and training courses accessible to individuals not yet fully proficient in English &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Create partnerships and staff positions to provide comprehensive support for learners who lead challenging lives &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Identify courses that offer hands-on training for low-skilled adults &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Identify agencies and offices that offer evaluation of credential for foreign-born professionals &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Decide on a pathway and contextualization model appropriate refugees and immigrants still learning English&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2146">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444952240</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2147">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444952240</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1069">
+        <prevpageid>1068</prevpageid>
+        <nextpageid>1070</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444952357</timecreated>
+        <timemodified>1445099054</timemodified>
+        <title>Adapting Program Components for ELLs: Develop Curriculum</title>
+        <contents>&lt;p&gt;&lt;span size="3" style="font-size: medium;"&gt;&lt;span style="line-height: normal;"&gt;Listen to audio:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2110.mp3"&gt;ELL_Mod3_2110.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Selecting or developing a curriculum that meets the needs of learners who are on a path to a career or to a good job may require some research and inquiry. Once you have a good sense of the language, literacy and skill demands of jobs in your area and of the work required of students in training programs, you can start to map out topics, tasks, and themes for your courses and organize them in a logical sequence. As you move on to Unit 3, you’ll find practical ideas and resources for creating your own course. You’ll also find tools and strategies for contextualized instruction along with examples from the field.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Meet with partners and map out what ELLs need to know and be able to do in various levels of training&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Identify tasks and skills that are part of career pathway courses and map out associated language and literacy skills &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Identify typical classroom interactions (team work, presentations, group discussions) and create communication tasks that build these skills&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;List concepts, terms, and language structures typical for a pathway  and create activities to increase and strengthen vocabulary&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Integrate career exploration  so you can guide students toward a good career that engages them and takes into account past experience, goals and current proficiency  &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2148">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444952357</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2149">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444952357</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1070">
+        <prevpageid>1069</prevpageid>
+        <nextpageid>1071</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444952582</timecreated>
+        <timemodified>1449612138</timemodified>
+        <title>Hire &amp; Train Teachers | Prepare Facilities</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Select seasoned teachers who&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;have a special interest in the career pathways you selected and are able to work as part of a team; &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;are willing to work with a technical instructor and jointly create unified lesson plans and learning materials; &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;are able to infuse their language teaching with career-focused content;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;have experience integrating digital literacy skills into a career focused language curriculum. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Offer professional development that&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Is focused on the interests and needs of ELLs preparing for work and training;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Includes strategies for accessing information regarding local jobs and training opportunities.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Prepare facilities that &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;allow for peer-to-peer interactions; &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;include access to technology for teachers and students. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2150">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444952582</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2151">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444952582</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1071">
+        <prevpageid>1070</prevpageid>
+        <nextpageid>1072</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444952668</timecreated>
+        <timemodified>1445181474</timemodified>
+        <title>Recruit and Assess Students</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2120.mp3"&gt;ELL_Mod3_2120.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Many programs rely on word of mouth or flyers to advertise their classes and reach students. But increasingly programs are collaborating with other agencies, employers and workforce boards to inform students about new opportunities to learn the language of work and prepare for a career. These programs use radio, TV and social media to connect with potential students.&lt;/p&gt;
+&lt;p&gt;You probably have a test in place that you use to place students and to capture pre and post test scores. These tests offer valid data on language and literacy skills, but as you build a pathway programs for adult ELLs you may want to go a step further and conduct information sessions in the community and as part of orientation. These sessions can help you gauge students’ level of interest in a particular industry and their readiness to commit to a longer term program. Talking with students individually and in groups can also give you a better sense of the challenges that students face and that might make it difficult for them to persist. Ideally you might have collaborative relationships with social service providers that you can call on to help students deal with some of the turbulence factors in their lives.&lt;/p&gt;
+&lt;p&gt;You will find more ideas related to community outreach and learner assessment in Unit 4.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Include partner in community-wide outreach, use translators where necessary &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Offer orientation in places where immigrants and refugees gather and/or where trusted individuals can be identified&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Consider multimedia presentations to connect with lower level ELLs&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Present the full pathway, not just your ELA program &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Include opportunities for peer-to-peer discussion with participants to allow concerns to surface, have translators available &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;If your program uses WIOA Title 1 funding, establish eligibility for the program (e.g., students must be authorized) &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Conduct a needs assessment to establish interest and ability to sustain program participation beyond the ELA courses&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Adopt a holistic assessment model that includes language proficiency, interest in the career pathways you offer, and hopes and dreams deferred because of limited English (see Unit 4 for details)&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2152">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444952668</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2153">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444952668</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1072">
+        <prevpageid>1071</prevpageid>
+        <nextpageid>1073</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444952787</timecreated>
+        <timemodified>1445181490</timemodified>
+        <title>Conduct Program</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2130.mp3"&gt;ELL_Mod3_2130.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Conducting a program is not an easy task even after thorough planning. Along with regular meetings with partners and staff, issues may arise that call for meetings that focus on solving problems. Attendance may slip and you may need to discuss strategies to reduce barriers and to help students persist. You may need to organize ongoing PD that builds the capacity of teachers to implement a forward looking curriculum that prepares students for the next step in their educational path. Perhaps you already planned for technology, but teachers and learners may not be using the technology to its greatest advantage. You may need to review your tech training to make sure it includes the tech tools that students will need for training or at work – tools such as using email, word processing, using search engines, and presentation software.&lt;/p&gt;
+&lt;p&gt;To help you stay on track, evaluation focused on continuous improvement and ongoing assessments of learner progress may need to be in place. If you check with staff and learners regularly and use a systematic process for gathering information, it should become clear early on what is working and what is not. Starting the process early will allow you to make any mid-course corrections you need to make. There will be more information on continuous improvement in Unit 4.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Offer courses at a time convenient to ELLs who may be working, including evenings and Saturday &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Establish managed enrollment and consider a cohort model so students can support each other&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Take advantage of skills and capabilities that are not dependent on English proficiency&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Allow time for ELA teachers and advisors to meet and discuss student progress or challenges &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Create referrals to agencies that offer support services for immigrants and refugees or involve a case manager with experience with this population &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Establish opportunities for high quality PD specifically focused on meeting the needs of ELLs preparing for work ore career pathways&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2154">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444952787</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2155">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444952787</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1073">
+        <prevpageid>1072</prevpageid>
+        <nextpageid>1074</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444952882</timecreated>
+        <timemodified>1445181506</timemodified>
+        <title>Transition Students</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2140.mp3"&gt;ELL_Mod3_2140.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;For most ELA learners transitioning beyond the relative comfort of an ELA class to a training course may be exciting but is not an easy process, particularly if it means changing from one institution, such as an adult school, to a different one, such as a Community College. For many English learners, the structure of US academic institution is a mystery, and they might find the process of applying to a training program and navigating the system of courses a bit daunting. These students can benefit a great deal from the support of someone who acts as an advisor or a college navigator who offers information but also is able to keep spirits high when the process seems overwhelming.&lt;/p&gt;
+&lt;p&gt;Given the wide diversity of ELL students, it may be important to customize information for individual students or small groups who share the same goal. Students who are in the workforce may need information about courses that might help them advance, while those new to work can benefit from exploring which demand jobs in the local or regional economy best fit their experience and their interests. ELLs new to the system of occupational training may not know enough about a particular career path to make informed decisions ( a particular training course may be too long or too expensive or may involve practices such as handling blood and other bodily fluids that families find objectionable). Students seeking office careers may not be aware of the high level of spelling needed for the work. Students with professional degrees, particularly in healthcare, may need to know about the process for recertification and the high cost involved in attending medical school in the U.S. These students might need a chance to explore alternative options and the opportunity to talk with their peers about the feelings associated with the loss of status when shifting to a less prestigious occupation. You may have heard students who had to give up their professions say with sadness, “I used to be somebody.”&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Integrate college success strategies  into workforce development activities; focus on areas of difficulty such as writing &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Arrange a site visit for students to a college that offers occupational skills training in the pathway you selected; visit a classroom &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Offer workshops in &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Financial aid and financial literacy &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Navigating the admissions process&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Test taking strategies for college admission &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Invite a college advisor to answer questions ELA students might have; collect questions ahead of time &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Offer 1 on 1 support for first generation college students who are unsure of their ability to navigate  the system in English  &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2156">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444952882</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2157">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444952882</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1074">
+        <prevpageid>1073</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444952958</timecreated>
+        <timemodified>1471905680</timemodified>
+        <title>Questions to Consider</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Which program components do you still need to build out to best serve your English learners?  What is your plan for getting there?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Low skilled ELLs are likely to need a great deal of support. What supportive services in the community can you access? What kind of support can an internal staff person provide?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;High skilled adults may transition to careers in a professional area. How will you support students in this group?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Regarding serving low skilled ELLs, share your thoughts with your Community of Practice, or with your colleagues on the&lt;a href="https://community.lincs.ed.gov/comment/16580#comment-16580" title="ESL Pro Module 3 Unit 2 Discussion Forum, low skilled learners"&gt; LINCS discussion forum.&lt;/a&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54680"&gt;&lt;span style="color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681" style="font-size: medium; line-height: 1.231;"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select to your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2158">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444952958</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2159">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444952958</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

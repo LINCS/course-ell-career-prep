@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="179" moduleid="5267" modulename="lesson" contextid="16169">
+  <lesson id="179">
+    <course>139</course>
+    <name>Unit 1: Part 1: Key Concepts</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1450286849</timemodified>
+    <pages>
+      <page id="1016">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1024</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445086527</timecreated>
+        <timemodified>0</timemodified>
+        <title>Acknowledgments </title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Acknowledgments&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Author&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Heide Spruck Wrigley, Literacywork International&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Editors&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Mariann Fedele-McLeod&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id="docs-internal-guid-b6c756a5-75dd-23a2-473a-b582899d749e" style="font-size: medium;"&gt;Cherise Moore, Ph.D.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2063">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445086527</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1024">
+        <prevpageid>1016</prevpageid>
+        <nextpageid>1025</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445086601</timecreated>
+        <timemodified>0</timemodified>
+        <title>Welcome</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Hello and welcome to our first unit in contextualizing adult English language acquisition (or ELA) to career pathways. ELA, by the way, replaces the term ESL or ESOL, a term most of us have used for many years.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;In this unit, we hope to provide some foundational knowledge that later units will build on. As you move through this unit, you can expect to see a description of the key concepts for an approach with a very long title: “Connecting Adult English Language Learners to Career Pathways in Regional High-Growth Industries.” But you will see that the ideas we discuss in this course are pretty straightforward. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;For everyone interested in the topic, we offer a few guiding questions to get your mind ready. We also offer a self-assessment to help you discover what you already know and where you might have some gaps. We have tried to customize the unit so that you can simply click on the ideas and concepts that interest you most.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Some of you may have experience setting up a Career Pathway program but may not be sure how to meet the special needs of different groups of English language learners (or ELLs). We have a section on this topic. And even if you have worked quite a bit with immigrants and refugees, you may want to think about the questions we pose to you.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For teachers and others who may wonder what contextualized instruction might look like in the classroom, there is a video clip showing students in an integrated class that combines learning English with reviewing concepts related to health care. We will talk a lot more about different ways of combining content knowledge and skills in the following units.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Since contextualizing basic skills to career pathways is a fairly new direction in the field, it is sometimes difficult to distinguish myths from realities. We will let you decide which is which but will also offer some answers.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;&lt;span style="font-size: medium;"&gt;To help you prepare for the challenges you may face, we offer several problem-solving scenarios. We invite you to think about possible solutions and then list some ideas to consider. So let’s get started.&lt;/span&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2064">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445086601</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2065">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445086601</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1018">
+        <prevpageid>1017</prevpageid>
+        <nextpageid>1019</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649819</timecreated>
+        <timemodified>1449607896</timemodified>
+        <title>Road Map</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span size="3" style="font-size: medium;"&gt;&lt;span style="line-height: 19.6959991455078px;"&gt;Listen to audio:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_1040.mp3"&gt;ELL_Mod2_1040.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;We hope that after completing this unit, everyone will come away with new ideas and a better understanding of what it means to contextualize ELA. The sections on special features and basic concepts should help with that, especially for those of you who are new to the field.&lt;/p&gt;
+&lt;p&gt;If you are a teacher, you might be particularly interested in Section 4, where we ask you to think about the different groups of ELAs you may teach. We think you will enjoy watching the video of a class that prepares students for a course in Health Care. Thinking about different ways of addressing challenges should appeal to everyone; so have fun with the scenarios you see in Section 6. If you are a program administrator, you might gather your staff and discuss where you fall on an Implementation Readiness scale. We also have a worksheet for you that will help you plan your next steps. And finally, we ask you to rate yourself again at the end of the unit to see if you now feel more confident and competent when it comes to preparing students for work, training, and career pathways.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Key Concepts: Self-Assessment&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Key Features of Successful Programs&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Basic Concepts and Definitions &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Myth or Reality? You Decide&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Adapting Ideas: Contextualization for Adult English Language Learners&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Teacher in Action: Contextualized ELA&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Problem-Based Scenarios, Reflections, and Points To Remember &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Planning For Implementation: Determining Readiness&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Next Steps in Planning For Implementation &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Takeaways and Post Assessment &lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2049">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2050">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1019">
+        <prevpageid>1018</prevpageid>
+        <nextpageid>1021</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649972</timecreated>
+        <timemodified>1445089229</timemodified>
+        <title>Guiding Questions</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_1020.mp3"&gt;ELL_Mod2_1020.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Guiding questions are a great way to activate background knowledge for yourself, as well as for your students. So, go ahead, read the questions and think about what you know and what you want to learn. You probably have your own questions, as well. Why not jot them down? If the idea of using guiding questions in your work intrigues you, click the link. It will lead you to “Guiding Questions: Guidelines for Leadership Education Programs.”&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;We are posing these guiding questions to frame the discussion and help you think about what you already know and what you want to learn. Questions are a great way to activate background knowledge in learners. So, go ahead, read the questions and think about what you know and what you want to learn. You probably have your own questions, as well. Why not jot them down in your notes pages? &lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What do we mean by “contextualizing ELA for work or career pathways”? &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Why has contextualization received so much attention in the language acquisition field?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What does contextualized instruction look like for ELLs? &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How can you make the ideas presented here work in your program?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;span&gt;If the idea of using guiding questions in your work intrigues you, more on “Guiding Questions”  can be found at &lt;a href="http://www.ila-net.org/communities/LC/GuidingQuestionsFinal.pdf" title="More on Guiding Questions" target="_blank"&gt;http://www.ila-net.org/communities/LC/GuidingQuestionsFinal.pdf&lt;/a&gt;. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;International Leadership Association. &lt;i&gt;Guiding Questions: Guidelines for Leadership Education Programs&lt;/i&gt;. Silver Spring, MD: International Leadership Association. (Posted with permission.)&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2051">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2052">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1021">
+        <prevpageid>1019</prevpageid>
+        <nextpageid>1020</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444932499</timecreated>
+        <timemodified>1449878604</timemodified>
+        <title>Key Concepts (Self-Assessment)</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELl_Mod2_1060_v2.mp3"&gt;ELL_Mod2_1060.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The Workforce Innovation and Opportunity Act (WIOA) has introduced many new terms and concepts. Contextualization may be a term you are familiar with (after all, good language teaching has always been contextualized). But how well do you know the key concepts associated with contextualization? Do you know them well enough to explain them to others? Here is your chance to rate yourself. &lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549769%20-%20The%20mercury%20bursts%20through%20the%20thermometer%20reading%20How%20Are%20You%20Dong%2C%20giving%20you%20a%20self%20evaluation%20or.jpg" width="250" height="203" alt="" style="float: right; margin: 5px;" /&gt;Rate Yourself&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;How Well Can You Explain Key Concepts?&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;You may be new to contextualization for ELLs or may be an experienced professional. This quick assessment will allow you to find out how much you know and how confident you feel about your ability to explain key elements to others.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Imagine you are asked to explain “Contextualization for Work and Careers for ELLs.” Which of the elements on the chart could you explain easily?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id="docs-internal-guid-f22c6c71-c9a2-ced2-f05f-46c379fbeb2f" style="font-size: medium;"&gt;Download and complete the &lt;a href="@@PLUGINFILE@@/M3U1_S6_Pre_CanDo_508.docx" title="Activity Download"&gt;&lt;em&gt;Can-Do Self-Assessment&lt;/em&gt;&lt;/a&gt; in Word.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2055">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444932499</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2056">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444932499</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1022">
+        <prevpageid>1020</prevpageid>
+        <nextpageid>1023</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444933236</timecreated>
+        <timemodified>1450904091</timemodified>
+        <title>Basic Concepts and Definitions</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_1110.mp3"&gt;ELL_Mod2_1110.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Let’s look at some of the key elements in contextualization. If we wanted to integrate all the essential concepts into one long title, it would be “Connecting Adult English Language Learners to Regional High-Growth Career Pathways Through Contextualization,” but that’s a bit long. On the next pages, you will see descriptions and definitions for each of these concepts.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;&lt;strong&gt;Basic Concepts Explained&lt;/strong&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;(&lt;span&gt;If your browser is not displaying the responses, click on each feature for more information.&lt;/span&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;1. Contextualization&lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Teaching language and literacy in the context of a content area; teaching the skills, knowledge, and attitudes likely be used in the learner’s current or future environment.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;See also:&lt;br /&gt; 1. “Ekkens, K., &amp;amp; Winke, P. (2009). Evaluating workplace English language programs. Language Assessment Quarterly, 6(4), 265–287.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;2. Contextualization for work and careers&lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Teaching basic skills, “soft” skills, mathematics, critical thinking, collaboration, and information literacy for application to a particular occupational skills course or a job sector.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;To learn more, see also Chernus, K. &amp;amp; Fowler (September 2010) Integrating Curriculum: Lessons for Adult Education from Career and Technical Education &lt;a href="https://lincs.ed.gov/publications/pdf/IntergratingCurriculum2010.pdf" title="Integrating Curriculum" target="_blank"&gt;https://lincs.ed.gov/publications/pdf/IntergratingCurriculum2010.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;3. Contextualized ELA instruction&lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Focused on the specific needs of those who are not yet fluent in English; may include teaching oral and written communication skills, vocabulary, problem solving, and digital literacy, as well as cross-cultural skills related to success at work and in training.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;To learn more, see also Wrigley, S.W., Richer, E., Martinson, K., Kubo, H., &amp;amp; Strawn, J. (2003). The Language of Opportunity: Expanding Employment Prospects for Adults with Limited English Skills. Washington, DC: Center for Law and Social Policy. &lt;a href="http://www.sbctc.edu/college/education/career_pathways_wrigley_language_opportunity_rpt_june07.pdf" title="Language Opportunity" target="_blank"&gt;http://www.sbctc.edu/college/education/career_pathways_wrigley_language_opportunity_rpt_june07.pdf&lt;/a&gt; or &lt;a href="http://www.clasp.org/resources-and-publications/files/0150.pdf" title="The Language of Opportunity" target="_blank"&gt;http://www.clasp.org/resources-and-publications/files/0150.pdf&lt;/a&gt; Copyright © 2003 by the Center for Law and Social Policy, the National Institute for Literacy, and the National Adult Education Professional Development Consortium. All rights reserved.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;4. High-growth industries&lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Work in growing industries that offer new and expanding job opportunities; businesses that offer “good jobs for good wages.” &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;See also Department of Labor High Growth Job Initiative &lt;a href="http://www.doleta.gov/BRG/JobTrainInitiative/" title="Job Training" target="_blank"&gt;http://www.doleta.gov/BRG/JobTrainInitiative/&lt;/a&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;5. Career pathways&lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;A structured sequence of courses leading up to a credential or degree associated with a career; steps are aligned and may include transition from noncredit to credit courses.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;See also:&lt;/p&gt;
+&lt;p&gt;1. Center for Law and Social Policy. (2014). Alliance for Quality Career Pathways &lt;a href="http://www.clasp.org/issues/postsecondary/pages/aqcp-framework-version-1-0" title="Framework" target="_blank"&gt;http://www.clasp.org/issues/postsecondary/pages/aqcp-framework-version-1-0&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;2. &lt;a href="http://www2.ed.gov/about/offices/list/ovae/pi/AdultEd/wioa-reauthorization.html" title="OCTAE WIOA Page" target="_blank"&gt;OCTAE: WIOA web page&lt;/a&gt;.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;6. Career pathways for ELLs&lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Not all career pathways are appropriate for individuals still learning English. Appropriate pathways are those for which first-level jobs don’t require full English-language proficiency, and skills training courses are mostly hands on. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;See also Crandall, J., Wrigley, H.S., &amp;amp; Spence, C. (2011). Health Care Career Pathways and Adult English Language Learners. Washington, DC: National Institute for Literacy. &lt;a href="http://lincs.ed.gov/publications/pdf/HealthCareCareerPathways.pdf" title="Healthcare Career Pathways" target="_blank"&gt;http://lincs.ed.gov/publications/pdf/HealthCareCareerPathways.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;7. Definition of career pathways in the Workforce Innovation and Opportunities Act (WIOA)&lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Career Pathways include a combination of rigorous education, training, and other services that&lt;br /&gt;&lt;br /&gt; a. Align with industry needs &lt;br /&gt; b. Prepare students for secondary and postsecondary education&lt;br /&gt; c. Include student counseling in support of education and career goals&lt;br /&gt; d. Include instruction that is contextualized or offered concurrently with training for a specific occupation or occupational cluster&lt;br /&gt; e. Organize education, training, and other services so that career advancement is accelerated&lt;br /&gt; f. Enable students to attain a secondary school diploma or its recognized equivalent and at least one recognized credential&lt;br /&gt; g. Help students enter or advance in a specific career &lt;br /&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;US Department of Labor Workforce Innovation and Opportunities Act of 2014, H.R. 803, 113th Cong. (2014) &lt;a href="http://www.doleta.gov/wioa/" title="WIOA" target="_blank"&gt;http://www.doleta.gov/wioa/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;See also, the revised “Career Pathways Toolkit: A Guide for System Development" https://blog.dol.gov/2015/09/03/building-better-career-pathways/&lt;br /&gt; See also, the LINCS Career Pathways Discussion Group https://community.lincs.ed.gov/group/career-pathways&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2059">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444933236</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2060">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444933236</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1020">
+        <prevpageid>1021</prevpageid>
+        <nextpageid>1022</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444932594</timecreated>
+        <timemodified>1449780594</timemodified>
+        <title>Key Features of Successful Programs</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Successful career-focused contextualization programs in Adult Education tend to include the following:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;(If your browser is not displaying the responses, click on each feature for more information.)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;1. An emphasis on high-growth industries&lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Contextualization speaks to the need for workforce development highlighted in the Workforce Innovation and Opportunity Act (WIOA). The act suggests closer alignment between adult education and employment services, to support those looking for work and looking to advance in their current jobs. &lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;2. A focus on family-sustaining jobs available regionally &lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;This new trend focuses on preparing students for jobs in the regional economy. Education and training should respond to the needs of employers who can offer jobs that pay wages that a family can live on.&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;3. Strong linkages between adult ELA programs and career technical programs&lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Contextualization speaks to the need for workforce development highlighted in the WIOA. The act emphasizes the importance of collaboration between adult education providers and training providers.&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;4. Content-based, rigorous instruction, applicable to the demands of the local economy&lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Contextualization is for career moves beyond a focus on life skills. Instead, contextualization programs put a far greater emphasis on skills and knowledge associated with certificates and credentials. This does not mean that ELA instructors should teach technical information; rather, the focus is on building the background knowledge and the language and literacy skills that students need to meet the skill demands of training and the changing workplace.&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;5. Optimal use of technology&lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;By now, it is eminently clear that most good jobs require computer literacy skills for communication and information processing; so any program you set up should offer students the opportunity to learn and use technology. Module 2: “Integrating Digital Literacy Into Adult English Language Instruction” will give you great ideas on how to do that.&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;6. Integration of career awareness and career exploration&lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Many ELLs don’t know what employment and training opportunities exist and have not decided what career they may pursue. Those with professional backgrounds may look for opportunities in their given fields, although recertification and obtaining a new degree may not be feasible. Career exploration sessions can help ELLs see how their past experience, current situation, and future goals may align with current opportunities for education, life, and training.&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: x-small;"&gt; MPR Associates, Inc. (2010). ABE career connections: A manual for integrating Adult Basic Education into career pathways. &lt;a href="http://lincs.ed.gov/publications/pdf/CareerPathwaysToolkit2011.pdf" title="Career Pathways Toolkit" target="_blank"&gt;Retrieved from http://lincs.ed.gov/publications/pdf/CareerPathwaysToolkit2011.pdf&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2057">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444932594</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2058">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444932594</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1023">
+        <prevpageid>1022</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444933772</timecreated>
+        <timemodified>1471310045</timemodified>
+        <title>Myth or Reality? You Decide.</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio: &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_1160.mp3"&gt;ELL_Mod2_1160.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;By now, you have probably heard a great deal about the need to prepare students for the demands of the future through workforce preparation courses and activities. But you may still be confused about some of the details. Is team teaching by two instructors the only way to teach ELA in the context of an occupational area? Can you only contextualize if you have enough students with the same career goals to make a class? Perhaps you think that contextualization is only appropriate for advanced-level ELLs. But is it? As a teacher, you may wonder if it’s possible to create and teach a class solo, without a technical instructor to support you. What about the key skills needed in the area of workforce preparation. Aren’t those mainly writing a résumé and filling out a job application?&lt;/p&gt;
+&lt;p&gt;Let’s see if you can separate the myths you hear from the reality on the ground. Continue and take our quiz. Consider each statement and click on either myth or reality. An explanation will pop up.&lt;/p&gt;
+&lt;p&gt;If you are not convinced, stay tuned for the other units in this module. We’ll go into greater detail down the road.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;If your browser is not displaying the responses, click on each feature for more information.&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Can you tell myths about contextualization from reality? The following questions contain a series of statements that could be true (reality) or false (myth). Which ones are myths? You decide!&lt;/span&gt;&lt;/p&gt;
+&lt;table border="0" align="left"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Contextualized instruction requires co-teaching by a technical instructor and an ELA teacher.&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Myth or Reality?&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Answer&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;MYTH. This is a myth and a popular misconception, based in part on information aabout the Integrated Basic Education Skills Training(I-BEST) model, which does involve coteaching. But other contextualization models don’t require that a team of teachers be present at the same time in a classroom. These include contextualized bridge programs offered before a training course, programs that coenroll students in a technical class and an ELA class (concurrent enrollment), and general contextualized ELA courses on workforce preparation that may focus on a particular industry, such as health, manufacturing, construction, or information technology (IT).&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" align="left"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;If students don’t have similar career goals, it doesn’t make sense to set up a contextualization program. &lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Myth or Reality?&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Answer&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;MYTH. This is a myth. It is possible to set up a contextualized course for students who don’t yet have specific goals. Some programs have set up contextualized transition or bridge classes that introduce students to different industry sectors, such as health, construction, and IT. Some programs focus on career awareness. In these classes, students get a chance to explore job and training opportunities while at the same time interacting with tasks and materials reflective of a given sector.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" align="left"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Contextualizing for career pathways is appropriate only for advanced-level ELLs. &lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Myth or Reality?&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Answer&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;MYTH. This is a myth. There are a number of contextualized programs that target intermediate-level students preparing for careers that offer entry-level positions, particularly in health or in construction. Successful programs targeting lower-skilled students often focus on jobs that have a strong hands-on component, such as certified nursing assistant or home health care, roofing, or welding.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" align="left"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;A good contextualization teacher needs to be both an ELA expert and an expert in the technical fields that students plan to enter. &lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Myth or Reality?&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Answer&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;MYTH. With sufficient time to prepare, an ELA teacher working alone can develop a course that contextualizes language and literacy skills for work and careers. She can investigate textbooks (high school texts are often written at the right level for ELLs), and collect materials from the Internet that can be used to bring skills acquisition to life. This approach works well for contextualization courses that are not linked to a specific training course. For ELA classes that are linked to a specific technical course, the technical instructor can offer background information and examples.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" align="left"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Workforce preparation is mostly about teaching interviewing skills, résumé writing, and filling out applications. &lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Myth or Reality?&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Answer&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;MYTH. While these skills are important, workforce preparation now has a far broader focus. It includes communication skills; functional literacy; use of appropriate resources (including digital resources); use of cognitive skills for problem solving and decision making; and noncognitive skills, such as self-management/self-regulation and soft skills related to getting along with others and working collaboratively. Engaging students in problem-solving scenarios, and team and individual projects can help develop and strengthen these skills.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" align="left"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Workforce boards and employers can make important contributions to an ELA program that is planning to contextualize its courses and prepare students for work and careers. &lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Myth or Reality?&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Answer&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;REALITY. Preparing students for work and careers requires a good sense of where growth opportunities exist. Employers and workforce boards should have the latest information on regional trends. Workforce boards should be able to provide labor market information and connect programs serving ELLs to employers who are hiring adults not yet fully proficient in English.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" align="left"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Students will learn computer skills in their training program or at work; so there is no need to teach digital literacy skills in a contextualized ELA course. &lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Myth or Reality?&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Answer&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;MYTH. We cannot assume That ELLs will learn all the computer skills they need in the next-step program. In reality, both employers and technical instructors expect adults to already have basic digital literacy skills, such as using e-mail, filling out online forms, and obtaining information from the Internet. Many ELLs have not had the opportunity to become competent in these areas. A contextualized ELA class should teach the skills related to what the Programme for the International Assessment of Adult Competencies calls problem solving in technology-rich environments. For ideas on how to teach these skills, please see Module 2: “Integrating Digital Literacy Into Adult English Language Instruction.”&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54680"&gt;&lt;span style="color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681" style="font-size: medium; line-height: 1.231;"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2061">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444933772</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2062">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444933772</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1025">
+        <prevpageid>1024</prevpageid>
+        <nextpageid>1017</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649767</timecreated>
+        <timemodified>1445285459</timemodified>
+        <title>Objectives</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;After completing this unit, you should be able to do the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Explain what we mean by contextualizing ELA to career pathways.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;List several characteristics of adult English language learners (ELLs) and corresponding needs.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;List three instructional strategies that help beginning ELLs to be successful in a contextual program.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Explain key concepts of “Connecting Adult ELLs to Career Pathways in Regional High-Growth Industries.” &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Apply ideas you have learned in different scenarios to your own work context.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2047">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649767</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2048">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649767</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1017">
+        <prevpageid>1025</prevpageid>
+        <nextpageid>1018</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1442109370</timecreated>
+        <timemodified>1444923079</timemodified>
+        <title>Certificate of Completion</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Certificate.jpg" width="350" height="262" alt="&amp;quot;&amp;quot;" style="line-height: 16.0029983520508px; margin: 5px; float: right;" /&gt;&lt;span style="font-size: medium;"&gt;You can earn a certificate of completion for this unit by completing the required unit activities.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2053">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442109370</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2054">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442109370</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="194" moduleid="5297" modulename="lesson" contextid="16199">
+  <lesson id="194">
+    <course>139</course>
+    <name>Unit 4: Part 3: Alternative and Formative Learner Assessment</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1449779153</timemodified>
+    <pages>
+      <page id="1171">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1172</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445043519</timecreated>
+        <timemodified>1445269021</timemodified>
+        <title>Benefits of Alternative Assessments</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549706%20-%20Question%20Mark%20Asking%20Winning%20Reward%20Concept.jpg" width="300" height="196" alt="" style="float: right; margin: 5px;" /&gt;“Formative assessment means asking the right questions at the right time.” &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Peter deWitt, Education Week&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4160.mp3"&gt;ELL_Mod3_4160.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;All assessments have both benefits and advantages. Which one of these benefits could persuade you to try some of the alternative assessments discussed in this unit? What other benefits do you see?&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Alternative assessments can be summative or formative:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549769%20-%20The%20mercury%20bursts%20through%20the%20thermometer%20reading%20How%20Are%20You%20Dong%2C%20giving%20you%20a%20self%20evaluation%20or.jpg" width="220" height="179" alt="" style="float: left; margin: 5px;" /&gt;1. Summative assessments capture the knowledge and competencies at the end of a course. These assessments can be used to document what has been learned and can signal if a student is ready to transition into work or into a training program. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;2. Formative Assessments provide feedback to teachers and students. These assessments can guide instruction and improve the teaching–learning process.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Alternative assessments can&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;help students self-assess their knowledge and skills; &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;capture dispositions, including student perceptions of their own abilities to learn and persist; and&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;help document a more complex set of skills, including self-management, problem solving, and the ability to work in teams.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2343">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043519</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1172">
+        <prevpageid>1171</prevpageid>
+        <nextpageid>1173</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445043581</timecreated>
+        <timemodified>1445269073</timemodified>
+        <title>Bright Ideas to Try</title>
+        <contents>&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549703%20-%20Man%20Hand%20writing%20Feedback%20with%20marker%20on%20transparent%20wipe%20board.jpg" width="300" height="225" alt="" style="float: right; margin: 5px;" /&gt;Have students identify their passions. Offer some topics to explore on the Internet and then see where students’ interests take them. Tie this information to discussion on possible careers.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Invite students to use signals to indicate if they have understood something completely (concept, directions, terminology) , are still a bit fuzzy, or are very confused. Reteach as necessary.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Observe students during group work and take notes on who speaks up and who leads the group. Use this information to identify possible student mentors.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Ask students to draw a career pathway, using a storyboard technique. Have students draw question marks for a pathway step that is not clear to them.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Institute project-based learning (PBL) to teach complex skills important in modern workplaces. Create opportunities for students to plan, do research, and present their information. Consider having students create exhibits similar to those used in science fairs.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2344">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043581</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2345">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043581</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1173">
+        <prevpageid>1172</prevpageid>
+        <nextpageid>1174</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445043661</timecreated>
+        <timemodified>1445110346</timemodified>
+        <title>Six Critical Assessment Questions for ELL Career Pathways</title>
+        <contents>&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549700%20-%203d%20number%20six%206%20symbol%20with%20rustic%20gold%20metal.jpg" width="300" height="300" alt="" style="float: right; margin: 5px;" /&gt;How can I find out what technical materials students might be able to read and understand?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How can I tell whether students are familiar with technical vocabulary? &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How can I demonstrate to my students that they are making progress and increasing their competence in specific domains?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How can I document that students are developing career readiness skills?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How can I find out whether students are learning what I teach? &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;&lt;span style="font-size: medium;"&gt;How can my program determine if students are ready to participate in a program that links English acquisition with skills training?&lt;/span&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;In answering these questions, &lt;a href="https://www.edutopia.org/pdfs/blogs/edutopia-finley-53ways-check-for-understanding.pdf" title="Ways to check for understanding" target="_blank"&gt;here are some tools&lt;/a&gt; you might consider.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2346">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043661</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2347">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043661</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1174">
+        <prevpageid>1173</prevpageid>
+        <nextpageid>1175</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445043706</timecreated>
+        <timemodified>1446852079</timemodified>
+        <title>Case in Point: Matching Student Needs with Program Goals</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4170.mp3"&gt;ELL_Mod3_4170.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Alternative assessments can be combined into a holistic assessment that offers detailed information about a student’s background and his or her readiness to participate in an ambitious program that requires a great deal of commitment. Holistic assessments happen at intake and seek to capture skills, as well as needs.&lt;/p&gt;
+&lt;p&gt;The Alamo Colleges in San Antonio, Texas, offer such as holistic assessment in their Integrated Basic Education and Skills Training (I-BEST) course. After an initial assessment, students attend a short-term, industry-specific career exploration and enhancement course. The course asks students about the level of commitment they are able to make and helps them make informed decisions about the training course that will best meet their needs. The assessment not only assesses students’ level of English but asks about their ability to read and write in Spanish. Students discuss the family support they need and the social service support they currently receive.&lt;/p&gt;
+&lt;p&gt;Students also explore career interests and goals and report on their past education and work experience.&lt;/p&gt;
+&lt;p&gt;In the Alamo orientation course, holistic assessment is combined with career exploration, so that students can make a full commitment to a set of courses that integrate basic skills, including English acquisition, into the teaching of technical skills.&lt;/p&gt;
+&lt;p&gt;Take a look at the attached Alamo I-BEST Intake Form. Which of these categories does your program assess? Which questions could you add to your assessment? What are your thoughts regarding a weeklong student orientation, intake, and assessment session? Do you think such a session might be worthwhile?&lt;/p&gt;
+&lt;p&gt;For thoughts on developing the course, see the attached white paper developed by the Alamo Colleges.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Screen%20Shot%202015-10-17%20at%202.33.19%20PM.png" width="300" height="402" alt="Assessments of education and work experience; career interests and goals; support needs; English proficiency and Spanish literacy" style="margin: 5px; float: right;" /&gt;The Integrated Basic Education and Skills Training (I-BEST) program at the Alamo Colleges, in San Antonio, Texas, has developed a holistic assessment that allows both learners and staff to assess whether the college programs match what students need.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The weeklong orientation and assessment sessions cover the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Quantitative and qualitative assessments of education and work experience &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Career interests and goals &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Support needs&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;English proficiency and Spanish literacy&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Alamo Colleges. Alamo I-BEST RAPID form A (Reliable Assessment of Proficiency for Individual Development), Version 3/18/13. Copyright 2013 by Anson Green. American Institutes for Research used with permission from Anson Green.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2348">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043706</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2349">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043706</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1175">
+        <prevpageid>1174</prevpageid>
+        <nextpageid>1176</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445043752</timecreated>
+        <timemodified>1471555985</timemodified>
+        <title>Reflection Questions</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Holistic assessments allow you to look beyond test scores and gain a sense of what a student’s talents and dreams might be—for life, as well as for a career. These assessments also offer insights into a student’s readiness to take on an intensive program or commit to a particular job. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Think about the questions you might ask your students and record your answers in your notes.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For a look at the &lt;a href="@@PLUGINFILE@@/AdaptedIntakeform_508.pdf" title="Intake Form"&gt;summary form&lt;/a&gt; that the Alamo Colleges are using.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For more information on the Alamo I-BEST, read the &lt;a href="@@PLUGINFILE@@/M3U4S33_Alamo_508.pdf" title="Alamo Summary"&gt;attached white paper&lt;/a&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;1. You want to learn more about a student’s language experience and language use. What questions could you ask?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;2. You are an advisor in a contextualization program. Many of the students lead challenging lives, and you are worried about their ability to persist in a training program. What questions would you ask? What support could you provide or suggest?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;3. Your students don’t speak much English, but you suspect they have had experience working as entrepreneurs in the informal economy in the United States. What questions would you ask? What questions wouldn’t you ask?&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2350">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043752</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2351">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043752</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1176">
+        <prevpageid>1175</prevpageid>
+        <nextpageid>1177</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445043821</timecreated>
+        <timemodified>1445269323</timemodified>
+        <title>Students Self-Assess Ability to Read Technical Information</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_4180.mp3"&gt;ELL_Mod3_4180.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Many ELL teachers have used self-assessments, including reflection notes on portfolios and can-do lists. One of the most worthwhile assessments for career pathways includes the use of authentic materials and technical textbooks. Known as a reading demonstration, this assessment invites students to leaf through industry-related materials and (peruse) a series of textbooks written at different levels. Students then discuss with one another and with the teacher which materials they found intriguing and would like to know more about, and which textbooks they felt competent enough to tackle.&lt;/p&gt;
+&lt;p&gt;You can use this kind of assessment as part of a one-on-one assessment or work with a small group after you give individual students a chance to look over the materials and form their responses.&lt;/p&gt;
+&lt;p&gt;This sort of self-assessment gives you information about students’ interest levels, as well as about their proficiency in handling different levels of text complexity.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Asking student to review textbooks and assess their ability to read them assesses both interest and competence&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Bright Idea&lt;/strong&gt;:  &lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Bring in materials from the occupational field written at different levels. Include college and high school textbooks, brochures advertising classes, trade publications, catalogues, and magazines written for interested lay persons.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Ask students to choose some texts they can read easily and invite them to read them aloud with you. Ask one or more easy comprehension questions.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Depending on how fluently the student reads, select either an easier or a more challenging text and invite the student to try to read it.   &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Ask how interesting the student finds the text (very, not very). Record responses.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2352">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043821</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2353">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043821</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1177">
+        <prevpageid>1176</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445043902</timecreated>
+        <timemodified>1471907447</timemodified>
+        <title>Questions</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Asking learners to show you what they are interested in reading and what they can read provides you with valuable information. Think about the potential of this kind of self-assessment for your class .&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;1. Does the “show me what you can understand” process seem workable to you? Why or why not? &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;2. Think of a field your students might be interested in. Where would you go to collect authentic materials? Share your ideas with your Community of Practice, or with your colleagues on the &lt;a href="https://community.lincs.ed.gov/comment/16582#comment-16582" title="ESL Pro Module 3 Unit 4 Discussion Forum Authentic Materials"&gt;LINCS discussion forum&lt;/a&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;3. You have a large class. How could you adapt this assessment to pair or small-group work?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54680"&gt;&lt;span style="color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681" style="font-size: medium; line-height: 1.231;"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2354">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043902</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2355">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445043902</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

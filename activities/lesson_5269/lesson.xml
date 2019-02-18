@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="181" moduleid="5269" modulename="lesson" contextid="16171">
+  <lesson id="181">
+    <course>139</course>
+    <name>Unit 1: Part 3: Problem-based Scenarios</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1449779216</timemodified>
+    <pages>
+      <page id="1034">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1035</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444949850</timecreated>
+        <timemodified>1445285855</timemodified>
+        <title>Problem-Based Scenarios, Reflections, and Points to Remember</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_1210.mp3"&gt;ELL_Mod2_1210.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;By now, you may have a pretty good sense of the key concepts in contextualization. But how do you know if you really know? What if you imagine a situation in which you have to explain some of these concepts, convince others of the merits of contextualization, and provide additional details? Could you do it? Here’s your chance to find out. Look at the scenarios on the next pages. How would you handle each? What would you do? What would you say?&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h3 dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549754%20-%20Workgroup%20design.jpg" width="300" height="308" alt="" style="margin: 5px; float: right;" /&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;h3 dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;h3 dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Directions for Scenarios: Applying Key Concepts to Your Own Situation&lt;/span&gt;&lt;/h3&gt;
+&lt;ol style="text-align: left;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Scenarios: On the next set of pages, you will see scenarios that you may encounter as part of your work.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Reflection: Here is where you can think about the scenario and jot down how you might handle the situation. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Points to Remember: Here we offer some key points regarding contextualization that you may not have thought about.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;The following scenarios are based on real-life problems from the field. For this section, simply read a scenario, think about your answer, then, look at the “Points to Remember” for an additional perspective.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2081">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444949850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1035">
+        <prevpageid>1034</prevpageid>
+        <nextpageid>1036</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444949934</timecreated>
+        <timemodified>0</timemodified>
+        <title>Scenario 1 | Contextualized ELA</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;Scenario&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;You have a monthly meeting with your colleagues. They have heard about contextualization but are not sure what it means. They are happy with the ELA programs the community offers. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Questions&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How would you explain key concepts to your colleagues?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How would you “market” contextualized ELA to them? &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2082">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444949934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2083">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444949934</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1036">
+        <prevpageid>1035</prevpageid>
+        <nextpageid>1037</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444949981</timecreated>
+        <timemodified>1445283676</timemodified>
+        <title>Scenario 1 | Points to Remember</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;&lt;img src="@@PLUGINFILE@@/slide%2051.jpg" width="530" height="380" alt="Students working together at a table." /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: x-small;"&gt;&lt;span style="line-height: 1.231;"&gt;Source: &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;From Carlos Rosario International Public Charter School Facebook Timeline [Photograph]. Copyright 2015 by Carlos Rosario International Public Charter School.  Available from &lt;a href="https://www.facebook.com/CarlosRosarioSchool/photos_stream"&gt;https://www.facebook.com/CarlosRosarioSchool/photos_stream&lt;/a&gt;. American Institutes for Research used with permission from the author.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: x-small;"&gt;&lt;span style="line-height: 1.231;"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;&lt;span style="font-size: medium;"&gt;You could offer the following ex&lt;/span&gt;planation:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr" style="text-align: left;"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Contextualizing means teaching the skills students need for meeting the demands of a new environment, which can be work, training, or an academic program. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr" style="text-align: left;"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;New initiatives focus on contextualization to career pathways. In this model, students learn the mathematics, vocabulary, and literacy skills they will need to succeed in career and technical training. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr" style="text-align: left;"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Many immigrants and refugees in this community are working in jobs that don’t have much of a future. Their English level is still fairly low. In order to get good jobs that help support their families, they need at least a Level 1 skills certificate. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;We have good ELA programs in this area, but adults new to English don’t have time to complete all those levels. If we teach ELA for work and training at the middle levels and accelerate transition to training, our students can get good jobs sooner. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2084">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444949981</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2085">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444949981</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1037">
+        <prevpageid>1036</prevpageid>
+        <nextpageid>1038</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444950049</timecreated>
+        <timemodified>0</timemodified>
+        <title>Scenario 2 | What's New, Exactly?</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Scenario&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Some of your staff have become a bit skeptical regarding the prospect of ELA contextualization. They remember the vocational English as a Second Language (VESL) programs of the 1980s and 1990s, which were focused on getting refugees new to English into entry-level jobs as quickly as possible. Many of these jobs were in the service industry or on the assembly line and offered little hope for advancement. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Question&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What would you say about new initiatives that focus on career pathways? How are they different from older models, and what are new components that can add excitement and innovation to teaching and learning?&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2086">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444950049</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2087">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444950049</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1038">
+        <prevpageid>1037</prevpageid>
+        <nextpageid>1039</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444950142</timecreated>
+        <timemodified>1445092313</timemodified>
+        <title>Scenario 2 | Points to Remember</title>
+        <contents>&lt;table border="0" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Screen%20Shot%202015-10-17%20at%209.27.36%20AM.png" width="350" height="318" alt="Six key elements of career pathways: Build cross-agency partnerships; Engage Employers and conduct gap analysis; Clarify roles and responsibilities; Design Programs; Identify Funding needs/sources; Align policies and programs" style="margin: 5px auto; display: block;" /&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;Adapted by Literacywork International from various Career Pathway Frameworks,&lt;br /&gt; including &lt;/span&gt;&lt;span&gt;&lt;a href="http://www.doleta.gov/taaccct/pdf/presenters/McCarthy.pdf" title="Image source" target="_blank"&gt;Stackable Credentials: What Are They? - doleta.gov&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;&lt;strong&gt;You could make the following points&lt;/strong&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Thinking in the adult education field has changed, with now a greater emphasis on preparing students for jobs that can sustain a family.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;We know that many first jobs for immigrants and refugees new to English are jobs that don’t pay sufficient wages to lift a family out of poverty. The new direction is toward jobs that are connected to career pathways.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;We now realize that the economy is changing, and in order to get a good job with good pay, students need at least some college and a marketable certificate. Often an entry-level job may be a good starting point. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;We have the opportunity to work with colleges and others that offer career and technical training, create on-ramps to these programs, and implement key elements (see graphic on the right).&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;In addition, technology presents all kinds of possibilities to facilitate and accelerate learning so that students can advance faster to employment or a credential. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2088">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444950142</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2089">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444950142</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1039">
+        <prevpageid>1038</prevpageid>
+        <nextpageid>1040</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444950289</timecreated>
+        <timemodified>0</timemodified>
+        <title>Scenario 3 | Who Should Be at the Table?</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Scenario&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;You have some funding to set up a program that links your ELA program with a skills-training program in your town. You want your students to have a chance to move up the career ladder. However, you don’t know whom to talk with. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Question&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Whom would you invite to be on your planning committee or advisory group?&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2090">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444950289</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2091">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444950289</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1040">
+        <prevpageid>1039</prevpageid>
+        <nextpageid>1041</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444950409</timecreated>
+        <timemodified>1445286109</timemodified>
+        <title>Scenario 3 | Points to Remember</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Contextualization requires collaboration, especially if you want to make sure that your students will be trained for jobs that have good future prospects. Bringing together different perspectives is key, but you also want to work with people who can get things done.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;The following types of individuals can be helpful: &lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Training provider (community college or community-based organization) with a track record of high-quality training and good job placement numbers&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Enthusiastic ELA staff capable of collaborating with colleagues who teach technical courses&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;A person from a social service agency that can provide support services &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;A member of the Workforce Development Board who can provide input on regional employment trends&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;An employer from a growing industry in which adults with limited English skills can move up beyond entry level&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2092">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444950409</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2093">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444950409</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1041">
+        <prevpageid>1040</prevpageid>
+        <nextpageid>1042</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445093388</timecreated>
+        <timemodified>1450473540</timemodified>
+        <title>Planning for Implementation: Determining Readiness</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Is your program ready to implement a contextualization strategy, or do you still have quite a bit of planning to do? This exercise will help you consider where you are in key areas of implementation.&lt;/span&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Download the &lt;a href="@@PLUGINFILE@@/M3U1_S51_HO_Planning_508.docx" title="Planning Guide"&gt;&lt;em&gt;Planning for Implementation&lt;/em&gt;&lt;/a&gt; worksheet to plan with your colleagues and outline next steps. Consider each item and determine your level of implementation. Is it Not Yet; In Process; or in Place? (Click on the arrows for more explanation i&lt;span&gt;f your browser is not displaying the responses.)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;1. Our program has ongoing relationships with employers who are hiring workers not yet fluent in English. &lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Engaging employers is often key to a successful program. Getting to know employers and advocating for your students (they are hard working, conscientious, and reliable) can help level the hiring field for students who may not yet be fully proficient in English. Here’s what you can do: Announce at local meetings your plans to build a program that prepares students for work and training, and ask for input. Create connections with employers through the help of Workforce Boards, industry associations, and local service institutions, like the Kiwanis. Your community college probably has an advisory board that includes employers and may be willing to share these connections. &lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;2. We have conducted a needs assessment with potential students to gauge their interest in various pathways and in contextualized instruction toward those pathways. &lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Determine your target group: If you build a quality program, students will find their way to you, but it may take time. Involving community places that potential students frequent and identifying persons that the community trusts can help you get the word out and market your program beyond the student population that you currently serve. Set up some focus groups with potential students. Get feedback on your plans. Identify the kinds of jobs that potential students are looking for and the kind of career training that interests them. Explain the assistance that the program can provide to help students. &lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;3. We have discussed barriers to participation in a contextualized course and in ongoing training and to having plans on ways to support students with difficult lives. &lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Reducing barriers: You already know that English learners have difficult lives. They have work and family responsibilities, and some face significant economic challenges, as well. Child care and transportation issues often make regular attendance difficult. But success at work and in training requires regular attendance. Here’s a suggestion: Work with other agencies to identify what kind of assistance is available to students when a crisis hits (that may be in housing, employment, health and safety, or emotional and social well-being). Determine what support you can offer and set up a referral service to agencies that can provide the assistance that you cannot provide. &lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;4. We have set up an advisory board that includes employers, faculty from a training institution, and members of the Workforce Board to help guide us. &lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Advisory board: An advisory board can facilitate collaboration with partners and others willing to support your efforts and guide implementation. Who can you ask to be part of your board? Here is a suggestion: an employer, a member of your Workforce Board, a training provider, a representative of a community group that supports immigrants and refugees, and/or a faculty member from a community college concerned about student success. &lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;5. The teachers are enthusiastic about providing new opportunities for students and are prepared to teach contextualized courses focused on workforce preparation and transition to technical classes. &lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Bringing your teachers on board may be the most important step that an administrator can take. Some teachers may feel overwhelmed by the prospect of moving toward contextualization. Here’re a few suggestions on ways to support teachers: Share information from the literature that shows that contextualized instruction accelerates transition to work and training for students who are looking for work or hoping to advance at work. Share videos of teachers in action, to help everyone see that “good teaching” doesn’t differ much across programs, although the contexts for learning may change. Set up a planning team and ask for input and feedback. Offer release time or a stipend for program development if you can. &lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;See next page for 6-10.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549769%20-%20The%20mercury%20bursts%20through%20the%20thermometer%20reading%20How%20Are%20You%20Dong%2C%20giving%20you%20a%20self%20evaluation%20or.jpg" width="208" height="169" alt="" /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2094">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445093388</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2095">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445093388</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1042">
+        <prevpageid>1041</prevpageid>
+        <nextpageid>1044</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1450473200</timecreated>
+        <timemodified>1450473553</timemodified>
+        <title>Determining Readiness Continued</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549769%20-%20The%20mercury%20bursts%20through%20the%20thermometer%20reading%20How%20Are%20You%20Dong%2C%20giving%20you%20a%20self%20evaluation%20or.jpg" width="258" height="210" alt="" style="margin-top: 5px; margin-bottom: 5px;" /&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Not Yet; In Process; or in Place?&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;6. We are providing professional development opportunities for our teachers, with a focus on teaching ELA in the context of work and training. &lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Professional development can go a long way toward helping a team gain both confidence and competence in taking on a contextualization effort. Here are some suggestions for topics that professional development might address: Background information on the what, how, and why of contextualized instruction focused on work and training can help everyone understand the rationale for this change. Examples of program models can help the team decide on the best option. Videos can illustrate what contextualized teaching looks like in the classroom. Demonstration of instructional strategies can show how language and literacy teaching can be adapted to new contexts. &lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;7. We have a curriculum in place that includes tasks and activities that reflect what students need to know and be able to do in a modern workplace. &lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;A successful contextualized curriculum contains various strands that are interwoven to create lessons that build the language, literacy, and analytical skills that students need in order to be successful at work and in training. The curriculum also needs to highlight tasks, visuals, and materials that reflect learning in the world beyond the ELA classroom. Consult textbooks from various training courses and examine curricula focused on workplace ESL (now called work-based ELA) and occupational skills training. Identify the concepts, procedures, and vocabulary that students need in order to master their technical courses, and outline the language and literacy skills that are necessary for acquiring this knowledge. &lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;8. Our program has identified institutions that offer technical training linked to career pathways that match our students’ interests and proficiency levels. &lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;If you are planning to contextualize your ELA program for one of more career pathways, you will need a training provider, such as a community-based organization or a community college, as a partner. If your ELA program is part of a college, then you are already one step ahead. However, you may still need to create a collaboration with the departments that offer certificate training. How do you build these partnerships? Invite directors or deans involved in training to be part of your advisory board and discuss your plans to offer a contextualization program focused on ELLs. Ask training providers to identify possible career pathways that start with courses offering a Level 1 certificate and ask for collaboration on developing a bridge course that reflects the demands of training. &lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;9. We have invited employers and technical faculty to discuss how ELLs are typically faring in non-ELA courses to help us pinpoint areas of development. &lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Even students who have done quite well in ELA life skills classes, may find academic/technical classes quite challenging. Here are some ways to learn more about the skill demands of work and training: Ask for input from employers or coworkers on the kinds of tasks that ELL workers find challenging. Are they reluctant to communicate with supervisors and peers or having difficulty with communication with customers, clients, or patients? Do the ELLs lack experience using e-mail or using company online forms? Are they reluctant to answer the phone? How well are ELLs able to gain and remember information from lectures? How well do they manage textbook assignments and exams? What additional questions could you ask? &lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;10. We have outlined the skills and strategies that students need for succeeding at work and in training, and have developed a set of learning tasks and teaching strategies that help students develop these skills. &lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;The information you have obtained by talking with stakeholders (students, employers, technical faculty) should be helpful in creating realistic situations that help students build both the confidence and the competence they need to do well. But how do you use this information in teaching? To keep teaching learning centered, create realistic tasks and situations. Include problems that students may need to solve at work or in training and design projects for learners to complete individually and in teams. Create activities that require both the social language of collaboration and the academic/technical language needed to understand and convey ideas. &lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2100">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1450473200</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2101">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1450473200</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1044">
+        <prevpageid>1042</prevpageid>
+        <nextpageid>1043</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445093603</timecreated>
+        <timemodified>1445094620</timemodified>
+        <title>Next Steps in Planning for Implementation</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_1220.mp3"&gt;ELL_Mod2_1220.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;As you consider options and next steps, you may want to involve local partners, including members of the Workforce Investment Board, social service providers, and immigrant-serving agencies, as well as faculty and deans from colleges offering Career and Technical Education. Building relationships with other players early on can make it far easier to build a quality program.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Now that you have a better sense of what counts in contextualization, please download the planning sheet and set up an action plan.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2096">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445093603</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2097">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445093603</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1043">
+        <prevpageid>1044</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445093833</timecreated>
+        <timemodified>1450817092</timemodified>
+        <title>Takeaways and Next Steps</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_1230.mp3"&gt;ELL_Mod2_1230.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Well, here you are at the end of the unit and ready for your post assessment. Enjoy seeing your progress. Of course, you may have gained additional insights, and we hope you will share them with your colleagues.&lt;/p&gt;
+&lt;p&gt;It was nice working with you, and we hope to see you in another unit.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This unit should have given you a feel for what contextualization is and what it means for adult ELAs. We hope that you now feel confident enough to explain contextualization for career pathways and all that it entails. Look at the assessment on the right; how would you rate yourself now? &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;But wait─there’s more. &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The next unit will offer ideas, models, and tools for designing a quality program focused on contextualization. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;If you are mostly interested in instructional  strategies or want tips on creating materials, Unit 3 is for you. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 4 will include tools for assessing learner progress and evaluating program success. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Download the &lt;a href="@@PLUGINFILE@@/M3U1_S64_Post_CanDo_508.docx" title="Post Assessment"&gt;&lt;em&gt;Can-Do Self-Assessment&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54680"&gt;&lt;span style="color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681" style="font-size: medium; line-height: 1.231;"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;. If you have completed all of the activities you may access and save/print your certificate. Don't forget to review the Unit 1 Resources, especially the References and OCTAE's &lt;a href="http://www2.ed.gov/about/offices/list/ovae/pi/AdultEd/wioa-reauthorization.html" title="OCTAE WIOA Page" target="_blank"&gt;WIOA Web site&lt;/a&gt; and &lt;a href="http://www2.ed.gov/about/offices/list/ovae/pi/AdultEd/english-language-acquisition.pdf" title="Fact Sheet: English Language Acquisition" target="_blank"&gt;Fact Sheet on English Language Acquisition&lt;/a&gt;. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2098">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445093833</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2099">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445093833</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

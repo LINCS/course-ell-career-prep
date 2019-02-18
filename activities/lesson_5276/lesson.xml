@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="183" moduleid="5276" modulename="lesson" contextid="16178">
+  <lesson id="183">
+    <course>139</course>
+    <name>Unit 2: Part 1: WIOA</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1449779009</timemodified>
+    <pages>
+      <page id="1052">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1059</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445095753</timecreated>
+        <timemodified>1445284852</timemodified>
+        <title>The Workforce Innovation and Opportunity Act (WIOA) Definition</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2020.mp3"&gt;ELL_Mod3_2020.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;WIOA has shifted the landscape for Adult Education, including services for English Language Learners, ELLs for short. WIOA calls for greater collaboration with employment services and deeper engagement with employers. It also calls for developing partnerships with agencies that provide supportive services and with institutions that offer occupational skills training linked to career pathways. This section highlights some of the key points outlined in WIOA 2014, including provisions for ELA programs.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong style="font-size: medium; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: normal;"&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong style="font-size: medium; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: normal;"&gt;Workforce Innovation and Opportunity Act: What You Should Know&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: normal;"&gt;&lt;span style="font-size: medium; font-family: arial, helvetica, sans-serif;"&gt;President Barack Obama signed the &lt;em&gt;Workforce Innovation and Opportunity Act (WIOA)&lt;/em&gt; into law on July 22, 2014. WIOA is designed to help job seekers access employment, education, training, and support services to succeed in the labor market and to match employers with the skilled workers they need to compete in the global economy. Congress passed the Act by a wide bipartisan majority; it is the first legislative reform in 15 years of the public workforce system.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: normal;"&gt;&lt;span style="font-size: medium; font-family: arial, helvetica, sans-serif;"&gt;Every year the key programs that form the pillars of the Workforce Innovation and Opportunity Act help tens of millions of job seekers and workers to connect to good jobs and acquire the skills and credentials needed to obtain them. The enactment of this law provides opportunity for reforms to ensure the American Job Center system is job-driven-- responding to the needs of employers and preparing workers for jobs that are available now and in the future.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: normal;"&gt;&lt;span style="font-size: medium; font-family: arial, helvetica, sans-serif;"&gt;The WIOA supersedes the Workforce Investment Act of 1998 and amends the Adult Education and Family Literacy Act, the Wagner-Peyser Act, and the Rehabilitation Act Amendments of 1998. In general, the Act takes effect on July 1, 2015, the first full program year after enactment.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: normal;"&gt;&lt;span style="font-size: xx-small;"&gt;&lt;a href="http://webapps.dol.gov/federalregister/HtmlDisplay.aspx?DocId=27739&amp;amp;AgencyId=15" title="WIOA Release" target="_blank"&gt;Source: U.S. Department of Education&lt;/a&gt;. WIOA Webinar: An Overview of Adult Education &amp;amp; Literacy(from a presentation given on August 28, 2014).&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2129">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445095753</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1059">
+        <prevpageid>1052</prevpageid>
+        <nextpageid>1053</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444950866</timecreated>
+        <timemodified>1445095793</timemodified>
+        <title>Identify Potential Career Pathways</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;WIOA 2014 adds three new activities under adult education and literacy activities. These include&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;workforce preparation activities&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;integrated education and training&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;integrated English literacy and civics education that facilitates job placement, economic self-sufficiency, and integration with the workforce development system&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Co-enrollment, defined as enrollment in two or more core programs, is fundable under WIOA. This might include students who participate in:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;an occupational skills training course while also attending a contextualized ABE/ELA course designed to teach language, literacy, and numeracy skills associated with the skills training course&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2116">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444950866</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2130">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444950866</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1054">
+        <prevpageid>1053</prevpageid>
+        <nextpageid>1055</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444951018</timecreated>
+        <timemodified>1471905193</timemodified>
+        <title>Reflection Questions</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;Consider these questions as you work with your group or reflect on them on your own:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;What do you see as the biggest challenge in implementing an ELA program that reflects the purposes of WIOA? What are possible solutions?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;What concerns do you have about creating a career oriented program for English language learners with low educational levels?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What possibilities do you see in serving ELLs with higher levels of education from the home country? How can you accelerate their learning path?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Regarding serving ELLs with higher levels of education, share your experience and thoughts with your colleagues on the &lt;a href="https://community.lincs.ed.gov/comment/16579#comment-16579" title="ESL Pro Module 3 Unit 2 Discussion Forum"&gt;LINCS discussion forum&lt;/a&gt;. &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2119">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444951018</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2120">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444951018</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1055">
+        <prevpageid>1054</prevpageid>
+        <nextpageid>1056</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444951124</timecreated>
+        <timemodified>1445095989</timemodified>
+        <title>Workforce Preparation and Employability Skills</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2030.mp3"&gt;ELL_Mod3_2030.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Preparing ELLs for work has long been one of the goals of programs serving immigrants and refugees, even before WIOA stressed the importance of workforce preparation.&lt;/p&gt;
+&lt;p&gt;As you look for resources to help students prepare for the future, you will see any number of websites and documents designed to get ABE students and English learners ready to get a job or keep a job.&lt;/p&gt;
+&lt;p&gt;One approach, that is part of Career and Technical Education stands out because of its comprehensiveness. The model you see on the next page, part of the LINCS collection, offers an employability framework that can guide you in considering the skills students might need to be prepared for jobs with wages that can sustain a family.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2121">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444951124</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2122">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444951124</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1056">
+        <prevpageid>1055</prevpageid>
+        <nextpageid>1057</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444951187</timecreated>
+        <timemodified>1471550898</timemodified>
+        <title>Employability Skills Framework</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span size="3" style="font-size: medium;"&gt;&lt;span style="line-height: 19.6959991455078px;"&gt;Listen to audio:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2040.mp3"&gt;ELL_Mod3_2040.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;As you can see, categories in the framework point toward the need to engage English learners in the development of critical soft skills. Notice that the skill areas outlined in this framework are fairly broad and go well beyond simply preparing English learners to hold their own in an interview, fill out a job application, or write a resume – although these skills are still important. If you want to explore the framework more fully, feel free to visit the LINCS site.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Mod3_U1_S17.png" width="520" height="342" alt="This graphic relates the following items to employability: Effective relationships (sub-topics include: interpersonal skills andpersonal qualities); Workplace skills (sub-topics include: technology use, systems thinking, communication skills, information use, and resource management); and Applied knowledge (sub-topics include: critical thinking skills and applied academic skills)" style="float: right; margin: 5px;" /&gt;&lt;span style="font-size: x-small;"&gt;&lt;a href="http://webapps.dol.gov/federalregister/HtmlDisplay.aspx?DocId=27739&amp;amp;AgencyId=15" title="WIOA Release" target="_blank"&gt;&lt;/a&gt;&lt;a href="http://webapps.dol.gov/federalregister/HtmlDisplay.aspx?DocId=27739&amp;amp;AgencyId=15" title="WIOA Release" target="_blank"&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;This Employability Skills Framework, developed by the US Department of Education, identifies three broad categories of skills that are necessary for success in the labor market.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Applied Knowledge: integration of knowledge and skills used in the workplace&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Effective Relationships: interpersonal skills that allow workers to interact effectively with clients, coworkers and supervisors.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Workplace Skills: analytical and organizational skills and understandings that people need to successfully perform work tasks&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;These categories offer vital contexts for ELLs who need these skills for success in the modern workplace.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;For more information, go to LINCS Employability Skills Framework, go to &lt;a href="http://cte.ed.gov/employabilityskills" title="Employability Framework" target="_blank"&gt;http://cte.ed.gov/employabilityskills&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: x-small;"&gt;Source: &lt;a href="http://webapps.dol.gov/federalregister/HtmlDisplay.aspx?DocId=27739&amp;amp;AgencyId=15" title="WIOA Release" target="_blank"&gt;U.S.&lt;/a&gt; &lt;a href="http://webapps.dol.gov/federalregister/HtmlDisplay.aspx?DocId=27739&amp;amp;AgencyId=15" title="WIOA Release" target="_blank"&gt;Department of Education&lt;/a&gt;, Office of Career, Technical and Adult Education. (n.d.) [Graphic]. Employability Skills Framework. Retrieved from &lt;a href="http://cte.ed.gov/employabilityskills/index.php/framework/"&gt;http://cte.ed.gov/employabilityskills/index.php/framework/#&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2123">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444951187</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2124">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444951187</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1057">
+        <prevpageid>1056</prevpageid>
+        <nextpageid>1058</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444951311</timecreated>
+        <timemodified>1445278337</timemodified>
+        <title>WIOA 2014: Workforce Preparation Activities</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2050.mp3"&gt;ELL_Mod3_2050.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;English learners with lower levels of proficiency rarely start out at an equal footing compared to their more proficient peers when trying to find good jobs with good wages. They may need the assistance of advisors who can steer them toward the next step, such as job skills training program for working adults and can often benefit from the services of job developer who advocates with employers on their behalf.&lt;/p&gt;
+&lt;p&gt;English learners also have special needs related to communication and cross cultural skills. They need courses that help them develop “strategic competence”, the ability to continue to function well when communication breaks down or threatens to break down. ELLs must learn to double check information to make sure they understand correctly, learn to paraphrase (or act things out) when others have trouble understanding them and ask for clarification if information is unclear. Most importantly, perhaps ELLs must learn to observe and ask questions and take their cues from others so that they can become both culturally and lingistically competent in a range of contexts.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Untitled.png" width="350" height="324" alt="" style="margin: 5px; float: right;" /&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Workforce preparation activities specified in WIOA are much broader than earlier conceptions of work readiness. New components to consider include:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Activities, programs and services designed to help an individual acquire a combination of basic academic, critical thinking, digital literacy, and self-management skills.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Competencies in using resources and information, and acquiring other skills necessary for successful transition to post-secondary education, training, or employment.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;Graphic by H. Wrigley, 2015, Las Cruces, NM: Literacywork International. Copyright 2015 by Literacywork International. American Institutes for Research used with permission from Literacywork International.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2125">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444951311</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2126">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444951311</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1058">
+        <prevpageid>1057</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444951369</timecreated>
+        <timemodified>1445285310</timemodified>
+        <title>Rate Your Program: How are You Doing?</title>
+        <contents>&lt;table border="1" cellpadding="3" cellspacing="3" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;&lt;/th&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;&lt;span style="color: #ffffff;"&gt;Domain&lt;/span&gt;&lt;/th&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;&lt;span style="color: #ffffff;"&gt;Very Well&lt;/span&gt;&lt;/th&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;&lt;span style="color: #ffffff;"&gt;Well Enough&lt;/span&gt;&lt;/th&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;&lt;span style="color: #ffffff;"&gt;Getting There&lt;/span&gt;&lt;/th&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;&lt;span style="color: #ffffff;"&gt;Not Well&lt;/span&gt;&lt;/th&gt;&lt;th style="background-color: #19568b;" scope="col"&gt;&lt;span style="color: #ffffff;"&gt;Our Plan for Getting There&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;1&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;Rigorous instruction in work-and-career-related academic skills&lt;sup&gt;1&lt;/sup&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;2&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;Self-management skills (learning how to learn; independent learning)&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;3&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;Critical thinking skills (including problem solving)&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;4&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;Digital Literacy skills (including problem solving in a technology-rich environment)&lt;sup&gt;2&lt;/sup&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;5&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;Working in teams&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;6&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;Using career-relevant resources&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;7&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;Understanding and navigating the local education and training system&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;8&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;Skills for transition to work&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;9&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;Skills for transition to training (noncredit)&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;10&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;Transition to academic work (including for-credit career and technical programs)&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td valign="middle" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Consider your current ELA curriculum and the skill domains it addresses. How strong are you in the various areas outlined in WIOA? Where could you do better, and what are your plans for getting there?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What to do: &lt;a href="@@PLUGINFILE@@/M3U2_S18_WF_Prep_508.docx" title="Rate Your Program"&gt;Download the Word document&lt;/a&gt;, rate you program, and discuss your strengths and weaknesses with others in your program. Use the &lt;br class="kix-line-break" /&gt;handout to plan your next steps.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: x-small;"&gt;&lt;sup&gt;1&lt;/sup&gt;See also Module 1: Meeting the Language Needs of Today's English Language Learners&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;&lt;sup&gt;2&lt;/sup&gt;See also Module 2: Integrating Digital Literacy&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54682"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2127">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444951369</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2128">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444951369</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1053">
+        <prevpageid>1059</prevpageid>
+        <nextpageid>1054</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444950937</timecreated>
+        <timemodified>1450474040</timemodified>
+        <title>WIOA and ELA</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;WIOA indicates that ELA programs should lead to the attainment of a secondary school diploma or its equivalent and: &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;transition to postsecondary education and training, including career pathway programs or &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;lead to employment&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;ELA programs can satisfy this requirement by &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;using rigorous and challenging adult education standards that meet the requirements of their state’s Unified State plan&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;providing supportive services that assist an individual to attain a secondary school diploma or its recognized equivalent &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;designing the program as part of a career pathway that includes post-secondary education and training&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2117">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444950937</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2118">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444950937</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

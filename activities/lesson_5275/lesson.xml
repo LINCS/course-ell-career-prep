@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="182" moduleid="5275" modulename="lesson" contextid="16177">
+  <lesson id="182">
+    <course>139</course>
+    <name>Unit 2: Introduction</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1441649580</timemodified>
+    <pages>
+      <page id="1045">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1046</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649767</timecreated>
+        <timemodified>1450473630</timemodified>
+        <title>Audience and Focus</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_2010.mp3"&gt;ELL_Mod3_2010.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;You may have noticed that the field of adult education is moving in new directions and English Language Acquisition is no exception. Programs are shifting toward a greater emphasis on workforce development and career pathways. But program managers also see an increasing need to prepare their students for a new economy, an economy that demands higher skills for jobs that pay well enough to support a family. Many of these jobs require at least some college.&lt;/p&gt;
+&lt;p&gt;The new trend toward connecting adult education with the workplace and training programs allows program directors and teachers to reconceptualize their program so it meets the needs of students who are hoping to build their occupational skills along with their English language and literacy skills. Collaborating with employers and community partners, including training providers, will create stronger programs for these students. This unit is designed to support you in this effort.&lt;/p&gt;
+&lt;p&gt;In this unit, you will read about Workforce Investment and Opportunity Act (WIOA 2014) and learn how English Language Acquisition fits within the larger picture of career clusters and pathways. You get the opportunity to review different models of contextualization so you can establish a career oriented ELA design that is right for your program context. As you move through this unit, you will also get the chance to consider some real life scenarios and jot down your thoughts on possible solutions. And in the end, we will ask you to sketch out your vision of a high quality career infused program for English learners.&lt;/p&gt;
+&lt;p&gt;We hope you get a chance to discuss these ideas and collaborate with others in your community to create a successful model that prepares your English learners for work and career pathways.&lt;/p&gt;
+&lt;p&gt;As you move through this unit, remember that the old term ESL is now being replaced by the English Language Acquisition (ELA) or simply English Acquisition. And ESL students are now referred to as ELLs – English language learners or just English learners.&lt;/p&gt;
+&lt;p&gt;Enjoy&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This unit is designed for administrators, teachers and others who are interested in developing a contextualization program that connects English language learners (ELLs) with career pathways.  If you are interested in key steps for designing a contextualization curriculum for ELLs  and bright ideas for infusing instruction with career pathway content, view Unit 3.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;If you are looking for key elements in program evaluation and are interested in ideas and tools for capturing learner progress and celebrating success, view Unit 4.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Content in this Unit complements the content in 1, 3, and 4. as well as in the other Modules in the ESL Pro LINCS Project. &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2102">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649767</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2103">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649767</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1046">
+        <prevpageid>1045</prevpageid>
+        <nextpageid>1047</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1442109370</timecreated>
+        <timemodified>0</timemodified>
+        <title>Certificate of Completion</title>
+        <contents>&lt;p&gt;&lt;br class="Apple-interchange-newline" /&gt;&lt;img src="@@PLUGINFILE@@/Certificate.jpg" width="350" height="262" alt="&amp;quot;&amp;quot;" style="line-height: 16.0029983520508px; margin: 5px; float: right;" /&gt;&lt;span style="font-size: medium;"&gt;In order to earn a certificate for this unit you must complete the Pre and Post-Assessments.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2110">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442109370</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2111">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442109370</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1047">
+        <prevpageid>1046</prevpageid>
+        <nextpageid>1050</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649819</timecreated>
+        <timemodified>1445094763</timemodified>
+        <title>Road Map</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549727%20-%20Nameless%20City%20Map.jpg" width="392" height="308" alt="" style="margin: 5px; float: right;" /&gt;In this unit, you’ll find information and ideas in these major sections:  &lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Introduction&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="2"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The Workforce Innovation and Opportunity Act (WIOA)&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="3"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Workforce Preparation and Employability Skills&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="4"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Career Clusters and Pathways&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="5"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Contextualization Models and ELA Adaptation&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="6"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Models for Preparing ELLs for Career Pathway Programs&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="7"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Problem-solving Scenarios&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="8"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Creating a Vision for Your Program  &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2104">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2105">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1050">
+        <prevpageid>1047</prevpageid>
+        <nextpageid>1051</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649881</timecreated>
+        <timemodified>1450473670</timemodified>
+        <title>Objectives</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549781%20-%20Confused%20Businessman.jpg" width="357" height="329" alt="" style="float: right; margin: 5px;" /&gt;After completing this unit, you should be able to:&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Explain the changes in WIOA and discuss the changes for your English Language Acquisition (ELA) program.  &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Identify your program’s strengths and weaknesses in Workforce Preparation.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Describe Career Clusters  and select a model appropriate for the ELL population in your community.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Generate ideas for solving a problem related to ELA contextualization.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Sketch out a vision for your program.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2106">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649881</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2107">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649881</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1049">
+        <prevpageid>1048</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445095478</timecreated>
+        <timemodified>1449611772</timemodified>
+        <title>Pre Self-Assessment</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;You may be new to career pathways or you may have a program in place but need to adapt for ELLs. To see how well-versed you are, take this quick self-assessment. You will get a chance to re-assess yourself at the end of the unit.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;For each of the following statements, is your response: &lt;strong&gt;No problem?&lt;/strong&gt;; &lt;strong&gt;Sort of a problem?&lt;/strong&gt;; or &lt;strong&gt;Not at all a problem?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;b&gt;&lt;span id="docs-internal-guid-0f054c75-7665-902b-ef92-e97d40c39e6c"&gt;Statement 1: &lt;/span&gt;&lt;/b&gt;&lt;span id="docs-internal-guid-0f054c75-7665-902b-ef92-e97d40c39e6c"&gt;I can discuss how the new directions in Adult Education will shape our program services for ELLs&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;b&gt;&lt;span id="docs-internal-guid-0f054c75-7665-b45c-8221-df91f6da1af4"&gt;Statement 2: &lt;/span&gt;&lt;/b&gt;&lt;span id="docs-internal-guid-0f054c75-7665-b45c-8221-df91f6da1af4"&gt;I can list the workforce preparation activities that WIOA highlights&lt;/span&gt;&lt;span id="docs-internal-guid-0f054c75-7665-b45c-8221-df91f6da1af4"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;b&gt;&lt;span id="docs-internal-guid-0f054c75-7665-d42b-10ad-b4574f4bf854"&gt;Statement 3: &lt;/span&gt;&lt;/b&gt;&lt;span id="docs-internal-guid-0f054c75-7665-d42b-10ad-b4574f4bf854"&gt;I can explain the key elements of a comprehensive ELA contextualization program&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;b&gt;&lt;span id="docs-internal-guid-0f054c75-7666-0731-a62e-ca3cf67b7f11"&gt;Statement 4: &lt;/span&gt;&lt;/b&gt;&lt;span id="docs-internal-guid-0f054c75-7666-0731-a62e-ca3cf67b7f11"&gt;I can describe the different models used to prepare ELLs and others for career pathways&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54680"&gt;&lt;span style="color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681" style="font-size: medium; line-height: 1.231;"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2114">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445095478</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2115">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445095478</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1051">
+        <prevpageid>1050</prevpageid>
+        <nextpageid>1048</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1442109464</timecreated>
+        <timemodified>1445094892</timemodified>
+        <title>Interactivity</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549742%20-%20Gear%20Head%20Concept.jpg" width="275" height="275" alt="" style="float: right; margin: 5px;" /&gt;This unit offers several opportunities to interact with the material. These include:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Assess your own ability to explain key concepts in contextualization (pre and post).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Rate your program to see how strong you are in various domains related to workforce preparation skills and plan next steps.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Take notes on different ways to apply program elements and models to your context (on-line).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Capture your thoughts regarding various scenarios. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Describe your vision for a career focused ELA program.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span id="docs-internal-guid-df0e3b31-c46b-7ec9-b838-94f54831f493"&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2112">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442109464</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2113">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442109464</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1048">
+        <prevpageid>1051</prevpageid>
+        <nextpageid>1049</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649972</timecreated>
+        <timemodified>1445095498</timemodified>
+        <title>Guiding Questions</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549733%20-%20Pretty%20young%20woman%20making%20a%20decision%20with%20arrows%20and%20question%20mark%20above%20her%20head.jpg" width="368" height="238" alt="" style="margin: 5px; float: right;" /&gt;Guiding questions help you to get ready for a unit and open your mind to possibilities for action&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How will the changes in WIOA affect my ELA program  and what can I do to create a top quality program?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What are the pros and cons of different pathway models and which model would be best for us?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How can we best deal with challenges related to collaboration with different entities (employers, technical faculty)?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2108">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2109">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

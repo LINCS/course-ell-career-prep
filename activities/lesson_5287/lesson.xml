@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="189" moduleid="5287" modulename="lesson" contextid="16189">
+  <lesson id="189">
+    <course>139</course>
+    <name>Unit 3: Part 2:  Instructional Strategies</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1445274412</timemodified>
+    <pages>
+      <page id="1115">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1116</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649767</timecreated>
+        <timemodified>1445295367</timemodified>
+        <title>Instructional Strategies for Infusing Career Content into English Language Acquisition</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Mod3_U3_S28.jpg" width="450" height="300" alt="instructor reviews work with two students" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3150.mp3"&gt;ELL_Mod3_3150.mp3&lt;/a&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;You probably have plenty of ideas for activities that can be adapted to contextualization. But perhaps you’ve not had time to think about how they might fit together into a coherent framework for teaching and learning. This section can help you think about the bigger picture, focused not only on what to teach but on why to select certain strategies over others.&lt;/p&gt;
+&lt;p&gt;You will see a table with ideas for scaffolding instruction and a lesson flow with ideas on sequencing learning experiences for deeper learning. You’ll find “Tips for Teaching,” as well as “Bright Ideas” that present sound practices from the field. Handouts, videos, and illustrations should help bring these examples to life.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2236">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649767</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1116">
+        <prevpageid>1115</prevpageid>
+        <nextpageid>1117</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649819</timecreated>
+        <timemodified>1445183572</timemodified>
+        <title>Activating Background Knowledge</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549715%20-%20Chalk%20hand-drawn%20idea%20light%20bulb%20icon%20on%20gradient%20background..jpg" width="300" height="300" alt="xxxxx" style="float: right; margin: 5px;" /&gt;Background knowledge (or prior knowledge) is essential to understanding new concepts. Finding out what students already know about a technical topic and what experiences related to a career pathway they might have builds confidence and anchors the new information in the brain. Once it is clear how much an English learner knows and does not know, you, the teacher, can start to build background knowledge and fill in gaps that a technical instructor assumes all students have.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2237">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2238">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1117">
+        <prevpageid>1116</prevpageid>
+        <nextpageid>1118</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441765225</timecreated>
+        <timemodified>1449505917</timemodified>
+        <title>Tips for Activating Background Knowledge</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3160.mp3"&gt;ELL_Mod3_3160.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Lower level students may not have seen concept maps and may be puzzled at first. So it is often best to start with examples that students may be familiar with, like restaurant cooking or shop keeping. As students learn about popular jobs in their home communities (teachers, police, administration, health care professionals), ask them to come up with ideas for related jobs. Use a Think-Pair-Share activity to capture ideas.&lt;/p&gt;
+&lt;p&gt;If your students don’t have clear career goals, construction can be a good starting point for discussions on career pathways. Thousands of immigrants and refugees work in construction, and thousands more have experience building houses for themselves and for others. Construction also offers opportunities for both low-skilled and higher skilled workers, including laborers and tradespeople, like carpenters, plumbers, and electricians. Since construction tends to be male dominated, you might want to include a discussion of gender roles and invite your class to explore the opportunities that exist for women in this and other, similar industries. Inviting a woman as a guest speaker might spark discussions.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Ask students to generate vocabulary and examples related to a career (e.g., construction).&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="2"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Capture students’ ideas and create a semantic map that shows relationships among concepts&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="3"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Generate a few sentences that use these concepts (e.g.,&lt;em&gt; “&lt;/em&gt;&lt;em&gt;There are many jobs in the construction industry. Construction jobs include building houses, offices, and bridges, but the jobs also include truck driving and operating equipment”&lt;/em&gt;).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="4"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Discuss employment in a specific sector and make connections with students’ lives (e.g., ask &lt;em&gt;“Have you ever worked in construction or would you like to? What are pros and cons of working in construction?”&lt;/em&gt;).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="5"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Explore employment and training opportunities in your community with the class.  &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2239">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441765225</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2240">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441765225</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1118">
+        <prevpageid>1117</prevpageid>
+        <nextpageid>1119</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444959725</timecreated>
+        <timemodified>1445273835</timemodified>
+        <title>Reflection questions</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3170.mp3"&gt;ELL_Mod3_3170.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The students you are teaching are probably a diverse group. Their experience working may differ quite a bit and may include working in farms or factories, running a small shop, or working inside the home to take care of a family. Think about the strategies you might use to learn what students know about a career area and where there may be gaps in knowledge. Consider both students with few years of education and those with higher levels as you contemplate the questions.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;&lt;span style="line-height: 1.231;"&gt;1. Which tips for activating background knowledge appeal to you? Which do you see as impractical, given your experience?&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;2. &lt;/span&gt;What tips or other strategies would allow students with lower levels of proficiency to demonstrate what they know?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;3. &lt;/span&gt;What strategies could you use to identify gaps in knowledge that students with higher levels of education might have?&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2241">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444959725</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2242">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444959725</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1119">
+        <prevpageid>1118</prevpageid>
+        <nextpageid>1120</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444959838</timecreated>
+        <timemodified>1445273910</timemodified>
+        <title>Presenting Information (Video or Mini-Lecture)</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3180.mp3"&gt;ELL_Mod3_3180.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;To be successful in an occupational skills class, ELLs must become used to engaging with the kind of connected text that is used in lectures and training videos. Simply learning more career-related vocabulary is not enough to build strong listening comprehension skills. Students must become used to seeing longer explanations and descriptions of a somewhat technical nature. Students also must move beyond personal narratives and become used to dealing with informational texts. As an ELA teacher, you may be new to lecturing, but watching training videos can help build your skills.&lt;/p&gt;
+&lt;p&gt;Showing a career-related video to students might offer an alternative for your class while you develop your skills in presenting content information. As you choose topics for your lecture, don’t try to be a technical expert, but rather stay with information that is fairly general and created for a lay audience. You will see a similar video at the end of the chapter.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;Students preparing for success in technical courses need experience listening to descriptions and explanations presented in a lecture format. Videos  can offer that experience and can be used as part of a class or for independent learning.  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This video discusses gender-specific jobs and suggests that students broaden their perspective. &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://wpc.2a70.edgecastcdn.net/002A70/CareerVideos/60-0006.00.mp4" title="Career Video"&gt;video&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;From &lt;i&gt;[Non-Traditional Careers] &lt;/i&gt;[Videofile] by CareerOneStop, [n.d.], St. Paul, MN: CareerOneStop. Copyright [n.d.] by CareerOneStop, State of Minnesota. Retrieved from http://wpc.2a70.edgecastcdn.net/002A70/CareerVideos/60-0006.00.mp4. American Institutes for Research used in compliance with the CareerOneStop usage policy that allows anyone to use videos available from http://www.CareerOneStop.org free of charge. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2243">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444959838</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2244">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444959838</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1120">
+        <prevpageid>1119</prevpageid>
+        <nextpageid>1121</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444959993</timecreated>
+        <timemodified>1449505970</timemodified>
+        <title>Tips for Presenting Information</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3190.mp3"&gt;ELL_Mod3_3190.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Here are some tips you might consider as you create a content-based minilecture for your students. You can also use videos, of course. Presenting the information yourself gives you a chance to observe and see if your students understand. If there is confusion, you can paraphrase or add a quick explanation, or back up and begin at an earlier starting point.&lt;/p&gt;
+&lt;p&gt;Where can you find information presented at a level your students can understand?&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;table border="0" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/literacywork.png" width="212" height="282" alt="&amp;quot;&amp;quot;" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: xx-small;"&gt;Screen shot from video by Literacywork International&lt;br /&gt; for South Texas College—permission granted by Juan Carlos Aguirre,&lt;br /&gt;Director of Continuing Education, South Texas College.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Think about the information you want to present and determine the points you want to make.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="2"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Use visuals, if possible, to support your points.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="3"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Ask students to take notes any way they can.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="4"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Present information at normal speed but stop for a second or two to allow students to process the information.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="5"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;If you have a multilevel class, use a faster pace to start and repeat at a slower pace for less proficient students.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="6"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Check for comprehension of main point and details and invite students to discuss the information.  &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2245">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444959993</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2246">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444959993</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1121">
+        <prevpageid>1120</prevpageid>
+        <nextpageid>1122</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444960086</timecreated>
+        <timemodified>1446851775</timemodified>
+        <title>Checking Comprehension</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3200.mp3"&gt;ELL_Mod3_3200.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;English learners often enjoy a highly interactive and supportive environment. In beginning-level courses, they may get experience in telling stories and sharing personal narratives. They may not be used to listening for detailed information and being responsible for knowing facts. Yet at work and in training, paying attention to facts is often critically important. To be successful in these environments, English learners need opportunities for close listening (as well as close reading) and a chance to demonstrate that they understand. There are many ways to check for understanding, including asking students to summarize or to show understanding by storyboarding what they have heard. You can also create a partial outline of a presentation and ask students to fill in the information on the basis of what they heard.&lt;/p&gt;
+&lt;p&gt;Asking students to hold up True/False/Don’t Know cards has the advantage of immediacy. You, as the teacher, can see at a glance who is getting the information and who is stumbling a bit. You can then offer more complex questions to challenge your more proficient students, while rephrasing questions in simpler language for students who need more support.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Mod3_U3_S34.png" width="275" height="189" alt="" style="float: right; margin: 5px;" /&gt;Paying attention to what is said or written is an important skill needed at work and in training. Inviting students to demonstrate factual knowledge helps them focus on key information.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This strategy also allows the teacher to review key points that may have been missed. &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2247">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444960086</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2248">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444960086</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1122">
+        <prevpageid>1121</prevpageid>
+        <nextpageid>1123</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444960187</timecreated>
+        <timemodified>1449506013</timemodified>
+        <title>Tips for Checking Comprehension Using True-False Cards</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3210.mp3"&gt;ELL_Mod3_3210.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The video shows how Rosanne, the teacher, introduces the concept of True/False questions to a class of beginning-level learners who need to build their English skills up to a level that allows them to participate in training. To introduce the idea of using True/False cards to signal understanding, she starts with simple sentences to capture everyday knowledge (“Today is Tuesday”). Notice how she uses both Spanish and English to put the class at ease, since these students never had to use English at work and know only a few words and phrases in English. You will also notice that some of the students remain a bit confused. What ideas do you have for introducing this activity so that you can continue to use this process with more complex career-related information?&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;object align="right" width="75%" height="315"&gt;&lt;param name="movie" value="//www.youtube.com/embed/KB7KhIp0OjY?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="75%" height="315" src="https://www.youtube.com/v/KB7KhIp0OjY?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li class="O0"&gt;&lt;span style="font-size: medium;"&gt;Create several statements based on the content you just taught.&lt;/span&gt;&lt;/li&gt;
+&lt;li class="O0"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Ask students to indicate whether a statement is true (green) or false (red), or if there is insufficient information (yellow). Only use statements that are supported by the information that was presented.&lt;/span&gt;&lt;/li&gt;
+&lt;li class="O0"&gt;&lt;span style="font-size: medium;"&gt;Ask students to justify their answers with reference to the information.&lt;/span&gt;&lt;/li&gt;
+&lt;li class="O0"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;If students get an answer wrong, repeat the key information using slightly different wording. &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;From &lt;i&gt;My First 4 Job Cards &lt;/i&gt;[Videofile]&lt;i&gt; &lt;/i&gt;by James Powrie, [n.d.], Las Cruces, NM: Literacywork International. Copyright [n.d.] by Literacywork International. Retrieved from https://www.youtube.com/watch?v=KB7KhIp0OjY. American Institutes for Research used with permission from Literacywork International.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2249">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444960187</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2250">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444960187</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1123">
+        <prevpageid>1122</prevpageid>
+        <nextpageid>1124</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444960434</timecreated>
+        <timemodified>1445104561</timemodified>
+        <title>Demonstration and Guided Practice</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/F9.gif" width="450" height="328" alt="Graphic of “Figure 9. Proportion of Responsibility for Task Completion,” relating responsibility proportions of “All Teacher,” “Joint Responsibility,” and “All Student.”" style="float: right; margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;ELLs often struggle with occupational tasks because they do not fully understand directions and so become confused if directions are mixed up with explanations.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Modeling a task and offering guidance before peer work can build students’ comfort and competence.  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Over time, as students understand what’s expected of them, less time is needed to model each task and guide students (see graphic).&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;To learn more about Guided Practice, check out the Gradual Release model: &lt;a href="http://www.epd-mh.com/mhpd_assets/Effective_Use_Douglas_Fisher.pdf" title="Effective Use" target="_blank"&gt;http://www.epd-mh.com/mhpd_assets/Effective_Use_Douglas_Fisher.pdf&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: right;"&gt;&lt;span style="font-size: xx-small;"&gt;&lt;span id="docs-internal-guid-73c672c0-c24b-e83d-67a8-8f68fb2b34d7"&gt;This graphic is from the OCTAE-funded TEAL project at &lt;a href="https://teal.ed.gov/tealGuide/gradrelease" title="Grade Release" target="_blank"&gt;https://teal.ed.gov/tealGuide/gradrelease&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2251">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444960434</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2252">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444960434</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1124">
+        <prevpageid>1123</prevpageid>
+        <nextpageid>1125</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444961056</timecreated>
+        <timemodified>1445274201</timemodified>
+        <title>Tips for Demonstration and Guided Practice</title>
+        <contents>&lt;table border="0" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p style="text-align: center;"&gt;&lt;object width="75%" height="315"&gt;&lt;param name="movie" value="//www.youtube.com/embed/K731qicwYcY?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="75%" height="315" src="https://www.youtube.com/v/K731qicwYcY?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;Good example of teacher using guided practice; although she teaches children, the principles are the same for adults.&lt;/p&gt;
+&lt;p&gt;&lt;span id="docs-internal-guid-a3bd8402-76f2-5e93-5c04-7cda305afc7a"&gt;&lt;span&gt;Video available on YouTube: &lt;/span&gt;&lt;a href="https://www.youtube.com/watch?v=K731qicwYcY"&gt;&lt;span&gt;https://www.youtube.com/watch?v=K731qicwYcY&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;The video demonstrates guided practice for critical thinking and shows students the cognitive steps used in categorizing.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The video shows a teacher working with an elementary school class but offers a perfect example of what guided practice looks like in action. The print on screen offers viewers additional hints.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Feel free to just sample the video to get a sense of how this strategy works. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Question: What does this teacher do that strikes you as particularly helpful for students? How can you adapt it to your students.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2253">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444961056</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2254">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444961056</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1125">
+        <prevpageid>1124</prevpageid>
+        <nextpageid>1126</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444961134</timecreated>
+        <timemodified>1449506120</timemodified>
+        <title>Peer-to-Peer Interaction</title>
+        <contents>&lt;table border="0" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/m3u31.png" width="390" height="259" alt="Students at a CNA class at South Texas College teach one another key information they must know for a CNA class. " style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: xx-small;"&gt;From [Photograph] by Juan Carlos Aguirre, [n.d.], McAllen, TX: South Texas College.&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: xx-small;"&gt;Copyright [n.d.] by Juan Carlos Aguirre.&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: xx-small;"&gt;American Institutes for Research used with permission from the photographer.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Peer-to-peer interaction allows for maximum time on task and gives each student a chance to participate. Many ELLs need a nonthreatening environment before they feel comfortable enough to speak up in front of the whole class.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Question: What kind of peer-to-peer tasks are you using in your classes now? What advantages do you see for engaging students with one another to develop concept knowledge and use job- or career-related language?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Read on for tips on setting up peer-to-peer tasks.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2255">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444961134</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2256">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444961134</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1126">
+        <prevpageid>1125</prevpageid>
+        <nextpageid>1127</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444961261</timecreated>
+        <timemodified>1445105088</timemodified>
+        <title>Tips for Peer-to-Peer Interaction</title>
+        <contents>&lt;table border="0" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/Untitled%20%282%29.png" width="231" height="349" alt="" style="margin: 5px auto; display: block;" /&gt;&lt;br /&gt;&lt;span style="font-size: xx-small;"&gt;From [Photograph] by Carlos Rosario International Public Charter School, [n.d.], Washington, DC: &lt;br /&gt;Carlos Rosario International Public Charter School. &lt;br /&gt;Copyright [n.d.] by Carlos Rosario International Public Charter School. &lt;br /&gt;American Institutes for Research used with permission from the photographer.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;After you demonstrate the task, group students in pairs or small groups. Vary between grouping students by proficiency levels (e.g., advanced students together) and heterogeneous groups (mixed proficiency levels).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Set ground rules for interacti&lt;/span&gt;&lt;span style="font-size: medium;"&gt;on (turn taking, kind language).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span size="3" style="font-size: medium;"&gt;Invite students to create classroom rules &lt;span style="line-height: 19.6959991455078px;"&gt;regarding&lt;/span&gt; the use of English and the use of the native language; discuss these rules with the students to make sure lower-level students can participate.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;If the class is creating projects, ask students to select a facilitator to keep the group on track. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Set a time limit for tasks, and ask selected groups to report; remember that not everyone needs to talk. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2257">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444961261</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2258">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444961261</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1127">
+        <prevpageid>1126</prevpageid>
+        <nextpageid>1128</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444961392</timecreated>
+        <timemodified>1445183976</timemodified>
+        <title>Example of Peer-to-Peer Tasks</title>
+        <contents>&lt;table border="0" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/Untitled%20%283%29.png" width="449" height="353" alt="Photograph of a handmade, illustrated poster, with the title, “Asthma is a Common Disease of the Lungs, Affecting Millions of Americans.”" style="margin: 5px; float: right;" /&gt;&lt;br /&gt;&lt;span style="font-size: xx-small;"&gt;From Asthma is a Common Disease of the Lungs, Affecting Millions of Americans [Photograph]&lt;br /&gt;by Juan Carlos Aguirre, [n.d.], McAllen, TX: South Texas College. &lt;br /&gt;Copyright [n.d.] by Juan Carlos Aguirre. &lt;br /&gt;American Institutes for Research used with permission from the photographer.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Inviting students to research information and work collaboratively to create materials to be shared can really deepen learning.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Students in a bridge class in South Texas worked in teams to research illnesses, such as asthma and diabetes. They created posters with visuals and texts that explained the information they had gathered, and presented the posters to classmates and faculty.  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For more ideas, see the “Real-Life Scenarios and Bright Ideas for Teaching” section in this module. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2259">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444961392</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2260">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444961392</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1128">
+        <prevpageid>1127</prevpageid>
+        <nextpageid>1129</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444961536</timecreated>
+        <timemodified>1472513299</timemodified>
+        <title>Reflection questions</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;1. What peer-to-peer tasks make sense for your class? What ideas do you plan to implement?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;!--EndFragment--&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;!--StartFragment--&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;2. What advantages or disadvantages do you see for pairing students who speak the same language? &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;!--EndFragment--&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;!--StartFragment--&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;3. What strategies do you see for pairing students? When would you pair a student with a peer who is at a higher proficiency level in English? &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;You can discuss question 1 with your Community of Practice, or with your colleagues on the &lt;a href="https://community.lincs.ed.gov/comment/16625#comment-16625" title="ESL Pro Module 3 Unit 3 Discussion Forum peer-to-peer activities"&gt;LINCS discussion forum&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;!--EndFragment--&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2261">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444961536</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2262">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444961536</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1129">
+        <prevpageid>1128</prevpageid>
+        <nextpageid>1130</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444961614</timecreated>
+        <timemodified>1445105340</timemodified>
+        <title>Understanding How English Works</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;!--StartFragment--&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549745%20-%20Multi-Ethnic%20Group%20of%20Children%20and%20English%20Concept.jpg" width="380" height="256" alt="" style="margin: 5px; float: right;" /&gt;In order to become competent users of professional or occupational English, students must possess fluency in using the language of their field but must also learn to use standard grammar, especially as they write. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;As a teacher, you can promote language awareness by drawing your students’ attention to structures used in technical texts. (Example: “Five days after having been admitted to the nursing home, Mrs. Schneider was taken to a hospital.”) &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;You then can provide individual practice with common patterns (e.g., roots and affixes, gerunds, passive voice).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Grouping structures into patterns and giving students time for individual practice gives them a chance to internalize how English works.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2263">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444961614</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2264">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444961614</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1130">
+        <prevpageid>1129</prevpageid>
+        <nextpageid>1131</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444961838</timecreated>
+        <timemodified>0</timemodified>
+        <title>Tips for Teaching How English Works</title>
+        <contents>&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Untitled%20%284%29.png" width="300" height="246" alt="&amp;quot;&amp;quot;" style="float: right; margin: 5px;" /&gt;Review textbooks, journals, and handouts from a technical class to identify vocabulary and language structures that students need to know .&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="2"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Take note of nouns and verbs used in processes and explanations, adjectives used in descriptions, common expressions (I need it yesterday; get with it), and words with multiple meanings (equipment failure, a computer crash, file backup).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;ol start="3"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Teach the language used in charting, measurement, and statistics, and help students discover the story behind a chart or graph.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2265">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444961838</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2266">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444961838</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1131">
+        <prevpageid>1130</prevpageid>
+        <nextpageid>1132</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444962049</timecreated>
+        <timemodified>1445185240</timemodified>
+        <title>Assessment and Feedback</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Bigstock_%2061549748%20-%20The%20words%20Time%20to%20Evaluate%20on%20an%20ornate%20white%20clock%2C%20counting%20down%20to%20the%20moment%20a%20manager%20will%20perf.jpg" width="350" height="296" alt="" style="float: right; margin: 5px;" /&gt;Informal assessments and student feedback give students a chance to see what they have learned and where they may have missed key information.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Students also need the opportunity to provide feedback to the instructor and learn to articulate how their day went. Asking students to fill out simple exit cards (note cards with responses) serves as a quick way to “take the pulse” of an entire class.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;These exit cards, collected as students leave, provide teachers with an informal measure of student understanding and help students reflect on what they have learned. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;!--EndFragment--&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2267">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444962049</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2268">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444962049</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1132">
+        <prevpageid>1131</prevpageid>
+        <nextpageid>1133</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444962840</timecreated>
+        <timemodified>1445184024</timemodified>
+        <title>Tips for Assessment</title>
+        <contents>&lt;p class="O0"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Screen%20Shot%202015-09-12%20at%203.54.38%20PM.png" width="300" height="237" alt="&amp;quot;&amp;quot;" style="float: right; margin: 5px;" /&gt;Informally review key information and allow students to show what they have learned through&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li class="O0"&gt;&lt;span style="font-size: medium;"&gt;a quick true/false comprehension test;&lt;/span&gt;&lt;/li&gt;
+&lt;li class="O0"&gt;&lt;span style="font-size: medium;"&gt;a 10-minute peer-to-peer vocabulary check by using flash cards;&lt;/span&gt;&lt;/li&gt;
+&lt;li class="O0"&gt;&lt;span style="font-size: medium;"&gt;a quick sketch of a list or a process;&lt;/span&gt;&lt;/li&gt;
+&lt;li class="O0"&gt;&lt;span style="font-size: medium;"&gt;a written summary (three important safety precautions); and&lt;/span&gt;&lt;/li&gt;
+&lt;li class="O0"&gt;&lt;span style="font-size: medium;"&gt;an Exit Card listing&lt;/span&gt;
+&lt;ul&gt;
+&lt;li class="O1"&gt;&lt;span style="font-size: medium;"&gt;one important thing I learned today;&lt;/span&gt;&lt;/li&gt;
+&lt;li class="O1"&gt;&lt;span style="font-size: medium;"&gt;one thing I am still confused about; and&lt;/span&gt;&lt;/li&gt;
+&lt;li class="O1"&gt;&lt;span style="font-size: medium;"&gt;one thing I want to learn more about.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Student feedback: Ask students fill out exit cards listing their responses to the class (e.g., “I felt smart/stupid/frustrated/excited in class today”), or ask students to name one positive and one negative thing about class today.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2269">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444962840</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2270">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444962840</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1133">
+        <prevpageid>1132</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444963895</timecreated>
+        <timemodified>1445274322</timemodified>
+        <title>Reflection questions</title>
+        <contents>&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_3220.mp3"&gt;ELL_Mod3_3220.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio Transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Reviewing key points of the lesson and conducting informal, low-burden assessments will help you decide which parts of a lesson you may have to review. Asking for feedback from students will give you insights into how well the class went for them.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;1. How often do you review the key concepts you want your students to learn at the end of a lesson?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;2. Which of the informal assessment strategies are you ready to try in your class or are ready to tell others about?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;3. What might be good ways to get feedback from students who do not yet have strong writing skills?&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54682"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2271">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444963895</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2272">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444963895</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

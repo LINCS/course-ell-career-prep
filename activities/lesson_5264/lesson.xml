@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="178" moduleid="5264" modulename="lesson" contextid="16166">
+  <lesson id="178">
+    <course>139</course>
+    <name>Introduction to Module 3</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1442670349</timemodified>
+    <pages>
+      <page id="1003">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1011</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445086739</timecreated>
+        <timemodified>1447021114</timemodified>
+        <title>Acknowledgments</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: 1.5em; line-height: 1.231;"&gt;Welcome to Preparing English Language Learners for Work and Career Pathways!&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="line-height: 1.231;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="line-height: 1.231;"&gt;Author: Heide Spruck Wrigley, Literacywork International&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="line-height: 1.231;"&gt;Editors: Mariann Fedele-McLeod, American Institutes for Research Cherise Moore, American Institutes for Research&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="line-height: 1.231;"&gt;This module was prepared with funding from the U.S. Department of Education, Office of Career, Technical, and Adult Education, under contract No. ED-VAE-13-C-0058. The opinions expressed herein do not necessarily reflect the opinions or policies of the U.S. Department of Education. This module is in the public domain and may be reproduced without permission.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;em style="line-height: 1.231;"&gt;Using the buttons at the bottom will present the materials in order. &lt;/em&gt;&lt;em style="line-height: 1.231;"&gt;You can also navigate to the pages in this section by using the &lt;/em&gt;&lt;strong style="line-height: 1.231;"&gt;Lesson menu&lt;/strong&gt;&lt;em style="line-height: 1.231;"&gt; on the left.&lt;/em&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2037">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445086739</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1011">
+        <prevpageid>1003</prevpageid>
+        <nextpageid>1012</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445086836</timecreated>
+        <timemodified>1449607183</timemodified>
+        <title>Welcome</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;Hello and welcome to Preparing English Learners for Work and Career Pathways. I am Heide Spruck Wrigley, your subject matter specialist for this module. This module is designed to help administrators and teachers create contextualized programs for English learners—programs that prepare them for the demands of the modern workplace and for occupational skills training, training that is tied to career pathways and leads down the road to jobs that pay family-sustaining wages. You will hear more about successful program models and bright ideas in teaching. And we will also give you ideas about setting up a continuous improvement model as part of an evaluation, as well as ideas for documenting learner progress.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This module consists of four units. You can access the units in any sequence you like but it’s probably a good idea to start with Unit 1, “Understanding Key Concepts.” Unit 2 is primarily for administrators and others who want to set up a contextualized program for English learners. This module is full of ideas for implementation, models, and action plans to help you guide the process.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;If you're looking for teaching strategies and ideas on creating a career-infused curriculum, Unit 3 is full of examples of intentional teaching and shows you how to engage learners more fully through peer work. This unit also demonstrates how to weave together contextualization strategies into a coherent framework that meets the needs of your particular class. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id="docs-internal-guid-baf17c61-75e1-e4b0-b2d6-7e207c22f3a9" style="font-size: medium;"&gt;Unit 4 is for administrators and teachers who are interested in evaluation and continuous improvement, and want ideas for assessing learner progress. It has two pathways: One for administrators and one for teachers. You are of course welcome to try both.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2038">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445086836</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2039">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445086836</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1005">
+        <prevpageid>1004</prevpageid>
+        <nextpageid>1006</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649881</timecreated>
+        <timemodified>1447698364</timemodified>
+        <title>Audiences</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This module is meant for administrators and teachers looking for ideas, models, examples, and instructional strategies for preparing English language learners (ELLs) for work and career pathways.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;If you are a teacher or an administrator new to contextualizing your ELA program for career pathways, Unit 1 will offer you an overview of key concepts in the field. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;If you are a teacher or administrator interested in designing a contextualized program that works for ELLs, Unit 2 will show you models and suggest steps in program development. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;If you are involved in developing a career-infused curriculum for your program, Unit 3 offers you strategies that you can adapt. If your major interest is creating learning experiences that prepare ELLs for work and training, Unit 3 is full of ideas you can use as a springboard. You can also use or adapt the actual lessons if you like.  &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;If you are an administrator interested in building a strong program, Unit 4 will show you how to get started on a path for continuous improvement. And as a teacher, if you want to document success and get feedback from students, Unit 4 will show you how.  &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2025">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649881</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2026">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649881</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1006">
+        <prevpageid>1005</prevpageid>
+        <nextpageid>1015</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1447705920</timecreated>
+        <timemodified>1449780937</timemodified>
+        <title>How to Use this Module</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;This module is designed for&lt;strong&gt; individual self-study. &lt;/strong&gt; You can complete any or all of the units of this module at your own pace. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;This module can also be used as the material for a&lt;strong&gt; professional learning community &lt;/strong&gt;or study circle. Professional learning community, or PLC, is a group of educators that meets regularly, shares expertise, and works collaboratively to improve teaching skills and the academic performance of learners. Shirley Hord (1997), an expert on school leadership, defines professional learning communities this way: “The three words explain the concept: Professionals coming together in a group—a community—to learn.” One technique for your PLC is to conduct Study Circles. Anyone can initiate a study circle, but it is important to collaborate with an instructional leader to support this activity. The module readings, resources, and tasks can be completed between meetings and can be used as the basis for intentional exploration of the issues addressed in the module.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;A third way to use the units in this module is to form one’s own &lt;/span&gt;&lt;strong style="line-height: 1.231;"&gt;small group of peers&lt;/strong&gt;&lt;span style="line-height: 1.231;"&gt;. The pages of the module can be read together and the Internet “field trips” done together or done in between meetings. Either way, the material can serve as a springboard for intentional exploration of and experimentation with new ideas and practices. Reciprocal peer observation, where peers doing collaborative professional learning take turns observing each other’s teaching, can also support professional learning in conjunction with the units in this model.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;Professionals coming together for professional learning can be a powerful force for professional growth that improves student learning. Each unit in the module contains readings and activities that can be done between meetings. These readings form the basis for professional discussion and intentional exploration of the issues involved with contextualized instruction.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2045">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1447705920</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2046">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1447705920</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1015">
+        <prevpageid>1006</prevpageid>
+        <nextpageid>1007</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1442112615</timecreated>
+        <timemodified>1449878569</timemodified>
+        <title>Self-Assessments</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Throughout this module, you will see various assessments.  &lt;/span&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Sometimes these assessments take the form of a true/false quiz, like the self-assessment shown below. At other times, an assessment will ask you to compare your knowledge before and after you complete a unit.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong style="font-size: medium; line-height: 1.231;"&gt;Instructions:&lt;/strong&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt; Consider if the following statements are true or false. &lt;span&gt;(If your browser is not displaying the responses, click on each feature for more information.)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;span&gt;Discuss these considerations with your peers when you have a chance to meet face to face or online.  &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;span style="font-size: medium;"&gt;1. Teaching life skills is one example of contextualized instruction.&lt;/span&gt; &lt;/summary&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;br /&gt;True. Any effort can be contextualized as long as you use authentic materials and link what’s taught to the language and literacy demands outside of the classroom. However, when we talk about connecting ESL to career pathways, contextualization refers to teaching students the knowledge and skills they need to succeed in training and preparing for jobs that pay a family-sustaining wage.&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;span style="font-size: medium;"&gt;2. Students need to be at an advanced level before they can participate in work or career preparation classes. &lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;br /&gt;False. A number of programs have infused knowledge about careers into the lower English Language Acquisition levels and are teaching language associated with a specific career path, such as health, information technologies, or basic manufacturing, to high beginners. These programs start with learner experiences and use visual materials to illustrate ideas and show examples. Students often work in pairs or small groups and help one another while the teacher circulates and offers English vocabulary on an as-needed basis.&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;span style="font-size: medium;"&gt;3. Most immigrants and refugees not yet proficient in English are working.&lt;/span&gt; &lt;/summary&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;br /&gt;True. Most immigrants and refugees are working, but most work in low-wage jobs. And a majority of these jobs are not tied to a career ladder. In many cases, individuals work two or three jobs to make ends meet. Helping students build the skills necessary for them to access occupational training and earn a certificate is one way to help families move out of poverty.&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;span style="font-size: medium;"&gt;4. Instructional strategies for teaching ELA in the context of work and training are totally different from other ELA strategies.&lt;/span&gt; &lt;/summary&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;br /&gt;False. Many of the strategies effective in teaching language and literacy can be adapted to classes contextualized for career pathways. The context for instruction and the skills emphasis shifts, but the teaching approach per se does not. In both cases increasing rigor can help prepare students for the demands of the modern world. For more information on increasing rigor in teaching ELLs, see Module 1.&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;span style="font-size: medium;"&gt;5. One of the most effective models for integrating ELA with occupational skills is co-teaching, involving both an ELA and a technical instructor.&lt;/span&gt; &lt;/summary&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;br /&gt;True. Models that integrate language and literacy skills instruction through coteaching are an effective way to help students get the skills they need for good jobs. The I-BEST model in Washington State has research to that effect. However, other approaches such as contextualizing ELA for career pathways, providing ELA at the worksite, and offering concurrent enrollment in a technical class and an ELA class also help students to prepare for the future.&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;span style="font-size: medium;"&gt;6. One of the major long-term goals of workforce and career pathway preparation is to help adult learners get “good jobs at good wages.”&lt;/span&gt; &lt;/summary&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;br /&gt;True. A good job at good wages is another way of saying a “family sustaining” or “family supporting” wages. The term job that pays a living wage has a similar meaning. Students who get support in transitioning to technical training in a demand occupation have a good chance to realize their hope for a good job.&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/M3_True_False_Assessment_508.docx" title="True/False Assessment"&gt;Download this assessment&lt;/a&gt; if you would like your own copy.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2027">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442112615</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2028">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442112615</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1014">
+        <prevpageid>1007</prevpageid>
+        <nextpageid>1008</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1443359363</timecreated>
+        <timemodified>1445294520</timemodified>
+        <title>The Challenge</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_0040.mp3"&gt;ELL_Mod3_0040.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;In the past, adult education and workforce training systems have operated in isolation. Now, we see greater collaboration between workforce and adult education programs. The workforce training system funded by the U.S. Department of Labor and the adult basic education/ELA services funded by the U.S. Department of Education work collaboratively and no longer operate in silos. Unit 2 (Program Design) will offer you ideas on how to build partnerships. We will also show you some examples from the field.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Good jobs are hard to find, and many low-skilled adults still learning English have low-wage jobs that offer few opportunities for advancement. As skill demands increase, ELLs have an even lower chance of getting a good job. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Many of the jobs with growth potential require at least some college credits or a certificate in a marketable skill, but most colleges are not prepared to offer career education for students who are only at the middle levels of English proficiency. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This is a problem for beginning-level ELLs who need jobs that can support their families. Many simply do not have the time to persist from beginning levels of ELA through five or more levels to advanced courses. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Read on to consider opportunities you might provide for English learners who are looking to work or hope to advance beyond their current position.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2029">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1443359363</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2030">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1443359363</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1009">
+        <prevpageid>1008</prevpageid>
+        <nextpageid>1010</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1443359823</timecreated>
+        <timemodified>1450904989</timemodified>
+        <title>Ready to Work: ELA Contextualization for Beginners</title>
+        <contents>&lt;p&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_0050.mp3"&gt;ELL_Mod3_0050.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Students in beginning-level ELA classes often have the same dreams as more advanced students—jobs or careers that support their families. They hope for opportunities to build their skills and advance beyond their current level.&lt;/p&gt;
+&lt;p&gt;Students with professional backgrounds may look for a chance to get recertified or at least find professional work in a related field. Even beginning-level classes can have a career focus. Inviting students to tell about their work experiences by drawing sketches can be a good starting point. In this video, Rosanne, a teacher working with displaced workers who only used Spanish at their work in the garment industry, invites her students to draw their first job. They then present their drawings to the entire class. While the students work, Rosanne walks around the room to help them with the English they will need to discuss their first jobs and explain their responsibilities in those jobs.&lt;/p&gt;
+&lt;p&gt;Please keep in mind that, for students who have lost their jobs, talking about their recent employment is often painful. Inviting them to think and talk about their first job is often much safer, since it provides some distance.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" align="right" style="width: 45%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;object width="99%" height="315"&gt;&lt;param name="movie" value="//www.youtube.com/embed/4-myFpaXBxg?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="99%" height="315" src="https://www.youtube.com/v/4-myFpaXBxg?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="font-size: xx-small;"&gt;Copyright Heide Wrigley. Video used with permission.&lt;/span&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;The Internet offers a wealth of resources that can be used to contextualize language acquisition, as shown in the video on this page. Other units include additional videos.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;NOTE: The opinions or endorsements expressed herein do not necessarily reflect the opinions, endorsements, or policies of the U.S. Department of Education. The U.S. Department of Education does not endorse particular products. &lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;What to do:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Watch the video and consider the following questions:&lt;/span&gt;&lt;/p&gt;
+&lt;div&gt;&lt;span style="font-size: medium;"&gt;1.The students appear quite engaged. Why do you think that is?&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: medium;"&gt;2.The students work individually and then present their work. What opportunities do you see for pair or small-group work using the same topic?&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: medium;"&gt;3.The students in this class all have limited formal schooling. Would you extend this class to meet the needs of beginning-level ELLs with higher levels of eduation?&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="font-size: medium;"&gt;4.How might you adapt this approach to your own teaching? Would you use a different approach altogether?&lt;/span&gt;&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2033">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1443359823</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2034">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1443359823</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1010">
+        <prevpageid>1009</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1443359936</timecreated>
+        <timemodified>1447022234</timemodified>
+        <title>Certificate of Completion</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_0060.mp3"&gt;ELL_Mod3_0060.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Thank you for participating. You are now ready to move on to the units themselves. If you are new to English acquisition or aren’t quite sure how career pathways for ELLs fit into the new directions proposed by Workforce Innovation and Opportunity Act, please start with Unit 1: “Understanding Key Concepts.” You can then view the other units in any sequence you like, depending on your interests or the needs of your program.&lt;/p&gt;
+&lt;p&gt;You will find strategies, tools, and ideas in all the units, along with real-life examples from the field.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Certificate.jpg" width="250" height="187" alt="zzzzzzz" style="float: right; margin: 5px;" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;span&gt;This module contains four units; however, completion of all units is not required for a certificate to be issued. You will be eligible to receive a Certificate of Completion at the end of each unit, upon conclusion of the required activities.  &lt;/span&gt;&lt;span&gt;There are no graded activities or tasks for this module. &lt;/span&gt;&lt;span&gt;Please follow the links at the end of the unit to print your certificate upon completing required activities.&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;span style="line-height: 1.231;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54682"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2035">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1443359936</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2036">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1443359936</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1012">
+        <prevpageid>1011</prevpageid>
+        <nextpageid>1013</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445087118</timecreated>
+        <timemodified>1449607331</timemodified>
+        <title>Why Contextualize English Language Acquisition for Career Pathways?</title>
+        <contents>&lt;table border="0" cellpadding="5" cellspacing="5" align="center" style="width: 99%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span id="docs-internal-guid-baf17c63-75e4-790f-991d-c2134ac04901" style="font-size: medium;"&gt;This module responds to the call for innovation in the Workforce Innovation and Opportunity Act of 2014. The act calls for greater collaboration between education and training. For students, gaining the skills needed for employment and training results in greater economic integration. English language acquisition (ELA) programs can play an important role in creating employment-focused programs that serve as pathways to work and skills training.  To learn more about WIOA, visit &lt;a href="http://www2.ed.gov/about/offices/list/ovae/pi/AdultEd/wioa-reauthorization.html"&gt;http://www2.ed.gov/about/offices/list/ovae/pi/AdultEd/wioa-reauthorization.html&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;The Big Idea &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Helping adult learners gain the skills they need to compete in a changing economy is a high priority for business, government, and educational institutions. Instruction that teaches language and literacy skills in the context of work and training meets that goal. To read more, please see &lt;a href="https://www.whitehouse.gov/sites/default/files/docs/skills_report.pdf" title="Article" target="_blank"&gt;&lt;em&gt;Ready To Work: Job-Driven Training and American Opportunity&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_0010.mp3"&gt;ELL_Mod3_0010.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Let’s take a quick look at the focus of the module on Contextualization and then see whom it was designed for. We invite you to take a quick quiz. We will explain why contextualization for work and careers might be important in your work. We will look at both the challenges and possible remedies. We will then show you a video of beginning-level students who are learning the English that they will need to find new jobs or enter training.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2040">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445087118</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2041">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445087118</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1013">
+        <prevpageid>1012</prevpageid>
+        <nextpageid>1004</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649767</timecreated>
+        <timemodified>1449607701</timemodified>
+        <title>Module Overview</title>
+        <contents>&lt;table border="0" cellpadding="5" cellspacing="5" align="left" style="width: 99%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;This module is divided into five separate but closely related components:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This first component, Introduction to Module 3, provides a broad overview of key concepts related to designing and implementing an adult ELA program contextualized for career pathways. The main purpose of this introduction is to outline the why of contextualized ELA instruction.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The four content units provide more detail on the how of implementing various aspects of an effective contextualized program. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;These units should be useful to administrators/program managers and teachers. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td style="background-color: #ffefd5;"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Module 3 Components&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Module Introduction&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 1: Understanding Key Concepts&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 2: Program Design: Issues and Options&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 3: Bright Ideas for Curriculum and Instruction&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 4: Capturing What Counts: Evaluation and Assessment&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2022">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649767</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2042">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649767</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1004">
+        <prevpageid>1013</prevpageid>
+        <nextpageid>1005</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1441649819</timecreated>
+        <timemodified>1447705343</timemodified>
+        <title>Module Focus &amp; Length</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;This module focuses on program options and instructional strategies for changing current adult ELA to better serve English learners preparing for work and training. The module highlights successful teaching strategies and discusses how to adapt contextualization models to meet the needs of English learners. You will learn how to integrate training-related content into your classes and how to capture what students know and what they are learning in your class. Ideas for using a continuous improvement model to build a strong program are included, as well.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Module Length&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Each unit should take about 2 hours to complete. &lt;span&gt;However, each unit offers many opportunities for deeper learning and access to many resources which would take longer to complete if you choose to access these additional opportunities.  &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;span&gt;You can complete the module over time, stopping as often as you’d like.  &lt;strong&gt;&lt;/strong&gt;&lt;span&gt;After a period of inactivity, you will be logged out of the module and will need to login to continue the activities. &lt;/span&gt;Use the checkboxes on the module home page to keep track of the activities you’ve completed. The unit activities are presented in a suggested order of completion.  However, you can complete the unit activities in any order and also return to previously completed activities to review material. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2023">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2024">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1441649819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1008">
+        <prevpageid>1014</prevpageid>
+        <nextpageid>1009</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1443359514</timecreated>
+        <timemodified>0</timemodified>
+        <title>The Remedy</title>
+        <contents>&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Screen%20Shot%202015-09-27%20at%208.10.46%20AM.png" width="396" height="239" alt="" style="float: right; margin: 5px;" /&gt;High-quality, rigorous instruction that reflects the language and literacy demands of work and of specific occupations that are tied to a career pathway &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Programs with contextualized courses built around the knowledge and skills needed in real jobs with growth potential—in other words, in good jobs with good wages&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;An approach that offers opportunities for in-class and out-of-class blended learning, harnessing the power of technology&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Bridge classes that prepare English learners for work or study in a particular career pathway &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Collaboration between adult ELA programs and postsecondary occupational programs offering industry-recognized credentials and marketable certificates&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2031">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1443359514</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2032">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1443359514</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1007">
+        <prevpageid>1015</prevpageid>
+        <nextpageid>1014</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1445294464</timecreated>
+        <timemodified>1475163895</timemodified>
+        <title>Why Contextualization Matters</title>
+        <contents>&lt;p style="text-align: center;"&gt;&lt;em&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: medium;"&gt;Contextualization: linking basic skills with job skills preparation&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod3_0030.mp3"&gt;ELL_Mod3_0030.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Contextualization, defined as “linking basic skills with job skills preparation,” is a fairly recent trend that is taking hold across the United States. The approach is still relatively new to adult education, but several adult ELA programs have formed partnerships with training providers. In the next few slides, you will learn how contextualization programs can benefit ELLs in the workforce.&lt;/p&gt;
+&lt;p&gt;There are several good resources in the field to guide your thinking. Throughout the course, we will suggest briefs, videos, and articles for you to consult. Here is one example: If you want to learn more about the importance of connecting adult ELA with job skills training, you can download a short brief titled “The Language of Opportunity: Expanding the Employment Prospects of Adults With Limited English Skills.”&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Context_Instruction_508.pdf" title="Issue Brief"&gt;Issue Brief&lt;/a&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2043">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445294464</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2044">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1445294464</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>
